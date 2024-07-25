@@ -1,0 +1,2336 @@
+[
+  {
+    "title": "Pega em 6!",
+    "price": "R$ 116,20",
+    "image": "pega_em_6__cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/6-nimmt-25-jahre",
+    "players": "2 a 10 jogadores",
+    "age": "8 +",
+    "duration": "45 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "pega_em_6__cover.jpg",
+      "pega_em_6__1.jpg",
+      "pega_em_6__2.jpg",
+      "pega_em_6__3.jpg",
+      "pega_em_6__4.jpg",
+      "pega_em_6__5.jpg",
+      "pega_em_6__6.jpg"
+    ],
+    "description": "Em Pega em 6!, você deve marcar o mínimo de pontos possível.\n\nCada jogador recebe 10 cartas e na sua vez, escolhe, revela e posiciona uma delas em uma das quatro fileiras da mesa. Se incluir a sexta carta, ele deve pegar as cinco primeiras. Seu objetivo é evitar pegar cartas pois cada uma que você pega rende pontos negativos!\n\nA dinâmica do jogo muda à medida que mais jogadores participam, colocando cartas em cada uma das fileiras e pegando todas quando o limite de 5 for alcançado.\n\nA edição comemorativa de 25 Anos inclui 28 cartas adicionais, para uma nova forma de jogar, que permite abrir novas fileiras, mover e inserir cartas, aumentar os limites ou ainda bloquear as fileiras.\n\nTome muito cuidado para não pegar nenhum boi pelo caminho! Um jogo para toda a família e todas as idades.\n\nDo renomado autor Wolfgang Kramer, Pega em 6! venceu inúmeros prêmios ao longo de 25 anos, tornou-se um clássico e vendeu 4 milhões de cópias em mais de 50 países.\n\n**** PRÊMIOS E INDICAÇÕES\n\n*****************************************************************\n\n2020 - Finalista do Prêmio Ludopedia - Jogo Família do Ano - Voto Popular\n\n*****************************************************************\n\n2008 - Finalista do Prêmio Juego del Año - Jogo do Ano - Espanha\n\n2006 - Indicado ao Prêmio Japan Boardgame Prize - Jogo do Ano - Japão\n\n2005 - Indicado ao Prêmio Hra roku - Jogo do Ano - República Tcheca\n\n1996 - Vencedor do Prêmio Mensa Select – Jogo do Ano - Estados Unidos\n\n1994 - Vencedor do Prêmio Deutscher Spiele Preis - Melhor Jogo Familiar - Alemanha\n\n1994 - Vencedor do Prêmio À la carte - Jogo do Ano - Alemanha\n\n1994 - Recomendado do Prêmio Spiel des Jahres - Alemanha",
+    "paragraphs": [
+      "Em Pega em 6!, você deve marcar o mínimo de pontos possível.",
+      "Cada jogador recebe 10 cartas e na sua vez, escolhe, revela e posiciona uma delas em uma das quatro fileiras da mesa. Se incluir a sexta carta, ele deve pegar as cinco primeiras. Seu objetivo é evitar pegar cartas pois cada uma que você pega rende pontos negativos!",
+      "A dinâmica do jogo muda à medida que mais jogadores participam, colocando cartas em cada uma das fileiras e pegando todas quando o limite de 5 for alcançado.",
+      "A edição comemorativa de 25 Anos inclui 28 cartas adicionais, para uma nova forma de jogar, que permite abrir novas fileiras, mover e inserir cartas, aumentar os limites ou ainda bloquear as fileiras.",
+      "Tome muito cuidado para não pegar nenhum boi pelo caminho! Um jogo para toda a família e todas as idades.",
+      "Do renomado autor Wolfgang Kramer, Pega em 6! venceu inúmeros prêmios ao longo de 25 anos, tornou-se um clássico e vendeu 4 milhões de cópias em mais de 50 países.",
+      "**** PRÊMIOS E INDICAÇÕES",
+      "*****************************************************************",
+      "2020 - Finalista do Prêmio Ludopedia - Jogo Família do Ano - Voto Popular",
+      "*****************************************************************",
+      "2008 - Finalista do Prêmio Juego del Año - Jogo do Ano - Espanha",
+      "2006 - Indicado ao Prêmio Japan Boardgame Prize - Jogo do Ano - Japão",
+      "2005 - Indicado ao Prêmio Hra roku - Jogo do Ano - República Tcheca",
+      "1996 - Vencedor do Prêmio Mensa Select – Jogo do Ano - Estados Unidos",
+      "1994 - Vencedor do Prêmio Deutscher Spiele Preis - Melhor Jogo Familiar - Alemanha",
+      "1994 - Vencedor do Prêmio À la carte - Jogo do Ano - Alemanha",
+      "1994 - Recomendado do Prêmio Spiel des Jahres - Alemanha"
+    ],
+    "components": "- 132 Cartas\n- 1 Bloco de Pontuação\n- Manual de Regras",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/6-nimmt-25-jahre/anexos/166726",
+      "https://ludopedia.com.br/usuario/Daniela%20e%20Versol",
+      "https://ludopedia.com.br/jogo/6-nimmt-25-jahre/anexos/166725",
+      "https://ludopedia.com.br/usuario/Daniela%20e%20Versol",
+      "https://ludopedia.com.br/jogo/6-nimmt-25-jahre/anexos/166724",
+      "https://ludopedia.com.br/usuario/Daniela%20e%20Versol",
+      "https://ludopedia.com.br/jogo/6-nimmt-25-jahre/anexos/149360",
+      "https://ludopedia.com.br/usuario/papergames",
+      "https://ludopedia.com.br/jogo/6-nimmt-25-jahre/anexos/90134",
+      "https://ludopedia.com.br/usuario/lgt85"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Bohnanza: Por um Punhado de Feijões!",
+    "price": "R$ 117,33",
+    "image": "bohnanza__por_um_punhado_de_feij_es__cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/bohnanza",
+    "players": "3 a 5 jogadores",
+    "age": "14 +",
+    "duration": "45 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "bohnanza__por_um_punhado_de_feij_es__cover.jpg",
+      "bohnanza__por_um_punhado_de_feij_es__1.jpg",
+      "bohnanza__por_um_punhado_de_feij_es__2.jpg",
+      "bohnanza__por_um_punhado_de_feij_es__3.jpg",
+      "bohnanza__por_um_punhado_de_feij_es__4.jpg",
+      "bohnanza__por_um_punhado_de_feij_es__5.jpg",
+      "bohnanza__por_um_punhado_de_feij_es__6.jpg"
+    ],
+    "description": "Cultivar feijões nunca foi tão divertido! Em Bohnanza, você tem dois ou três campos e um punhado de cartas de feijão para plantar. O espaço para cultivo é limitado e a toda hora chegam novas sementes para plantar.\n\nA regra fundamental do jogo é que você deve plantar os feijões da sua mão na ordem que você os recebeu! Você não pode alterar sua mão de cartas! Para evitar plantar feijões indesejados, faça trocas com outros jogadores, procurando conseguir os que deseja, oferecendo os que eles tenham interesse para seus próprios campos. Trocando com esperteza, você consegue as cartas que quiser sem ajudar demais os outros jogadores.\n\nAlém de plantar, você irá colher suas plantações e vender seus feijões! Quanto mais feijões de um mesmo tipo forem vendidos, maior será o seu lucro.\n\nNo final do jogo, o jogador com mais dinheiro é o vencedor!\n\n____________________________________\n\n** PONTOS CHAVE\n\n- ESTRATÉGIA E NEGOCIAÇÃO NO MUNDO DOS FEIJÕES! Bohnanza tem como essência a arte da negociação, mesclando habilmente táticas de plantio e colheita com a troca entre participantes, em um jogo onde cada decisão pode virar o jogo.\n\n- MECÂNICA INUSITADA DE CARTAS! Você não pode alterar a ordem das cartas na sua mão! Essa mecânica adiciona uma camada extra de estratégia à forma de como você joga e negocia.\n\n- PLANTE E COLHA, MAS COM ESTRATÉGIA! Cada turno é uma oportunidade de trocar e negociar com os outros jogadores. Plante feijões no seu campo e colha-os para ganhar moedas de ouro. Mas fique atento, o espaço é limitado e escolhas difíceis terão que ser feitas!\n\n- UM CLÁSSICO ATEMPORAL DE UWE ROSENBERG! Criado pelo renomado designer internacional, Bohnanza é uma das primeiras obras-primas de Rosenberg que lançou sua fama mundialmente. Desde 1997, segue conquistando jogadores e mantendo-se como um best-seller no mundo dos jogos de cartas.\n\n- PARA TODAS AS IDADES E NÍVEIS DE EXPERIÊNCIA! Bohnanza é fácil de aprender e tem profundidade estratégica que agrada desde jogadores novatos até os mais experientes.\n\n____________________________________\n\n** PRÊMIOS E INDICAÇÕES\n\n2007 - Finalista do Prêmio \"Juego del Año\" (Jogo do Ano) - Espanha\n\n2005 - Indicado ao Prêmio \"Vuoden Peli Adult Game of the Year\" (Jogo do Ano Adulto) - Finlândia\n\n2003 - Indicado ao Prêmio \"Nederlandse Spellenprijs\" (Jogo do Ano) - Holanda\n\n1999 - Vencedor do Prêmio \"Best Family Card Game\" (Melhor Jogo de Cartas Familiar) - Games Magazine - EUA\n\n1997 - Recomendado pelo Júri - Prêmio \"Spiel des Jahres\" (Jogo do Ano) - Alemanha\n\n1997 - Vencedor do Prêmio \"Meeples' Choice Award\" (Jogo do Ano) - Estados Unidos\n\n1997 - Vencedor do Prêmio \"A la carte\" - Melhor Jogo - Fairplay Magazine – Alemanha",
+    "paragraphs": [
+      "Cultivar feijões nunca foi tão divertido! Em Bohnanza, você tem dois ou três campos e um punhado de cartas de feijão para plantar. O espaço para cultivo é limitado e a toda hora chegam novas sementes para plantar.",
+      "A regra fundamental do jogo é que você deve plantar os feijões da sua mão na ordem que você os recebeu! Você não pode alterar sua mão de cartas! Para evitar plantar feijões indesejados, faça trocas com outros jogadores, procurando conseguir os que deseja, oferecendo os que eles tenham interesse para seus próprios campos. Trocando com esperteza, você consegue as cartas que quiser sem ajudar demais os outros jogadores.",
+      "Além de plantar, você irá colher suas plantações e vender seus feijões! Quanto mais feijões de um mesmo tipo forem vendidos, maior será o seu lucro.",
+      "No final do jogo, o jogador com mais dinheiro é o vencedor!",
+      "____________________________________",
+      "** PONTOS CHAVE",
+      "- ESTRATÉGIA E NEGOCIAÇÃO NO MUNDO DOS FEIJÕES! Bohnanza tem como essência a arte da negociação, mesclando habilmente táticas de plantio e colheita com a troca entre participantes, em um jogo onde cada decisão pode virar o jogo.",
+      "- MECÂNICA INUSITADA DE CARTAS! Você não pode alterar a ordem das cartas na sua mão! Essa mecânica adiciona uma camada extra de estratégia à forma de como você joga e negocia.",
+      "- PLANTE E COLHA, MAS COM ESTRATÉGIA! Cada turno é uma oportunidade de trocar e negociar com os outros jogadores. Plante feijões no seu campo e colha-os para ganhar moedas de ouro. Mas fique atento, o espaço é limitado e escolhas difíceis terão que ser feitas!",
+      "- UM CLÁSSICO ATEMPORAL DE UWE ROSENBERG! Criado pelo renomado designer internacional, Bohnanza é uma das primeiras obras-primas de Rosenberg que lançou sua fama mundialmente. Desde 1997, segue conquistando jogadores e mantendo-se como um best-seller no mundo dos jogos de cartas.",
+      "- PARA TODAS AS IDADES E NÍVEIS DE EXPERIÊNCIA! Bohnanza é fácil de aprender e tem profundidade estratégica que agrada desde jogadores novatos até os mais experientes.",
+      "____________________________________",
+      "** PRÊMIOS E INDICAÇÕES",
+      "2007 - Finalista do Prêmio \"Juego del Año\" (Jogo do Ano) - Espanha",
+      "2005 - Indicado ao Prêmio \"Vuoden Peli Adult Game of the Year\" (Jogo do Ano Adulto) - Finlândia",
+      "2003 - Indicado ao Prêmio \"Nederlandse Spellenprijs\" (Jogo do Ano) - Holanda",
+      "1999 - Vencedor do Prêmio \"Best Family Card Game\" (Melhor Jogo de Cartas Familiar) - Games Magazine - EUA",
+      "1997 - Recomendado pelo Júri - Prêmio \"Spiel des Jahres\" (Jogo do Ano) - Alemanha",
+      "1997 - Vencedor do Prêmio \"Meeples' Choice Award\" (Jogo do Ano) - Estados Unidos",
+      "1997 - Vencedor do Prêmio \"A la carte\" - Melhor Jogo - Fairplay Magazine – Alemanha"
+    ],
+    "components": "110 cartas, sendo:\n- 104 Cartas de Feijão\n- 5 Cartas de Ajuda ao Jogador\n- 1 Carta de Jogador Inicial\n5 Campos de Plantação – Frente e Verso (17 x 10 cm)\nFolheto de Regras",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/bohnanza/anexos/267504",
+      "https://ludopedia.com.br/usuario/MarceloJames",
+      "https://ludopedia.com.br/jogo/bohnanza/anexos/145428",
+      "https://ludopedia.com.br/usuario/RafaelG76",
+      "https://ludopedia.com.br/jogo/bohnanza/anexos/92056",
+      "https://ludopedia.com.br/usuario/papergames",
+      "https://ludopedia.com.br/jogo/bohnanza/anexos/85230",
+      "https://ludopedia.com.br/usuario/NerdHolic",
+      "https://ludopedia.com.br/jogo/bohnanza/anexos/74238",
+      "https://ludopedia.com.br/usuario/lgt85"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Sequence",
+    "price": "R$ 122,95",
+    "image": "sequence_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/sequence",
+    "players": "2 a 12 jogadores",
+    "age": "7 +",
+    "duration": "10 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "sequence_cover.jpg",
+      "sequence_1.jpg",
+      "sequence_2.jpg",
+      "sequence_3.jpg",
+      "sequence_4.jpg",
+      "sequence_5.jpg",
+      "sequence_6.jpg"
+    ],
+    "description": "Sequence é um jogo de tabuleiro e de cartas. O tabuleiro mostra todas as cartas (exceto os valetes) de 2 (dois) baralhos de 52 cartas padrão, estabelecidas em um padrão de 10 x 10. Os quatro cantos são espaços livres e contam para todos os jogadores de forma igual.\n\nOs jogadores competem para criar linhas, colunas ou diagonais de 5 damas ligadas e colocadas sobre as cartas que o jogador tenha estabelecido. Valetes de dois olhos são selvagens, enquanto Valetes de um olho só permitem verificar se um marcador do oponente pode ser removido. O jogo termina quando alguém tenha atingido um determinado número de ligações.",
+    "paragraphs": [
+      "Sequence é um jogo de tabuleiro e de cartas. O tabuleiro mostra todas as cartas (exceto os valetes) de 2 (dois) baralhos de 52 cartas padrão, estabelecidas em um padrão de 10 x 10. Os quatro cantos são espaços livres e contam para todos os jogadores de forma igual.",
+      "Os jogadores competem para criar linhas, colunas ou diagonais de 5 damas ligadas e colocadas sobre as cartas que o jogador tenha estabelecido. Valetes de dois olhos são selvagens, enquanto Valetes de um olho só permitem verificar se um marcador do oponente pode ser removido. O jogo termina quando alguém tenha atingido um determinado número de ligações."
+    ],
+    "components": "Tabuleiro;\nManual de Instruções;\n104 Cartas;\n35 Fichas Vermelhas;\n50 Fichas Azuis;\n50 Fichas Verdes",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/sequence/anexos/170476",
+      "https://ludopedia.com.br/usuario/sansao"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Wizard",
+    "price": "R$ 85,93",
+    "image": "wizard_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/wizard",
+    "players": "3 a 6 jogadores",
+    "age": "10 +",
+    "duration": "45 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "wizard_cover.jpg",
+      "wizard_1.jpg",
+      "wizard_2.jpg",
+      "wizard_3.jpg",
+      "wizard_4.jpg",
+      "wizard_5.jpg",
+      "wizard_6.jpg"
+    ],
+    "description": "Neste mágico jogo de cartas, como um aprendiz de feiticeiro, você deve utilizar seus dons e adivinhar seus resultados nas rodadas.\n\nAnalise suas cartas e preveja quantas vezes você ganhará. Rodada após rodada, o desafio aumenta à medida que você joga com mais e mais cartas. Aquele que acertar sua previsão marca pontos positivos, caso contrário, pontos negativos.\n\nFaça as previsões corretas e mostre a todos quem é o mais sábio aprendiz de feiticeiro.\n\nA edição de 25 anos expande as possibilidades com 7 novas cartas especiais: o Dragão, a Fada, o Lobisomem, o Malabarista, a Bomba, a Nuvem e o Metamorfo.\n\nDerrote seus oponentes com seu dom da profecia!\n\n## MAIS SOBRE O JOGO\n\n- WIZARD é um JOGO CLÁSSICO com MILHÕES DE CÓPIAS VENDIDAS no mundo todo, onde jogadores buscam se tornar o melhor aprendiz de feiticeiro!\n\n- USE O DOM DA PROFECIA e preveja seus resultados para acumular pontos. Aquele que acertar sua previsão marca pontos positivos, caso contrário, pontos negativos.\n\n- A EDIÇÃO ESPECIAL DE 25 ANOS inclui 7 novas cartas que expandem a experiência do jogo original.\n\n- QUATRO VARIANTES AVANÇADAS para jogadores experientes que estão a busca de mais desafios!\n\n- UMA VERDADEIRA FEBRE entre jogos de cartas CLÁSSICOS, atraindo milhões de jogadores há mais de DUAS DÉCADAS.",
+    "paragraphs": [
+      "Neste mágico jogo de cartas, como um aprendiz de feiticeiro, você deve utilizar seus dons e adivinhar seus resultados nas rodadas.",
+      "Analise suas cartas e preveja quantas vezes você ganhará. Rodada após rodada, o desafio aumenta à medida que você joga com mais e mais cartas. Aquele que acertar sua previsão marca pontos positivos, caso contrário, pontos negativos.",
+      "Faça as previsões corretas e mostre a todos quem é o mais sábio aprendiz de feiticeiro.",
+      "A edição de 25 anos expande as possibilidades com 7 novas cartas especiais: o Dragão, a Fada, o Lobisomem, o Malabarista, a Bomba, a Nuvem e o Metamorfo.",
+      "Derrote seus oponentes com seu dom da profecia!",
+      "## MAIS SOBRE O JOGO",
+      "- WIZARD é um JOGO CLÁSSICO com MILHÕES DE CÓPIAS VENDIDAS no mundo todo, onde jogadores buscam se tornar o melhor aprendiz de feiticeiro!",
+      "- USE O DOM DA PROFECIA e preveja seus resultados para acumular pontos. Aquele que acertar sua previsão marca pontos positivos, caso contrário, pontos negativos.",
+      "- A EDIÇÃO ESPECIAL DE 25 ANOS inclui 7 novas cartas que expandem a experiência do jogo original.",
+      "- QUATRO VARIANTES AVANÇADAS para jogadores experientes que estão a busca de mais desafios!",
+      "- UMA VERDADEIRA FEBRE entre jogos de cartas CLÁSSICOS, atraindo milhões de jogadores há mais de DUAS DÉCADAS."
+    ],
+    "components": "- 60 Cartas do Jogo Base\n- 1 Carta de Símbolos\n- 7 Cartas Especiais da Edição de 25 Anos\n- Livreto de Regras",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/wizard/anexos/241186",
+      "https://ludopedia.com.br/usuario/MVMVasconcelos",
+      "https://ludopedia.com.br/jogo/wizard/anexos/231466",
+      "https://ludopedia.com.br/usuario/reuryson",
+      "https://ludopedia.com.br/jogo/wizard/anexos/228378",
+      "https://ludopedia.com.br/usuario/papergames",
+      "https://ludopedia.com.br/jogo/wizard/anexos/90133",
+      "https://ludopedia.com.br/usuario/lgt85",
+      "https://ludopedia.com.br/jogo/wizard/anexos/70681",
+      "https://ludopedia.com.br/usuario/DiegoBard"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Pokémon TCG",
+    "price": "R$ 121,52",
+    "image": "pok_mon_tcg_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/pokemon-trading-card-game",
+    "players": "2 a 4 jogadores",
+    "age": "7 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "pok_mon_tcg_cover.jpg",
+      "pok_mon_tcg_1.jpg",
+      "pok_mon_tcg_2.jpg",
+      "pok_mon_tcg_3.jpg",
+      "pok_mon_tcg_4.jpg",
+      "pok_mon_tcg_5.jpg",
+      "pok_mon_tcg_6.jpg"
+    ],
+    "description": "Pokémon é um dos vários jogos de cartas colecionáveis baseados em games que encontraram sucesso no âmbito internacional, e é um dos mais longos CCGs sobreviventes atualmente disponíveis.\n\nO objetivo do jogo é jogar as cartas Pokémon, para lutar uns contra os outros. O primeiro jogador a comprar seis cartas prêmio, ganhas nocauteando Pokémon adversários, ganha o jogo. Você joga com um baralho de sessenta cartas que representam seus Pokémon, assim como cartas de instrutor, de Energia, de ferramenta, estádio etc. Cartas de Treinador afetam o jogo, jogadores ou Pokémon de maneiras diferentes, a maioria deles de forma temporário, enquanto as cartas de Energia agem como os recursos do jogo.",
+    "paragraphs": [
+      "Pokémon é um dos vários jogos de cartas colecionáveis baseados em games que encontraram sucesso no âmbito internacional, e é um dos mais longos CCGs sobreviventes atualmente disponíveis.",
+      "O objetivo do jogo é jogar as cartas Pokémon, para lutar uns contra os outros. O primeiro jogador a comprar seis cartas prêmio, ganhas nocauteando Pokémon adversários, ganha o jogo. Você joga com um baralho de sessenta cartas que representam seus Pokémon, assim como cartas de instrutor, de Energia, de ferramenta, estádio etc. Cartas de Treinador afetam o jogo, jogadores ou Pokémon de maneiras diferentes, a maioria deles de forma temporário, enquanto as cartas de Energia agem como os recursos do jogo."
+    ],
+    "components": "Cartas, dados, moedas e marcadores.",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/pokemon-trading-card-game/anexos/215282",
+      "https://ludopedia.com.br/usuario/APonce911",
+      "https://ludopedia.com.br/jogo/pokemon-trading-card-game/anexos/129004",
+      "https://ludopedia.com.br/usuario/AleMelo"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Set",
+    "price": "R$ 67,47",
+    "image": "set_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/set",
+    "players": "2 a 20 jogadores",
+    "age": "6 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "set_cover.jpg",
+      "set_1.jpg",
+      "set_2.jpg",
+      "set_3.jpg",
+      "set_4.jpg",
+      "set_5.jpg",
+      "set_6.jpg"
+    ],
+    "description": "O jogo Set é um dos mais premiados jogos de cartas de todos os tempos. Um jogo dinâmico onde a percepção visual dos jogadores é testada a todo o momento. Quem encontrar o maior número de conjuntos vence este desafio!",
+    "paragraphs": [
+      "O jogo Set é um dos mais premiados jogos de cartas de todos os tempos. Um jogo dinâmico onde a percepção visual dos jogadores é testada a todo o momento. Quem encontrar o maior número de conjuntos vence este desafio!"
+    ],
+    "components": "81 cartas\n1 regra",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/set/anexos/142353",
+      "https://ludopedia.com.br/usuario/aitojr",
+      "https://ludopedia.com.br/jogo/set/anexos/118327",
+      "https://ludopedia.com.br/usuario/Derfell"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Monopoly: Deal Jogo de Cartas",
+    "price": "R$ 102,75",
+    "image": "monopoly__deal_jogo_de_cartas_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/monopoly-deal-card-game",
+    "players": "2 a 5 jogadores",
+    "age": "8 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "monopoly__deal_jogo_de_cartas_cover.jpg",
+      "monopoly__deal_jogo_de_cartas_1.jpg",
+      "monopoly__deal_jogo_de_cartas_2.jpg",
+      "monopoly__deal_jogo_de_cartas_3.jpg",
+      "monopoly__deal_jogo_de_cartas_4.jpg",
+      "monopoly__deal_jogo_de_cartas_5.jpg",
+      "monopoly__deal_jogo_de_cartas_6.jpg"
+    ],
+    "description": "(da Caixa):\n\nO jogo de cartas rápido e viciante onde sua sorte pode mudar ao jogar uma carta! Colete 3 conjuntos completos de propriedades, mas cuidado com Cobradores de Dívidas, Acordos Forçados e os temidos Deal Breakers, que podem mudar sua sorte a qualquer momento!\n\nMONOPOLY DEAL - o jogo de cartas onde tudo pode acontecer!\n\nComo ganhar: Seja o primeiro jogador a coletar 3 três conjuntos completos de propriedades de cores diferentes.\n\nAs cartas:\n\nAs Cartas de Ação podem ser jogadas para iniciar a ação impressa na carta ou podem ser usadas como dinheiro no valor indicado nos cantos superior esquerdo e inferior direito.\n\nCartas de propriedade, algumas denotam uma propriedade específica e outras são selvagens. Apresentam o nome do imóvel, conjunto a que pertencem (ou em que conjuntos podem ser utilizados), custos de aluguer, número de imóveis do seu conjunto e o seu valor quando utilizados para efetuar pagamentos.\n\nCartões Casa/Hotel podem ser usados para aumentar o custo do aluguel de um conjunto de propriedades. Eles também têm um valor monetário para uso em pagamentos.\n\nCartões de dinheiro são usados para fazer pagamentos.\n\nJogar:\n\nCompre duas cartas da pilha de compras ou, se começar o turno sem nenhuma carta, compre cinco.\n\nJogue até três cartas de sua mão viradas para cima como: dinheiro em seu banco, propriedades ou melhorias em sua coleção ou ações. As cartas de ação permitem que você receba aluguel, receba dinheiro, tire propriedades de outras pessoas ou cancele outra ação. Os cartões colocados no seu banco só podem ser usados como dinheiro. Quando você deve efetuar um pagamento, pode usar dinheiro do seu banco ou propriedades e melhorias em sua coleção, mas não cartões em sua mão.\n\nDescarte cartas acima de sete de sua mão para o fundo da pilha de compras.\n\nVença anunciando-o na sua vez quando tiver três conjuntos completos de propriedades de cores diferentes. Isso encerra o jogo.\n\nNão deve ser confundido com Monopoly Deal, uma versão 'lite' do mesmo jogo que saiu em 2014.",
+    "paragraphs": [
+      "(da Caixa):",
+      "O jogo de cartas rápido e viciante onde sua sorte pode mudar ao jogar uma carta! Colete 3 conjuntos completos de propriedades, mas cuidado com Cobradores de Dívidas, Acordos Forçados e os temidos Deal Breakers, que podem mudar sua sorte a qualquer momento!",
+      "MONOPOLY DEAL - o jogo de cartas onde tudo pode acontecer!",
+      "Como ganhar: Seja o primeiro jogador a coletar 3 três conjuntos completos de propriedades de cores diferentes.",
+      "As cartas:",
+      "As Cartas de Ação podem ser jogadas para iniciar a ação impressa na carta ou podem ser usadas como dinheiro no valor indicado nos cantos superior esquerdo e inferior direito.",
+      "Cartas de propriedade, algumas denotam uma propriedade específica e outras são selvagens. Apresentam o nome do imóvel, conjunto a que pertencem (ou em que conjuntos podem ser utilizados), custos de aluguer, número de imóveis do seu conjunto e o seu valor quando utilizados para efetuar pagamentos.",
+      "Cartões Casa/Hotel podem ser usados para aumentar o custo do aluguel de um conjunto de propriedades. Eles também têm um valor monetário para uso em pagamentos.",
+      "Cartões de dinheiro são usados para fazer pagamentos.",
+      "Jogar:",
+      "Compre duas cartas da pilha de compras ou, se começar o turno sem nenhuma carta, compre cinco.",
+      "Jogue até três cartas de sua mão viradas para cima como: dinheiro em seu banco, propriedades ou melhorias em sua coleção ou ações. As cartas de ação permitem que você receba aluguel, receba dinheiro, tire propriedades de outras pessoas ou cancele outra ação. Os cartões colocados no seu banco só podem ser usados como dinheiro. Quando você deve efetuar um pagamento, pode usar dinheiro do seu banco ou propriedades e melhorias em sua coleção, mas não cartões em sua mão.",
+      "Descarte cartas acima de sete de sua mão para o fundo da pilha de compras.",
+      "Vença anunciando-o na sua vez quando tiver três conjuntos completos de propriedades de cores diferentes. Isso encerra o jogo.",
+      "Não deve ser confundido com Monopoly Deal, uma versão 'lite' do mesmo jogo que saiu em 2014."
+    ],
+    "components": "1 Manual de regras\n4 Cartas com regras\n28 Cartas de títulos de posse\n11 Curingas\n34 Cartas de ação\n13 Cartas de Aluguel\n20 Cartas de dinheiro\nTOTAL: 110 cartas (56mmX84mm)",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/monopoly-deal-card-game/anexos/262719",
+      "https://ludopedia.com.br/usuario/Roger%20Hegar",
+      "https://ludopedia.com.br/jogo/monopoly-deal-card-game/anexos/243527",
+      "https://ludopedia.com.br/usuario/Highwind",
+      "https://ludopedia.com.br/jogo/monopoly-deal-card-game/anexos/243427",
+      "https://ludopedia.com.br/usuario/Highwind",
+      "https://ludopedia.com.br/jogo/monopoly-deal-card-game/anexos/219090",
+      "https://ludopedia.com.br/usuario/p4ul0_f3rn4nd0",
+      "https://ludopedia.com.br/jogo/monopoly-deal-card-game/anexos/173497",
+      "https://ludopedia.com.br/usuario/msvj"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Halli Galli",
+    "price": "R$ 123,70",
+    "image": "halli_galli_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/halli-galli",
+    "players": "2 a 6 jogadores",
+    "age": "6 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "halli_galli_cover.jpg",
+      "halli_galli_1.jpg",
+      "halli_galli_2.jpg",
+      "halli_galli_3.jpg",
+      "halli_galli_4.jpg",
+      "halli_galli_5.jpg",
+      "halli_galli_6.jpg"
+    ],
+    "description": "Em Halli Galli, temos uma grande salada de frutas com bananas, morangos, limões e ameixas. Os jogadores recebem cartas que mostram esses 4 tipos de frutas, em grupos de 1 a 5.\n\nCada jogador revela uma carta do seu baralho por vez e, à medida que cada carta é revelada, no instante em que você perceber um total de 5 frutas iguais na mesa, toque a sineta! Se estiver correto, você recebe todas as cartas jogadas, senão você paga uma carta aos outros jogadores. Quem tiver mais cartas no final, vence!\n\nHalli Galli é diversão garantida para todas as idades há mais de 30 anos! Um jogo rápido, de observação e velocidade, do premiado autor Haim Shafir, criador do Speed Cups.",
+    "paragraphs": [
+      "Em Halli Galli, temos uma grande salada de frutas com bananas, morangos, limões e ameixas. Os jogadores recebem cartas que mostram esses 4 tipos de frutas, em grupos de 1 a 5.",
+      "Cada jogador revela uma carta do seu baralho por vez e, à medida que cada carta é revelada, no instante em que você perceber um total de 5 frutas iguais na mesa, toque a sineta! Se estiver correto, você recebe todas as cartas jogadas, senão você paga uma carta aos outros jogadores. Quem tiver mais cartas no final, vence!",
+      "Halli Galli é diversão garantida para todas as idades há mais de 30 anos! Um jogo rápido, de observação e velocidade, do premiado autor Haim Shafir, criador do Speed Cups."
+    ],
+    "components": "- 56 Cartas (56 x 87 mm)\n- 1 Sineta\n- Folheto de Regras",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/halli-galli/anexos/183946",
+      "https://ludopedia.com.br/usuario/papergames",
+      "https://ludopedia.com.br/jogo/halli-galli/anexos/176558",
+      "https://ludopedia.com.br/usuario/alex2306"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Jogos de Baralho",
+    "price": "No price info",
+    "image": "jogos_de_baralho_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/jogos-de-baralho",
+    "players": "2 a 8 jogadores",
+    "age": "10 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "jogos_de_baralho_cover.jpg",
+      "jogos_de_baralho_1.jpg",
+      "jogos_de_baralho_2.jpg",
+      "jogos_de_baralho_3.jpg",
+      "jogos_de_baralho_4.jpg",
+      "jogos_de_baralho_5.jpg",
+      "jogos_de_baralho_6.jpg"
+    ],
+    "description": "Embora haja indícios de que os jogos de cartas teriam surgido na China juntamente com o papel, há outros que apontam uma origem árabe. De qualquer modo, o baralho foi introduzido na Europa durante o século XIV. E a partir do século XV, o desenvolvimento dos processos de impressão e de fabricação de papel propiciou a popularização do baralho em vários países.\n\nEm meados do século XV surgiu em Portugal um tipo de baralho, cuja origem se desconhece e cujo desenho passou a ser conhecido por baralho português. Este baralho difundiu-se pelo Oriente, levado pelos navios portugueses, sendo mais tarde imitado e adaptado à sua própria cultura, por japoneses, indonésios e indianos. O padrão português acabou por se extinguir em finais do século XIX, em detrimento do padrão francês, universalmente aceito na atualidade.\n\nApesar desta existência antiga, as cartas do baralho português só foram fabricadas em Portugal a partir de 1769, quando foi criada a Real Fábrica de Cartas de Jogar de Lisboa, anexa à Impressão Régia.\n\nHá quem acredite que o baralho foi inventado pelo pintor francês Jacquemin Gringonneur, sob encomenda do rei Carlos VI de França. Gringonneur desenvolveu as cartas do jogo de forma que representassem a divisão da sociedade francesa através de seus naipes, sendo copas o clero; espadas a nobreza; paus os camponeses; ouros a burguesia.\n\nMais tarde, atribuíram-se significados específicos às cartas com figuras, representando personalidades históricas e bíblicas. São elas:\n\nRei de Ouros — Júlio César, geralmente com um machado que simboliza as legiões romanas;\n\nRei de Espadas — o rei israelita Davi;\n\nRei de Copas — o rei Carlos Magno;\n\nRei de Paus — Alexandre, o Grande;\n\nDama de Ouros — Raquel, esposa de Jacó;\n\nDama de Espadas — A deusa grega Atena;\n\nDama de Copas — Judite, personagem bíblica;\n\nDama de Paus — Elizabeth I de Inglaterra;\n\nValete de Ouros — Heitor, Príncipe de Troia;\n\nValete de Espadas — Napoleão Bonaparte, imperador francês; ou Holger Danske, rei dinamarquês (conforme imagem cartas);\n\nValete de Copas — Dante Alighieri, escritor italiano; ou La Hire (Étienne de Vignolles) (conforme imagem cartas);\n\nValete de Paus — Sir Lancelot.\n\nA carta que tem a frente com maior liberdade de criação é o coringa ou joker, que representaria os palhaços dos jograis realizados nos castelos medievais.",
+    "paragraphs": [
+      "Embora haja indícios de que os jogos de cartas teriam surgido na China juntamente com o papel, há outros que apontam uma origem árabe. De qualquer modo, o baralho foi introduzido na Europa durante o século XIV. E a partir do século XV, o desenvolvimento dos processos de impressão e de fabricação de papel propiciou a popularização do baralho em vários países.",
+      "Em meados do século XV surgiu em Portugal um tipo de baralho, cuja origem se desconhece e cujo desenho passou a ser conhecido por baralho português. Este baralho difundiu-se pelo Oriente, levado pelos navios portugueses, sendo mais tarde imitado e adaptado à sua própria cultura, por japoneses, indonésios e indianos. O padrão português acabou por se extinguir em finais do século XIX, em detrimento do padrão francês, universalmente aceito na atualidade.",
+      "Apesar desta existência antiga, as cartas do baralho português só foram fabricadas em Portugal a partir de 1769, quando foi criada a Real Fábrica de Cartas de Jogar de Lisboa, anexa à Impressão Régia.",
+      "Há quem acredite que o baralho foi inventado pelo pintor francês Jacquemin Gringonneur, sob encomenda do rei Carlos VI de França. Gringonneur desenvolveu as cartas do jogo de forma que representassem a divisão da sociedade francesa através de seus naipes, sendo copas o clero; espadas a nobreza; paus os camponeses; ouros a burguesia.",
+      "Mais tarde, atribuíram-se significados específicos às cartas com figuras, representando personalidades históricas e bíblicas. São elas:",
+      "Rei de Ouros — Júlio César, geralmente com um machado que simboliza as legiões romanas;",
+      "Rei de Espadas — o rei israelita Davi;",
+      "Rei de Copas — o rei Carlos Magno;",
+      "Rei de Paus — Alexandre, o Grande;",
+      "Dama de Ouros — Raquel, esposa de Jacó;",
+      "Dama de Espadas — A deusa grega Atena;",
+      "Dama de Copas — Judite, personagem bíblica;",
+      "Dama de Paus — Elizabeth I de Inglaterra;",
+      "Valete de Ouros — Heitor, Príncipe de Troia;",
+      "Valete de Espadas — Napoleão Bonaparte, imperador francês; ou Holger Danske, rei dinamarquês (conforme imagem cartas);",
+      "Valete de Copas — Dante Alighieri, escritor italiano; ou La Hire (Étienne de Vignolles) (conforme imagem cartas);",
+      "Valete de Paus — Sir Lancelot.",
+      "A carta que tem a frente com maior liberdade de criação é o coringa ou joker, que representaria os palhaços dos jograis realizados nos castelos medievais."
+    ],
+    "components": "O naipe jogos de baralho é um retângulo de papel grosso, cartolina, cartão ou plástico, com um lado estampado com diversas cores e símbolos (geralmente número e naipes) chamado de face e o outro estampado num padrão comum a todas as cartas de cada baralho de modo que se esconda o valor da face.\n\nA quantidade de cartas mais comum, e que é utilizada em vários jogos, é a que que compõe o baralho inglês de 52 cartas (o qual podem ser acrescentados uma ou duas cartas chamadas jokers ou, no Brasil, coringas), divididas nos quatro naipes franceses, com cada naipe contendo cartas numeradas de 2 a 10, o Ás, e as cartas figuradas valete, dama e rei. Os jogos que utilizam este baralho podem usá-lo todo ou um subconjunto obtendo uma menor quantidade de cartas. Os subconjuntos mais comuns são os que excluem os 10s, 9s e 8s dos quatro naipes, totalizando 40 cartas (A K Q J 7 6 5 4 3 2) são chamados de \"baralho sujo\", e os que excluem os 10s, 9s, 8s, 7s, 6s, 5s e 4s, totalizando 24 cartas.",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/jogos-de-baralho/anexos/244017",
+      "https://ludopedia.com.br/usuario/johnmatosd"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Uno",
+    "price": "R$ 51,74",
+    "image": "uno_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/uno",
+    "players": "2 a 10 jogadores",
+    "age": "7 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "uno_cover.jpg",
+      "uno_1.jpg",
+      "uno_2.jpg",
+      "uno_3.jpg",
+      "uno_4.jpg",
+      "uno_5.jpg",
+      "uno_6.jpg"
+    ],
+    "description": "O baralho é composto por cartas de quatro cores: verde, amarelo, vermelho e azul. As fileiras de cada cor variam entre 0 e 9. Existem três ações especiais para cada tipo de cor de carta, identificadas como \"pular\", \"comprar duas\", \"comprar uma\" e \"inverter\". Há também cartas de ações especiais com fundo preto, \"coringa\" e \"coringa comprar quatro\". Para cada carta regular ou de ação, existem duas das mesmas no baralho, com exceção do 0, que só possui uma unidade. Há quatro \"coringas que mudam de cor\" e quatro \"coringas pescar quatro\", o que resulta num total de 108 cartas.\n\nPara começar o jogo, são distribuídas sete cartas a cada jogador, e a carta que ficou em cima do baralho é virada para cima, sendo que esta é a primeira. Caso essa carta possua uma \"habilidade especial\" (nomeadamente pular, comprar duas e inverter), ela é tratada como se o jogador que deu as cartas tivesse jogado as mesmas. Se a carta for um coringa o jogador escolhe a cor que deve começar. Se for um coringa comprar quatro, deve ser devolvida ao baralho. O jogo começa com a pessoa posicionada ao sentido horário de quem distribuiu as cartas.\n\nEm cada oportunidade, o jogador pode jogar uma carta de sua mão que seja igual a cor ou o número da última carta apresentada, ou então jogar um coringa ou coringa comprar quatro. Se a pessoa não possuir carta para jogar na ocasião, deve pescar e, caso ainda continue sem a carta precisa, perder seu turno, repetindo o processo até sair uma carta jogável. Se o jogador possuir a carta que precisa para ser jogada, mas não jogá-la e comprar outra, nenhuma penalização é aplicada. Depois de um jogador jogar a sua carta, o próximo ao sentido horário ou anti-horário - se estiver invertida a ordem - joga. As cartas podem ser jogadas na sequência(crescente ou decrescente) dos números, caso possuam a mesma cor. Também podem ser jogadas em conjunto(ao mesmo tempo) as cartas que tiverem o mesmo número ou símbolo(apenas se tiverem a mesma cor!).\n\nSe as cartas que eram utilizadas para comprar esgotarem, as jogadas na mesa são embaralhadas novamente e colocadas como pilha. Quando um jogador estiver com apenas uma carta na mão, deve falar UNO! em voz que todos os outros jogadores ouçam. Caso isso não ocorrer, qualquer outro jogador pode obrigá-lo a comprar duas cartas. O jogo termina quando um jogador está sem nenhuma carta na mão.\n\nUm outro método para encerrar o jogo é quando no final de cada partida (quando algum jogador estiver sem nenhuma carta) os outros jogadores revelam suas mãos e a contagem de pontos é feita. As cartas que restaram na mão de cada oponente deve ser somadas seguindo as regras abaixo. Ganha o jogador que consegue 500 pontos(ou o mais próximo disso).\n\nA contagem é a seguinte:\n\nCartas de 0 a 9 tem o valor de sua face;\n\ncomprar duas, inverter e pular valem 20 pontos;\n\nCoringa e Coringa comprar quatro valem 50 pontos.",
+    "paragraphs": [
+      "O baralho é composto por cartas de quatro cores: verde, amarelo, vermelho e azul. As fileiras de cada cor variam entre 0 e 9. Existem três ações especiais para cada tipo de cor de carta, identificadas como \"pular\", \"comprar duas\", \"comprar uma\" e \"inverter\". Há também cartas de ações especiais com fundo preto, \"coringa\" e \"coringa comprar quatro\". Para cada carta regular ou de ação, existem duas das mesmas no baralho, com exceção do 0, que só possui uma unidade. Há quatro \"coringas que mudam de cor\" e quatro \"coringas pescar quatro\", o que resulta num total de 108 cartas.",
+      "Para começar o jogo, são distribuídas sete cartas a cada jogador, e a carta que ficou em cima do baralho é virada para cima, sendo que esta é a primeira. Caso essa carta possua uma \"habilidade especial\" (nomeadamente pular, comprar duas e inverter), ela é tratada como se o jogador que deu as cartas tivesse jogado as mesmas. Se a carta for um coringa o jogador escolhe a cor que deve começar. Se for um coringa comprar quatro, deve ser devolvida ao baralho. O jogo começa com a pessoa posicionada ao sentido horário de quem distribuiu as cartas.",
+      "Em cada oportunidade, o jogador pode jogar uma carta de sua mão que seja igual a cor ou o número da última carta apresentada, ou então jogar um coringa ou coringa comprar quatro. Se a pessoa não possuir carta para jogar na ocasião, deve pescar e, caso ainda continue sem a carta precisa, perder seu turno, repetindo o processo até sair uma carta jogável. Se o jogador possuir a carta que precisa para ser jogada, mas não jogá-la e comprar outra, nenhuma penalização é aplicada. Depois de um jogador jogar a sua carta, o próximo ao sentido horário ou anti-horário - se estiver invertida a ordem - joga. As cartas podem ser jogadas na sequência(crescente ou decrescente) dos números, caso possuam a mesma cor. Também podem ser jogadas em conjunto(ao mesmo tempo) as cartas que tiverem o mesmo número ou símbolo(apenas se tiverem a mesma cor!).",
+      "Se as cartas que eram utilizadas para comprar esgotarem, as jogadas na mesa são embaralhadas novamente e colocadas como pilha. Quando um jogador estiver com apenas uma carta na mão, deve falar UNO! em voz que todos os outros jogadores ouçam. Caso isso não ocorrer, qualquer outro jogador pode obrigá-lo a comprar duas cartas. O jogo termina quando um jogador está sem nenhuma carta na mão.",
+      "Um outro método para encerrar o jogo é quando no final de cada partida (quando algum jogador estiver sem nenhuma carta) os outros jogadores revelam suas mãos e a contagem de pontos é feita. As cartas que restaram na mão de cada oponente deve ser somadas seguindo as regras abaixo. Ganha o jogador que consegue 500 pontos(ou o mais próximo disso).",
+      "A contagem é a seguinte:",
+      "Cartas de 0 a 9 tem o valor de sua face;",
+      "comprar duas, inverter e pular valem 20 pontos;",
+      "Coringa e Coringa comprar quatro valem 50 pontos."
+    ],
+    "components": "114 cartas no formato 56 mm x 87 mm",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/uno/anexos/182138",
+      "https://ludopedia.com.br/usuario/ScoobyManiaco",
+      "https://ludopedia.com.br/jogo/uno/anexos/160767",
+      "https://ludopedia.com.br/usuario/Leo.Ingenito",
+      "https://ludopedia.com.br/jogo/uno/anexos/149604",
+      "https://ludopedia.com.br/usuario/Daniela%20e%20Versol",
+      "https://ludopedia.com.br/jogo/uno/anexos/133704",
+      "https://ludopedia.com.br/usuario/pfifikus",
+      "https://ludopedia.com.br/jogo/uno/anexos/11259",
+      "https://ludopedia.com.br/usuario/Julio%20Baltazar"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Universo Marvel",
+    "price": "R$ 119,04",
+    "image": "battle_scenes___universo_marvel_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-universo-marvel",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___universo_marvel_cover.jpg",
+      "battle_scenes___universo_marvel_1.jpg",
+      "battle_scenes___universo_marvel_2.jpg",
+      "battle_scenes___universo_marvel_3.jpg",
+      "battle_scenes___universo_marvel_4.jpg",
+      "battle_scenes___universo_marvel_5.jpg",
+      "battle_scenes___universo_marvel_6.jpg"
+    ],
+    "description": "A coleção Universo Marvel é a primeira de Battle Scenes, jogo produzido e distribuído no Brasil pela Copag. Trazendo alguns dos principais personagens da Marvel, esta coleção possui 100 cards organizados em 4 tipos (personagem, suporte, cenário e habilidade) e 5 níveis de raridade.\n\nDe dentro de seu esconderijo secreto, o Dr. Octopus monitora a onda de assaltos que assola a cidade. Com a ajuda de seus tentáculos, ele confere e organiza as diversas informações que os enviados de sua rede de espionagem lhe repassaram, indicando as vulnerabilidades da metrópole.\n\nA reunião de intelectos promovida pelo Rei do Crime foi um sucesso. O grupo de super criminosos que iniciou o ataque sem trégua, assaltando diversos bancos e instituições financeiras, é imbatível. Nada pode dar errado.\n\nO Duende Verde sobrevoa a cidade, distribuindo uma remessa de suas bombas abóboras. Cidadãos fogem pelas ruas enquanto o Fanático avança, pronto para arremessar a rocha gigantesca que ele está carregando. Policiais abrem fogo, mas suas balas nem arranham a grossa armadura do gigante invulnerável.\n\nCiente de que o caos na cidade pede uma resposta à altura, o coronel Nick Fury envia um pelotão de seus comandados acompanhados por alguns heróis para iniciar o combate ao crime. Logo a população é evacuada e os agentes S.H.I.E.L.D. tomam as ruas, avançando com um de seus possantes veículos de combate.\n\nInicia-se a batalha entre os agentes e os numerosos capangas do Rei. Granadas de mão explodem e franco-atiradores fazem fogo do alto dos edifícios. Acompanhada pelo Homem-Aranha, a Viúva Negra consegue derrubar diversos dos seus oponentes, pegando-os desprevenidos com seus ataques-surpresa.\n\nAs coisas parecem estar indo bem para os heróis, quando o super grupo de vilões revela toda a sua força. O Mercenário e a assassina contratada Elektra infiltram-se entre as forças de Fury, derrubando os agentes um após o outro, enquanto o furioso Venom persegue o Homem-Aranha, ameaçando prendê-lo com seus tiros de teia.\n\nO Fanático segue em frente com sua gigantesca rocha, e a arremessa de forma certeira, atingindo em cheio o veículo de combate S.H.I.E.L.D., que explode pelos ares.\n\nA coisa está ficando feia para seus enviados, e o coronel Fury decide que chegou o momento de convocar reforços...\n\nDe que lado você vai ficar?",
+    "paragraphs": [
+      "A coleção Universo Marvel é a primeira de Battle Scenes, jogo produzido e distribuído no Brasil pela Copag. Trazendo alguns dos principais personagens da Marvel, esta coleção possui 100 cards organizados em 4 tipos (personagem, suporte, cenário e habilidade) e 5 níveis de raridade.",
+      "De dentro de seu esconderijo secreto, o Dr. Octopus monitora a onda de assaltos que assola a cidade. Com a ajuda de seus tentáculos, ele confere e organiza as diversas informações que os enviados de sua rede de espionagem lhe repassaram, indicando as vulnerabilidades da metrópole.",
+      "A reunião de intelectos promovida pelo Rei do Crime foi um sucesso. O grupo de super criminosos que iniciou o ataque sem trégua, assaltando diversos bancos e instituições financeiras, é imbatível. Nada pode dar errado.",
+      "O Duende Verde sobrevoa a cidade, distribuindo uma remessa de suas bombas abóboras. Cidadãos fogem pelas ruas enquanto o Fanático avança, pronto para arremessar a rocha gigantesca que ele está carregando. Policiais abrem fogo, mas suas balas nem arranham a grossa armadura do gigante invulnerável.",
+      "Ciente de que o caos na cidade pede uma resposta à altura, o coronel Nick Fury envia um pelotão de seus comandados acompanhados por alguns heróis para iniciar o combate ao crime. Logo a população é evacuada e os agentes S.H.I.E.L.D. tomam as ruas, avançando com um de seus possantes veículos de combate.",
+      "Inicia-se a batalha entre os agentes e os numerosos capangas do Rei. Granadas de mão explodem e franco-atiradores fazem fogo do alto dos edifícios. Acompanhada pelo Homem-Aranha, a Viúva Negra consegue derrubar diversos dos seus oponentes, pegando-os desprevenidos com seus ataques-surpresa.",
+      "As coisas parecem estar indo bem para os heróis, quando o super grupo de vilões revela toda a sua força. O Mercenário e a assassina contratada Elektra infiltram-se entre as forças de Fury, derrubando os agentes um após o outro, enquanto o furioso Venom persegue o Homem-Aranha, ameaçando prendê-lo com seus tiros de teia.",
+      "O Fanático segue em frente com sua gigantesca rocha, e a arremessa de forma certeira, atingindo em cheio o veículo de combate S.H.I.E.L.D., que explode pelos ares.",
+      "A coisa está ficando feia para seus enviados, e o coronel Fury decide que chegou o momento de convocar reforços...",
+      "De que lado você vai ficar?"
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/battle-scenes-universo-marvel/anexos/4839",
+      "https://ludopedia.com.br/usuario/juniorvana"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Revanche Futebol Cards",
+    "price": "R$ 90,81",
+    "image": "revanche_futebol_cards_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/revanche-futebol-cards",
+    "players": "2 a 4 jogadores",
+    "age": "8 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "revanche_futebol_cards_cover.jpg",
+      "revanche_futebol_cards_1.jpg",
+      "revanche_futebol_cards_2.jpg",
+      "revanche_futebol_cards_3.jpg",
+      "revanche_futebol_cards_4.jpg",
+      "revanche_futebol_cards_5.jpg",
+      "revanche_futebol_cards_6.jpg"
+    ],
+    "description": "Revanche é um jogo de cartas com tema de futebol no qual jogadores tomam posse da bola e geram oportunidades de gol ao jogar cartas de mesmo número. O dado de árbitro oferece chutes diretos, escanteios e pênaltis, mas também cartões amarelos e vermelhos! O jogo também incorpora aspectos como substituição, acréscimos, prorrogação e disputa de pênaltis. O jogador que fizer mais gols vence!",
+    "paragraphs": [
+      "Revanche é um jogo de cartas com tema de futebol no qual jogadores tomam posse da bola e geram oportunidades de gol ao jogar cartas de mesmo número. O dado de árbitro oferece chutes diretos, escanteios e pênaltis, mas também cartões amarelos e vermelhos! O jogo também incorpora aspectos como substituição, acréscimos, prorrogação e disputa de pênaltis. O jogador que fizer mais gols vence!"
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/revanche-futebol-cards/anexos/275224",
+      "https://ludopedia.com.br/usuario/caioarrais"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Color Addict",
+    "price": "R$ 22,22",
+    "image": "color_addict_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/color-addict",
+    "players": "2 a 6 jogadores",
+    "age": "7 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "color_addict_cover.jpg",
+      "color_addict_1.jpg",
+      "color_addict_2.jpg",
+      "color_addict_3.jpg",
+      "color_addict_4.jpg",
+      "color_addict_5.jpg",
+      "color_addict_6.jpg"
+    ],
+    "description": "Você consegue combinar as cartas mais rápido que todo mundo?\n\nMostre suas verdadeiras cores! Com a família, com os amigos, no escritório, na escola ou no avião, você vai pirar em todas as cores!\n\nLivre-se de suas Cartas o mais rápido possível sobrepondo palavras, cores, os dois ou o oposto... Color Addict é um Jogo de Cartas não recomendado para cardíacos, gatos cinzentos, elefantes cor-de-rosa, homenzinhos verdes, lobos brancos, etc.\n\nSão 110 cartas onde estão escritos os nomes das cores mas não necessariamente a cor do fundo desta carta.\n\nPortanto, se estiver escrita a palavra \"azul\" em vermelho, você tenderá a ler \"vermelho\" e não \"azul\".\n\nO objetivo é livrar-se de seu cartão combinando uma de suas palavras escritas da cor com a cor do fundo do cartão na mesa. E a tarefa não é tão fácil quanto você pensa, pois além disso, outros jogadores podem ser mais rápidos que você e mudar o jogo. Alguns curingas são multicoloridos.\n\nO jogador que se livrar de suas cartas primeiro é o vencedor.",
+    "paragraphs": [
+      "Você consegue combinar as cartas mais rápido que todo mundo?",
+      "Mostre suas verdadeiras cores! Com a família, com os amigos, no escritório, na escola ou no avião, você vai pirar em todas as cores!",
+      "Livre-se de suas Cartas o mais rápido possível sobrepondo palavras, cores, os dois ou o oposto... Color Addict é um Jogo de Cartas não recomendado para cardíacos, gatos cinzentos, elefantes cor-de-rosa, homenzinhos verdes, lobos brancos, etc.",
+      "São 110 cartas onde estão escritos os nomes das cores mas não necessariamente a cor do fundo desta carta.",
+      "Portanto, se estiver escrita a palavra \"azul\" em vermelho, você tenderá a ler \"vermelho\" e não \"azul\".",
+      "O objetivo é livrar-se de seu cartão combinando uma de suas palavras escritas da cor com a cor do fundo do cartão na mesa. E a tarefa não é tão fácil quanto você pensa, pois além disso, outros jogadores podem ser mais rápidos que você e mudar o jogo. Alguns curingas são multicoloridos.",
+      "O jogador que se livrar de suas cartas primeiro é o vencedor."
+    ],
+    "components": "110 Cartas",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/color-addict/anexos/171464",
+      "https://ludopedia.com.br/usuario/sansao"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Huang Dih: O Grande Imperador",
+    "price": "No price info",
+    "image": "huang_dih__o_grande_imperador_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/huang-dih-o-grande-imperador",
+    "players": "3 a 5 jogadores",
+    "age": "0 +",
+    "duration": "60 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "huang_dih__o_grande_imperador_cover.jpg"
+    ],
+    "description": "O objetivo do Grande Imperador é descartar todas as 10 cartas da sua pilha de estoque construindo até 3 muralhas (pilhas de cartas) no centro da mesa. Para auxiliar na construção dessas muralhas, você pode usar as cartas em sua mão e em sua pilha de descarte.\n\nUm jogo estratégico e fácil de jogar faz com que os participantes construam as muralhas no centro da mesa em uma seqüência do número 1 ao 10, mas quando as estratégias começam a ser colocadas em jogo surpresas como a carta inverte começam a aparecer e mudam totalmente as estratégias dos participantes fazendo com que a seqüência passe a ser do número 10 ao 1.",
+    "paragraphs": [
+      "O objetivo do Grande Imperador é descartar todas as 10 cartas da sua pilha de estoque construindo até 3 muralhas (pilhas de cartas) no centro da mesa. Para auxiliar na construção dessas muralhas, você pode usar as cartas em sua mão e em sua pilha de descarte.",
+      "Um jogo estratégico e fácil de jogar faz com que os participantes construam as muralhas no centro da mesa em uma seqüência do número 1 ao 10, mas quando as estratégias começam a ser colocadas em jogo surpresas como a carta inverte começam a aparecer e mudam totalmente as estratégias dos participantes fazendo com que a seqüência passe a ser do número 10 ao 1."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/huang-dih-o-grande-imperador/anexos/116962",
+      "https://ludopedia.com.br/usuario/Spaki"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Guerra Civil",
+    "price": "No price info",
+    "image": "battle_scenes___guerra_civil_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-guerra-civil",
+    "players": "2 jogadores",
+    "age": "10 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___guerra_civil_cover.jpg",
+      "battle_scenes___guerra_civil_1.jpg"
+    ],
+    "description": "O Congresso Nacional Norte-Americano decidiu, após diversos incidentes, implementar a Lei de Registro de Super-Humanos. Tony Stark apoia a ideia. Steve Rogers é contra. Ambos montam um time próprio e dão início a Guerra Civil. E você, de que lado vai ficar?\n\nA coleção Guerra Civil é a oitava de Battle Scenes. E com ele você poderá escolher o seu lado pra lutar nessa guerra, do lado do Homem de Ferro com o deck Guerra Civil: Luta Pela Justiça ou o lado do Capitão América com o deck Guerra Civil: Luta Pela Liberdade.",
+    "paragraphs": [
+      "O Congresso Nacional Norte-Americano decidiu, após diversos incidentes, implementar a Lei de Registro de Super-Humanos. Tony Stark apoia a ideia. Steve Rogers é contra. Ambos montam um time próprio e dão início a Guerra Civil. E você, de que lado vai ficar?",
+      "A coleção Guerra Civil é a oitava de Battle Scenes. E com ele você poderá escolher o seu lado pra lutar nessa guerra, do lado do Homem de Ferro com o deck Guerra Civil: Luta Pela Justiça ou o lado do Capitão América com o deck Guerra Civil: Luta Pela Liberdade."
+    ],
+    "components": "Cada deck contém: 60 cards + 1 folheto de regras/playmat para um jogador + 1 cartela com marcadores de escudos, poderes e alvos.\nFormato cards: 63 mm x 88 mm.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Color Addict Cartucho",
+    "price": "R$ 25,61",
+    "image": "color_addict_cartucho_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/color-addict-express",
+    "players": "2 a 6 jogadores",
+    "age": "7 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "color_addict_cartucho_cover.jpg",
+      "color_addict_cartucho_1.jpg",
+      "color_addict_cartucho_2.jpg",
+      "color_addict_cartucho_3.jpg",
+      "color_addict_cartucho_4.jpg"
+    ],
+    "description": "Mostre suas verdadeiras cores! Com a família, com os amigos, no escritório, na escola ou no avião, você vai pirar em todas as cores!\n\nLivre-se de suas Cartas o mais rápido possível sobrepondo palavras, cores, os dois ou o oposto... Color Addict é um jogo de cartas não recomendado para cardíacos, gatos cinzentos, elefantes cor-de-rosa, homenzinhos verdes, lobos brancos, etc.\n\nNovas cartas especiais: Seja o mais rápido em se livrar das suas cartas, obtenha vantagens congelando seus adversários, fazendo eles jogar com apenas uma mão ou fazendo com que comprem cartas.",
+    "paragraphs": [
+      "Mostre suas verdadeiras cores! Com a família, com os amigos, no escritório, na escola ou no avião, você vai pirar em todas as cores!",
+      "Livre-se de suas Cartas o mais rápido possível sobrepondo palavras, cores, os dois ou o oposto... Color Addict é um jogo de cartas não recomendado para cardíacos, gatos cinzentos, elefantes cor-de-rosa, homenzinhos verdes, lobos brancos, etc.",
+      "Novas cartas especiais: Seja o mais rápido em se livrar das suas cartas, obtenha vantagens congelando seus adversários, fazendo eles jogar com apenas uma mão ou fazendo com que comprem cartas."
+    ],
+    "components": "110 cartas",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/color-addict-express/anexos/213381",
+      "https://ludopedia.com.br/usuario/MACEDO77_BR"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Iniciativa Vingadores",
+    "price": "No price info",
+    "image": "battle_scenes___iniciativa_vingadores_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-iniciativa-vingadores",
+    "players": "2 jogadores",
+    "age": "10 +",
+    "duration": "40 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___iniciativa_vingadores_cover.jpg",
+      "battle_scenes___iniciativa_vingadores_1.jpg",
+      "battle_scenes___iniciativa_vingadores_2.jpg"
+    ],
+    "description": "A coleção Iniciativa Vingadores é a sexta de Battle Scenes, jogo desenvolvido inteiramente no Brasil. Trazendo alguns dos principais personagens da Marvel, esta coleção possui 100 novos cards divididos entre duas subcoleções: boosters com cards numerados de 1 a 100 e 5 níveis de raridade e decks com cards numerados de 1 a 78.\n\nBattle Scenes é um incrível jogo de estratégia em que os jogadores duelam comandando grupos de heróis e vilões que se enfrentam nos mais diversos cenários e situações.\n\nEsta nova coleção traz dois decks iniciais temáticos denominados Supremacia Vingadores (Heróis) e Fúria Ultron (Vilões).",
+    "paragraphs": [
+      "A coleção Iniciativa Vingadores é a sexta de Battle Scenes, jogo desenvolvido inteiramente no Brasil. Trazendo alguns dos principais personagens da Marvel, esta coleção possui 100 novos cards divididos entre duas subcoleções: boosters com cards numerados de 1 a 100 e 5 níveis de raridade e decks com cards numerados de 1 a 78.",
+      "Battle Scenes é um incrível jogo de estratégia em que os jogadores duelam comandando grupos de heróis e vilões que se enfrentam nos mais diversos cenários e situações.",
+      "Esta nova coleção traz dois decks iniciais temáticos denominados Supremacia Vingadores (Heróis) e Fúria Ultron (Vilões)."
+    ],
+    "components": "Cada deck contém: 60 cards + 1 folheto de regras/playmat para um jogador + 1 cartela com marcadores de escudos, poderes e alvos.\nFormato cards: 63 mm x 88 mm.\nO Box contém: 36 boosters (c/ 7 cards sortidos em cada) para o jogador expandir sua coleção.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Invasão Cósmica",
+    "price": "No price info",
+    "image": "battle_scenes___invas_o_c_smica_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-invasao-cosmica",
+    "players": "2 jogadores",
+    "age": "12 +",
+    "duration": "40 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___invas_o_c_smica_cover.jpg"
+    ],
+    "description": "A batalha se estende pela galáxia! Quinta coleção do jogo de cartas Battle Scenes.\n\nTrazendo alguns dos principais personagens da Marvel, esta coleção possui 100 cards organizados em 4 tipos (personagem, suporte, cenário e habilidade) e 5 níveis de raridade.",
+    "paragraphs": [
+      "A batalha se estende pela galáxia! Quinta coleção do jogo de cartas Battle Scenes.",
+      "Trazendo alguns dos principais personagens da Marvel, esta coleção possui 100 cards organizados em 4 tipos (personagem, suporte, cenário e habilidade) e 5 níveis de raridade."
+    ],
+    "components": "Cartas",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Rat-a-Tat Cat",
+    "price": "No price info",
+    "image": "rat_a_tat_cat_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/rat-a-tat-cat",
+    "players": "2 a 6 jogadores",
+    "age": "6 +",
+    "duration": "10 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "rat_a_tat_cat_cover.jpg",
+      "rat_a_tat_cat_1.jpg",
+      "rat_a_tat_cat_2.jpg",
+      "rat_a_tat_cat_3.jpg",
+      "rat_a_tat_cat_4.jpg",
+      "rat_a_tat_cat_5.jpg",
+      "rat_a_tat_cat_6.jpg"
+    ],
+    "description": "Este é um jogo de estratégia onde os jogadores deverão memorizar suas melhores cartas não deixando seus oponentes descobrirem onde elas estão. Mistura de jogo de memória e administração de cartas, o objetivo é livrar-se dos ratos e ir atrás dos gatos, formando o grupo de cartas de menor valor durante a partida, fazendo trocas e não dando na cara.",
+    "paragraphs": [
+      "Este é um jogo de estratégia onde os jogadores deverão memorizar suas melhores cartas não deixando seus oponentes descobrirem onde elas estão. Mistura de jogo de memória e administração de cartas, o objetivo é livrar-se dos ratos e ir atrás dos gatos, formando o grupo de cartas de menor valor durante a partida, fazendo trocas e não dando na cara."
+    ],
+    "components": "55 cartas, sendo 28 cartas de ratos, 17 cartas de gatos, 9 cartas de poder e 1 carta de garantia.",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/rat-a-tat-cat/anexos/128651",
+      "https://ludopedia.com.br/usuario/FePaciencia",
+      "https://ludopedia.com.br/jogo/rat-a-tat-cat/anexos/77609",
+      "https://ludopedia.com.br/usuario/alex2306"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Hora de Aventura Caça-Vilões",
+    "price": "No price info",
+    "image": "hora_de_aventura_ca_a_vil_es_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/hora-de-aventura-caca-viloes",
+    "players": "1 a 6 jogadores",
+    "age": "8 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "hora_de_aventura_ca_a_vil_es_cover.jpg",
+      "hora_de_aventura_ca_a_vil_es_1.jpg",
+      "hora_de_aventura_ca_a_vil_es_2.jpg"
+    ],
+    "description": "Os vilões do Reino de Ooo estão à solta! Ajudem Finn, Joke, Beemo, Princesa Jujuba e Marceline a capturá-los. Enfrente vários desafios e descubra quem é o vencedor. Um jogo rápido e extremamente divertido!\n\nA linha de Games Copag Play traz para você uma nova linha de jogar com as suas cartas! Cada jogo do Copag Play possui um aplicativo exclusivo onde você aprende a jogar, gerencia suas partidas e participa de desafios inéditos com o reconhecimento das cartas no seu aparelho!",
+    "paragraphs": [
+      "Os vilões do Reino de Ooo estão à solta! Ajudem Finn, Joke, Beemo, Princesa Jujuba e Marceline a capturá-los. Enfrente vários desafios e descubra quem é o vencedor. Um jogo rápido e extremamente divertido!",
+      "A linha de Games Copag Play traz para você uma nova linha de jogar com as suas cartas! Cada jogo do Copag Play possui um aplicativo exclusivo onde você aprende a jogar, gerencia suas partidas e participa de desafios inéditos com o reconhecimento das cartas no seu aparelho!"
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Ofensiva Surpresa",
+    "price": "No price info",
+    "image": "battle_scenes___ofensiva_surpresa_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-ofensiva-surpresa",
+    "players": "2 jogadores",
+    "age": "10 +",
+    "duration": "40 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___ofensiva_surpresa_cover.jpg",
+      "battle_scenes___ofensiva_surpresa_1.jpg",
+      "battle_scenes___ofensiva_surpresa_2.jpg",
+      "battle_scenes___ofensiva_surpresa_3.jpg",
+      "battle_scenes___ofensiva_surpresa_4.jpg",
+      "battle_scenes___ofensiva_surpresa_5.jpg"
+    ],
+    "description": "Sétima coleção de Battle Scenes, denominada Ofensiva Surpresa traz para o jogo ataques de onde menos se espera!\n\nEssa nova coleção traz dois novos decks temáticos: Defensores da Terra, comandado por Homem-Formiga que mistura heróis e vilões para defender o planeta de ataques alienígenas; e Investida de Clones, comandado por Jaqueta Amarela e sua Investida de Clones.\n\nBattle Scenes é um incrível jogo de estratégia em que os jogadores duelam comandando grupos de heróis e vilões que se enfrentam nos mais diversos cenários e situações.",
+    "paragraphs": [
+      "Sétima coleção de Battle Scenes, denominada Ofensiva Surpresa traz para o jogo ataques de onde menos se espera!",
+      "Essa nova coleção traz dois novos decks temáticos: Defensores da Terra, comandado por Homem-Formiga que mistura heróis e vilões para defender o planeta de ataques alienígenas; e Investida de Clones, comandado por Jaqueta Amarela e sua Investida de Clones.",
+      "Battle Scenes é um incrível jogo de estratégia em que os jogadores duelam comandando grupos de heróis e vilões que se enfrentam nos mais diversos cenários e situações."
+    ],
+    "components": "Cada deck contém: 60 cards + 1 folheto de regras/playmat para um jogador + 1 cartela com marcadores de escudos, poderes e alvos.\nFormato cards: 63 mm x 88 mm.\nO Box contém: 36 boosters (c/ 7 cards sortidos em cada) para o jogador expandir sua coleção.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Urbs",
+    "price": "R$ 89,73",
+    "image": "urbs_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/urbs",
+    "players": "2 a 5 jogadores",
+    "age": "8 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "urbs_cover.jpg",
+      "urbs_1.jpg",
+      "urbs_2.jpg",
+      "urbs_3.jpg",
+      "urbs_4.jpg",
+      "urbs_5.jpg",
+      "urbs_6.jpg"
+    ],
+    "description": "Uma nova cidade está surgindo e os recursos para desenvolvê-la estão à sua mão. O que você fizer agora definirá a qualidade de vida dos moradores e a estrutura dessa nova zona urbana. Sua gestão investirá mais em lazer e turismo ou dará total prioridade à indústria e ao comércio? Defina o que é preciso para a sua cidade ideal, estabeleça sua estratégia e execute.\n\nURBS é um jogo rápido e estratégico onde os jogadores planejam o desenvolvimento urbano de um município através da seleção e posicionamento de cartas. Ao fim das 3 rodadas, o jogador que construiu a melhor sinergia entre as cartas de sua cidade é vencedor.",
+    "paragraphs": [
+      "Uma nova cidade está surgindo e os recursos para desenvolvê-la estão à sua mão. O que você fizer agora definirá a qualidade de vida dos moradores e a estrutura dessa nova zona urbana. Sua gestão investirá mais em lazer e turismo ou dará total prioridade à indústria e ao comércio? Defina o que é preciso para a sua cidade ideal, estabeleça sua estratégia e execute.",
+      "URBS é um jogo rápido e estratégico onde os jogadores planejam o desenvolvimento urbano de um município através da seleção e posicionamento de cartas. Ao fim das 3 rodadas, o jogador que construiu a melhor sinergia entre as cartas de sua cidade é vencedor."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Enquadrados",
+    "price": "R$ 75,89",
+    "image": "enquadrados_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/enquadrados",
+    "players": "2 a 4 jogadores",
+    "age": "14 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "enquadrados_cover.jpg",
+      "enquadrados_1.jpg",
+      "enquadrados_2.jpg",
+      "enquadrados_3.jpg",
+      "enquadrados_4.jpg"
+    ],
+    "description": "Na manhã de inauguração de uma nova temporada, algo assustador aconteceu no Museu de Artes Relevantes de Alto Valor Implicado na Lembrança do Hoje e da Atualidade. Suas mais instigantes obras simplesmente desapareceram.\n\nFaltam algumas horas para a abertura e, assim como você, os mais eficientes replicadores de arte foram convocados a garantir que a nova temporada aconteça, sem que o público perceba nada diferente do esperado. A primeira pessoa a resolver esse intenso desafio será considerada a salvadora do famoso M.A.R.A.V.I.L.H.A.!\n\n____________________________\n\nSIMPLES PARA APRENDER,\n\nDESAFIADOR PARA VENCER!\n\nEnquadrados é um jogo tático em tempo real. Para chegar à vitória contra grandes oponentes, é preciso combinar a destreza - para reproduzir padrões com velocidade – à capacidade de gerir riscos: valerá mais a pena acumular os pontos pouco a pouco, atrasando os demais jogadores? Ou será que é possível acelerar a partida, com pontuações altas em menos rodadas?\n\nCom diferentes Modos e graus de dificuldade, o jogo oferece uma experiência incrível para variados perfis!",
+    "paragraphs": [
+      "Na manhã de inauguração de uma nova temporada, algo assustador aconteceu no Museu de Artes Relevantes de Alto Valor Implicado na Lembrança do Hoje e da Atualidade. Suas mais instigantes obras simplesmente desapareceram.",
+      "Faltam algumas horas para a abertura e, assim como você, os mais eficientes replicadores de arte foram convocados a garantir que a nova temporada aconteça, sem que o público perceba nada diferente do esperado. A primeira pessoa a resolver esse intenso desafio será considerada a salvadora do famoso M.A.R.A.V.I.L.H.A.!",
+      "____________________________",
+      "SIMPLES PARA APRENDER,",
+      "DESAFIADOR PARA VENCER!",
+      "Enquadrados é um jogo tático em tempo real. Para chegar à vitória contra grandes oponentes, é preciso combinar a destreza - para reproduzir padrões com velocidade – à capacidade de gerir riscos: valerá mais a pena acumular os pontos pouco a pouco, atrasando os demais jogadores? Ou será que é possível acelerar a partida, com pontuações altas em menos rodadas?",
+      "Com diferentes Modos e graus de dificuldade, o jogo oferece uma experiência incrível para variados perfis!"
+    ],
+    "components": "-74 cartas (55x55mm e 80x80mm)\n-Manual do jogo",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Cães POP - Batalha de Likes",
+    "price": "No price info",
+    "image": "c_es_pop___batalha_de_likes_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/caes-pop-batalha-de-likes",
+    "players": "2 a 5 jogadores",
+    "age": "4 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "c_es_pop___batalha_de_likes_cover.jpg",
+      "c_es_pop___batalha_de_likes_1.jpg",
+      "c_es_pop___batalha_de_likes_2.jpg",
+      "c_es_pop___batalha_de_likes_3.jpg",
+      "c_es_pop___batalha_de_likes_4.jpg",
+      "c_es_pop___batalha_de_likes_5.jpg",
+      "c_es_pop___batalha_de_likes_6.jpg"
+    ],
+    "description": "Junte likes e ganhe seguidores!\n\nCães Pop Batalha de Likes é um jogo de cartas em que os jogadores devem coletar o maior número de seguidores possível.\n\nJogues as cartas de Fotos de Cães para conquistar likes, troque-os por seguidores e torne-se o grande vencedor.\n\nMas CUIDADO! Alguns gatos são malvados nos comentários! Eles podem tanto te beneficiar quanto te prejudicar!",
+    "paragraphs": [
+      "Junte likes e ganhe seguidores!",
+      "Cães Pop Batalha de Likes é um jogo de cartas em que os jogadores devem coletar o maior número de seguidores possível.",
+      "Jogues as cartas de Fotos de Cães para conquistar likes, troque-os por seguidores e torne-se o grande vencedor.",
+      "Mas CUIDADO! Alguns gatos são malvados nos comentários! Eles podem tanto te beneficiar quanto te prejudicar!"
+    ],
+    "components": "O Jogo Cães Pop Batalha de Likes contém:\n- 1 Tabuleiro\n- 1 baralho de 105 cartas contendo: 70 Cartas de Foto, 24 Cartas de Comentário, 10 Cartas de Cães POP, 1 Carta de Close\n- 3 Cartelas com peças para destacar, contendo: 10 Fichas de Seguidores, 30 Fichas de Like",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/caes-pop-batalha-de-likes/anexos/201708",
+      "https://ludopedia.com.br/usuario/Dyon%20Enedi"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Mafia",
+    "price": "No price info",
+    "image": "mafia_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/mafia",
+    "players": "3 a 8 jogadores",
+    "age": "14 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "mafia_cover.jpg",
+      "mafia_1.jpg",
+      "mafia_2.jpg",
+      "mafia_3.jpg",
+      "mafia_4.jpg",
+      "mafia_5.jpg",
+      "mafia_6.jpg"
+    ],
+    "description": "A Máfia nunca esteve tão forte: assaltos, emboscadas e contrabandos correm soltos pelas ruas da cidade.\n\nMas a polícia também não está de brincadeira!\n\nPoliciais infiltrados vão tentar a todo custo sabotar as missões da Máfia para mostrar quem ainda manda na cidade!",
+    "paragraphs": [
+      "A Máfia nunca esteve tão forte: assaltos, emboscadas e contrabandos correm soltos pelas ruas da cidade.",
+      "Mas a polícia também não está de brincadeira!",
+      "Policiais infiltrados vão tentar a todo custo sabotar as missões da Máfia para mostrar quem ainda manda na cidade!"
+    ],
+    "components": "76 Cartas de Ação/Dinheiro (azione o denaro)\n16 Cartas de Personagens (personaggio)\n10 Cartas de Missão (missione)\n8 Cartas de Objetivo (obiettivo)",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/mafia/anexos/3276",
+      "https://ludopedia.com.br/usuario/Passinho",
+      "https://ludopedia.com.br/jogo/mafia/anexos/116",
+      "https://ludopedia.com.br/usuario/yxhjsk"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Perguntados",
+    "price": "No price info",
+    "image": "perguntados_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/perguntados",
+    "players": "2 a 6 jogadores",
+    "age": "7 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "perguntados_cover.jpg",
+      "perguntados_1.jpg"
+    ],
+    "description": "Aplicativo de sucesso mundial, agora em tabuleiro!\n\nO Perguntados é um jogo divertido de perguntas e respostas para toda família.\n\nGire a roleta e teste seu conhecimento!\n\nJogue com 360 novas perguntas neste incrível Tabuleiro.",
+    "paragraphs": [
+      "Aplicativo de sucesso mundial, agora em tabuleiro!",
+      "O Perguntados é um jogo divertido de perguntas e respostas para toda família.",
+      "Gire a roleta e teste seu conhecimento!",
+      "Jogue com 360 novas perguntas neste incrível Tabuleiro."
+    ],
+    "components": "O Jogo Perguntados contém:\n- 01 Roleta\n- 01 Baralhos com 204 cartas no formato 56 mm x 87 mm\n- 01 tabuleiro\n- 01 cartela de punchboard com peões, fichas e base da roleta.\n- 01 Manual de regras",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Múltiplas Identidades",
+    "price": "No price info",
+    "image": "battle_scenes___m_ltiplas_identidades_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-multiplas-identidades",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___m_ltiplas_identidades_cover.jpg",
+      "battle_scenes___m_ltiplas_identidades_1.jpg",
+      "battle_scenes___m_ltiplas_identidades_2.jpg",
+      "battle_scenes___m_ltiplas_identidades_3.jpg",
+      "battle_scenes___m_ltiplas_identidades_4.jpg"
+    ],
+    "description": "A coleção Múltiplas Identidades é a quarta de Battle Scenes.\n\nVilões viram heróis. Personagens mudam de time, de nome ou de uniforme, ao sabor das reviravoltas nas sagas dos quadrinhos. Estas reviravoltas agora também fazem parte de Battle Scenes. Bem-vindo ao mundo das Múltiplas Identidades!",
+    "paragraphs": [
+      "A coleção Múltiplas Identidades é a quarta de Battle Scenes.",
+      "Vilões viram heróis. Personagens mudam de time, de nome ou de uniforme, ao sabor das reviravoltas nas sagas dos quadrinhos. Estas reviravoltas agora também fazem parte de Battle Scenes. Bem-vindo ao mundo das Múltiplas Identidades!"
+    ],
+    "components": "Esta coleção possui 108 novos cards divididos entre duas subcoleções: boosters com cards numerados de 1 a 100 e 5 níveis de raridade e decks com cards numerados de 1 a 59, sendo 8 exclusivos.\n\nOs boosters estão disponíveis em 4 embalagens diferentes (também disponíveis em blister unitário) e cada um deles vem com 7 cards aleatórios. São 2 modelos de decks temáticos: Parede de Gelo e Parede de Plasma. Cada um contém 60 cards, 1 folheto de regras, 1 playmat para um jogador e 1 cartela com marcadores de escudos, poderes e alvos.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Mentalista",
+    "price": "R$ 61,44",
+    "image": "mentalista_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/mentalista",
+    "players": "3 a 99 jogadores",
+    "age": "14 +",
+    "duration": "60 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "mentalista_cover.jpg",
+      "mentalista_1.jpg",
+      "mentalista_2.jpg",
+      "mentalista_3.jpg"
+    ],
+    "description": "MENTALISTA é um jogo de leitura social, em que o desafio é acertar o que vem à mente de outros jogadores quando um tópico é trazido\n\npara a mesa. Cada uma das 60 Cartas Tópico traz 3 questões - por exemplo:\n\n“Um filme que ganhou um Oscar”\"; “Um filme com a palavra “Amor* no título”; “Um filme de ação”. As duas pessoas escolhidas para a\n\nrodada devem escrever suas respostas em uma folha de papel e revelar ao mesmo tempo.\n\nQuanto mais respostas equivalentes entre os dois jogadores, mais pontos eles ganham!\n\nUm jogo leve, com perguntas divertidas e suaves, com uma lindíssima embalagem metalizada. Promete ser um sucesso para adolescentes e um presente ideal para família e amigos.",
+    "paragraphs": [
+      "MENTALISTA é um jogo de leitura social, em que o desafio é acertar o que vem à mente de outros jogadores quando um tópico é trazido",
+      "para a mesa. Cada uma das 60 Cartas Tópico traz 3 questões - por exemplo:",
+      "“Um filme que ganhou um Oscar”\"; “Um filme com a palavra “Amor* no título”; “Um filme de ação”. As duas pessoas escolhidas para a",
+      "rodada devem escrever suas respostas em uma folha de papel e revelar ao mesmo tempo.",
+      "Quanto mais respostas equivalentes entre os dois jogadores, mais pontos eles ganham!",
+      "Um jogo leve, com perguntas divertidas e suaves, com uma lindíssima embalagem metalizada. Promete ser um sucesso para adolescentes e um presente ideal para família e amigos."
+    ],
+    "components": "60 cartas de tópicos\n1 bloco de pontuação\n1 bloco de respostas",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Poderes Ocultos",
+    "price": "R$ 34,00",
+    "image": "battle_scenes___poderes_ocultos_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-poderes-ocultos",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___poderes_ocultos_cover.jpg",
+      "battle_scenes___poderes_ocultos_1.jpg",
+      "battle_scenes___poderes_ocultos_2.jpg",
+      "battle_scenes___poderes_ocultos_3.jpg"
+    ],
+    "description": "Tudo o que você viu até agora foi apenas a ponta do iceberg. O verdadeiro potencial dessa batalha vai vir à tona quando todos conhecerem os Poderes Ocultos.\n\nA coleção Poderes Ocultos é a terceira de Battle Scenes.",
+    "paragraphs": [
+      "Tudo o que você viu até agora foi apenas a ponta do iceberg. O verdadeiro potencial dessa batalha vai vir à tona quando todos conhecerem os Poderes Ocultos.",
+      "A coleção Poderes Ocultos é a terceira de Battle Scenes."
+    ],
+    "components": "Esta coleção possui 108 novos cards divididos entre duas subcoleções: boosters com cards numerados de 1 a 100 e 5 níveis de raridade e decks com cards numerados de 1 a 56, sendo 8 exclusivos.\n\nOs boosters estão disponíveis em 4 embalagens diferentes (também disponíveis em blister unitário) e cada um deles vem com 7 cards aleatórios. São 2 modelos de decks temáticos: Planos Magistrais e Desígnios Malignos. Cada um contém 60 cards, 1 folheto de regras, 1 playmat para um jogador e 1 cartela com marcadores de escudos, poderes e alvos.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Joias",
+    "price": "No price info",
+    "image": "joias_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/joias",
+    "players": "3 a 6 jogadores",
+    "age": "8 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "joias_cover.jpg",
+      "joias_1.jpg",
+      "joias_2.jpg"
+    ],
+    "description": "Joias é um jogo de cartas para 3 a 6 jogadores. O objetivo é descartar todas as cartas da sua mão. O primeiro jogador na rodada joga de uma a quatro cartas iguais, ou cinco usando um curinga, e outros jogadores tem que jogar a mesma combinação com cartas de números mais baixos. Quando ninguém puder jogar uma nova combinação na rodada, uma nova rodada começa.",
+    "paragraphs": [
+      "Joias é um jogo de cartas para 3 a 6 jogadores. O objetivo é descartar todas as cartas da sua mão. O primeiro jogador na rodada joga de uma a quatro cartas iguais, ou cinco usando um curinga, e outros jogadores tem que jogar a mesma combinação com cartas de números mais baixos. Quando ninguém puder jogar uma nova combinação na rodada, uma nova rodada começa."
+    ],
+    "components": "1 Carta de Garantia\n3 Cartas de Regras\n51 Cartas",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Conquistando os Planetas",
+    "price": "No price info",
+    "image": "conquistando_os_planetas_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/conquistando-os-planetas",
+    "players": "3 a 6 jogadores",
+    "age": "12 +",
+    "duration": "180 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "conquistando_os_planetas_cover.jpg",
+      "conquistando_os_planetas_1.jpg",
+      "conquistando_os_planetas_2.jpg",
+      "conquistando_os_planetas_3.jpg",
+      "conquistando_os_planetas_4.jpg"
+    ],
+    "description": "Trata-se de um \"War\" simplificado. Cada jogador possui 6 naves e 4 mísseis e sorteia uma carta-objetivo, indicando os planetas a serem conquistados ou o inimigo a ser destruído.",
+    "paragraphs": [
+      "Trata-se de um \"War\" simplificado. Cada jogador possui 6 naves e 4 mísseis e sorteia uma carta-objetivo, indicando os planetas a serem conquistados ou o inimigo a ser destruído."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Pingo no I",
+    "price": "R$ 94,95",
+    "image": "pingo_no_i_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/pingo-no-i",
+    "players": "2 a 4 jogadores",
+    "age": "6 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "pingo_no_i_cover.jpg",
+      "pingo_no_i_1.jpg"
+    ],
+    "description": "O Pingo no i é um baralho diferente com letras no lugar de números e naipes. Com ele é possível inventar inúmeras formas de jogar, tendo como base o desafio de formar palavras que contenham no dicionário. O jogo acompanha um folheto de regras com quatro jogos diferentes.",
+    "paragraphs": [
+      "O Pingo no i é um baralho diferente com letras no lugar de números e naipes. Com ele é possível inventar inúmeras formas de jogar, tendo como base o desafio de formar palavras que contenham no dicionário. O jogo acompanha um folheto de regras com quatro jogos diferentes."
+    ],
+    "components": "110 cartas em cartão (109 cartas + carta garantia) + folheto de regras.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Dig In - Encontre se for Capaz",
+    "price": "R$ 114,56",
+    "image": "dig_in___encontre_se_for_capaz_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/dig-in-encontre-se-for-capaz",
+    "players": "2 a 4 jogadores",
+    "age": "4 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "dig_in___encontre_se_for_capaz_cover.jpg",
+      "dig_in___encontre_se_for_capaz_1.jpg"
+    ],
+    "description": "Quem é capaz de encontrar os objetos mais rápido em meio ao caos?\n\nDig In é um fantástico jogo para quem tem olhos de águia e dedos ágeis!\n\nVocê vai correr contra o tempo e contra seus oponentes para encontrar e resgatar os 6 objetos que estão em sua carta!\n\nCada jogador tem apenas 15 segundos para buscar seus objetos sozinho e depois todos devem procurar juntos!\n\nDesafie seus amigos e seja o grande vencedor!",
+    "paragraphs": [
+      "Quem é capaz de encontrar os objetos mais rápido em meio ao caos?",
+      "Dig In é um fantástico jogo para quem tem olhos de águia e dedos ágeis!",
+      "Você vai correr contra o tempo e contra seus oponentes para encontrar e resgatar os 6 objetos que estão em sua carta!",
+      "Cada jogador tem apenas 15 segundos para buscar seus objetos sozinho e depois todos devem procurar juntos!",
+      "Desafie seus amigos e seja o grande vencedor!"
+    ],
+    "components": "- 129 miniaturas coloridas\n- 1 ampulheta\n- 1 recipiente para misturar as figuras\n- 12 cartas com imagens frente e verso",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "EcoFluxx",
+    "price": "R$ 30,00",
+    "image": "ecofluxx_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/ecofluxx",
+    "players": "2 a 6 jogadores",
+    "age": "8 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "ecofluxx_cover.jpg",
+      "ecofluxx_1.jpg",
+      "ecofluxx_2.jpg",
+      "ecofluxx_3.jpg",
+      "ecofluxx_4.jpg",
+      "ecofluxx_5.jpg",
+      "ecofluxx_6.jpg"
+    ],
+    "description": "EcoFluxx é o jogo ecológico com regras que sempre mudam! Ele começa simples, com apenas a carta \"Regra Básica: Compre uma carta; Baixe uma carta na sua vez\". Mas cartas Nova Regra vão rapidamente tornar as coisas bem mais caóticas.\n\nAté mesmo a forma de ganhar o jogo vai mudar freqüentemente quando jogadores baixarem as cartas \"Objetivo\". Com tema ecológico, aprenda biologia, meio ambiente e preservação enquanto tenta atingir o \"Objetivo\" da \"Fotossíntese\" de combinar os \"Itens\" \"Luz dos Sol\" com \"Folhas\" antes que alguém troque o Objetivo novamente. E cuidado com a \"Seca\", \"Enchente\" ou \"Incêndio\" eles afetam todos os jogadores.",
+    "paragraphs": [
+      "EcoFluxx é o jogo ecológico com regras que sempre mudam! Ele começa simples, com apenas a carta \"Regra Básica: Compre uma carta; Baixe uma carta na sua vez\". Mas cartas Nova Regra vão rapidamente tornar as coisas bem mais caóticas.",
+      "Até mesmo a forma de ganhar o jogo vai mudar freqüentemente quando jogadores baixarem as cartas \"Objetivo\". Com tema ecológico, aprenda biologia, meio ambiente e preservação enquanto tenta atingir o \"Objetivo\" da \"Fotossíntese\" de combinar os \"Itens\" \"Luz dos Sol\" com \"Folhas\" antes que alguém troque o Objetivo novamente. E cuidado com a \"Seca\", \"Enchente\" ou \"Incêndio\" eles afetam todos os jogadores."
+    ],
+    "components": "1 manual de regras, e cartas:\nEcoFluxx (1.0), 84 cartas: Keepers (21), New Rules (17), Actions (18), Goals (26), Other (2)\nEcoFluxx (2.0), 100 cartas: Keepers (25), Creepers (3), New Rules (18), Actions (19), Goals (33), Other (2)",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/ecofluxx/anexos/1045",
+      "https://ludopedia.com.br/usuario/Ricardo%20Gama"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Mortes Estúpidas",
+    "price": "R$ 78,25",
+    "image": "mortes_est_pidas_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/mortes-estupidas",
+    "players": "2 a 4 jogadores",
+    "age": "14 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "mortes_est_pidas_cover.jpg",
+      "mortes_est_pidas_1.jpg"
+    ],
+    "description": "Mortes Estúpidas é um jogo de tabuleiro hilário, cheio de histórias curiosas, desajeitadas e surpreendentes sobre as formas de como as pessoas já morreram. Toda carta de pergunta contém uma Morte Estúpida, porém é verdade ou mentira? Responda corretamente e você fugirá do Peão da Morte, mas se responder errado o Peão da Morte se aproximará. Seja o último jogador no tabuleiro ou colete todas as letras da palavra “MORTE” e vença o jogo.",
+    "paragraphs": [
+      "Mortes Estúpidas é um jogo de tabuleiro hilário, cheio de histórias curiosas, desajeitadas e surpreendentes sobre as formas de como as pessoas já morreram. Toda carta de pergunta contém uma Morte Estúpida, porém é verdade ou mentira? Responda corretamente e você fugirá do Peão da Morte, mas se responder errado o Peão da Morte se aproximará. Seja o último jogador no tabuleiro ou colete todas as letras da palavra “MORTE” e vença o jogo."
+    ],
+    "components": "204 cartas no formato 56 mm x 87 mm\n3 cartelas destacáveis no formato 97 mm x 148 mm\n1 tabuleiro no formato 280 mm x 280 mm\n1 suporte para peão da Morte\n4 peões de plástico\n1 manual de instruções no formato156 mm x 226 mm",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Pirâmide Matemágica",
+    "price": "No price info",
+    "image": "pir_mide_matem_gica_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/piramide-matemagica",
+    "players": "2 a 4 jogadores",
+    "age": "5 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "pir_mide_matem_gica_cover.jpg",
+      "pir_mide_matem_gica_1.jpg",
+      "pir_mide_matem_gica_2.jpg",
+      "pir_mide_matem_gica_3.jpg",
+      "pir_mide_matem_gica_4.jpg",
+      "pir_mide_matem_gica_5.jpg",
+      "pir_mide_matem_gica_6.jpg"
+    ],
+    "description": "A caça ao tesouro já começou e ninguém pode ficar de fora desta nova aventura. O Pirâmide Matemágica é mais um emocionante jogo de lógica e interação que a Copag traz para você. Para achar o tesouro, é preciso descobrir todas as chaves numéricas e abrir as passagens secretas. Mas tudo deve ser feito bem rápido, antes que as múmias encontrem você e atrapalhem os seus planos de ficar rico mais cedo! Além de interativo, Pirâmide Matemágica é um jogo educativo que pode ser jogado por até 4 pessoas. Indicado a partir dos 5 anos, o baralho vem com 110 cartas.",
+    "paragraphs": [
+      "A caça ao tesouro já começou e ninguém pode ficar de fora desta nova aventura. O Pirâmide Matemágica é mais um emocionante jogo de lógica e interação que a Copag traz para você. Para achar o tesouro, é preciso descobrir todas as chaves numéricas e abrir as passagens secretas. Mas tudo deve ser feito bem rápido, antes que as múmias encontrem você e atrapalhem os seus planos de ficar rico mais cedo! Além de interativo, Pirâmide Matemágica é um jogo educativo que pode ser jogado por até 4 pessoas. Indicado a partir dos 5 anos, o baralho vem com 110 cartas."
+    ],
+    "components": "67 - cartas de passagens secretas (números de 10 a 96)\n30 - cartas de conjuntos decifradores (nº 1 a 9, 4 operações matemáticas, 2 coringas)\n13 - cartas de tesouros\n1 manual de regras trilingue (português, inglês, espanhol)",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Mr. Potato Head Monta-Batata",
+    "price": "No price info",
+    "image": "mr__potato_head_monta_batata_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/mr-potato-head-monta-batata",
+    "players": "2 a 4 jogadores",
+    "age": "4 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "mr__potato_head_monta_batata_cover.jpg",
+      "mr__potato_head_monta_batata_1.jpg",
+      "mr__potato_head_monta_batata_2.jpg"
+    ],
+    "description": "Encontre todas as peças e monte seu próprio Potato Head antes dos seus amigos. Mas tome cuidado, os outros jogadores tentarão ser mais rápidos que você! O jogador que tocar o sino primeiro vence o jogo.",
+    "paragraphs": [
+      "Encontre todas as peças e monte seu próprio Potato Head antes dos seus amigos. Mas tome cuidado, os outros jogadores tentarão ser mais rápidos que você! O jogador que tocar o sino primeiro vence o jogo."
+    ],
+    "components": "1 Sino, 110 cartas",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "A Copa da Árvore",
+    "price": "No price info",
+    "image": "a_copa_da__rvore_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/a-copa-da-rvore",
+    "players": "2 a 4 jogadores",
+    "age": "7 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "a_copa_da__rvore_cover.jpg",
+      "a_copa_da__rvore_1.jpg",
+      "a_copa_da__rvore_2.jpg",
+      "a_copa_da__rvore_3.jpg",
+      "a_copa_da__rvore_4.jpg",
+      "a_copa_da__rvore_5.jpg",
+      "a_copa_da__rvore_6.jpg"
+    ],
+    "description": "Plante frutas e flores, monte galhos e raízes e crie o bosque mais completo. A Copa da Árvore é um divertido jogo de estratégia para crianças e adultos. Inclui uma carta com semente de verdade para plantar!\n\nParte das vendas são revertidas para o Instituto Brasileiro de Defesa da Natureza.",
+    "paragraphs": [
+      "Plante frutas e flores, monte galhos e raízes e crie o bosque mais completo. A Copa da Árvore é um divertido jogo de estratégia para crianças e adultos. Inclui uma carta com semente de verdade para plantar!",
+      "Parte das vendas são revertidas para o Instituto Brasileiro de Defesa da Natureza."
+    ],
+    "components": "110 cartas + uma carta com semente de verdade para plantar",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Harry Potter: Desafio das Horcruxes",
+    "price": "R$ 19,96",
+    "image": "harry_potter__desafio_das_horcruxes_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/harry-potter-desafio-das-horcruxes",
+    "players": "2 a 4 jogadores",
+    "age": "4 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "harry_potter__desafio_das_horcruxes_cover.jpg",
+      "harry_potter__desafio_das_horcruxes_1.jpg",
+      "harry_potter__desafio_das_horcruxes_2.jpg",
+      "harry_potter__desafio_das_horcruxes_3.jpg",
+      "harry_potter__desafio_das_horcruxes_4.jpg",
+      "harry_potter__desafio_das_horcruxes_5.jpg"
+    ],
+    "description": "Destrua as Horcruxes para vencer!\n\nHarry Potter e seus amigos seguem à procura das horcruxes.\n\nO objetivo é encontrá-las e em seguida destruí-las para eliminar Lorde Voldemort de uma vez por todas. Junte sua turma para participar dessa busca também!\n\nNeste jogo cooperativo, vencer ou perder depende do esforço de todos os jogadores!\n\nO Harry Potter Desafio das Horcruxes Copag desenvolve ação motora, atenção seletiva e pensamento por classificação.",
+    "paragraphs": [
+      "Destrua as Horcruxes para vencer!",
+      "Harry Potter e seus amigos seguem à procura das horcruxes.",
+      "O objetivo é encontrá-las e em seguida destruí-las para eliminar Lorde Voldemort de uma vez por todas. Junte sua turma para participar dessa busca também!",
+      "Neste jogo cooperativo, vencer ou perder depende do esforço de todos os jogadores!",
+      "O Harry Potter Desafio das Horcruxes Copag desenvolve ação motora, atenção seletiva e pensamento por classificação."
+    ],
+    "components": "33 Cartas sendo:\n\n-1 carta de regras;\n-7 Horcrux;\n-7 Artefatos;\n-12 Itens;\n-3 Lord Voldemort;\n-2 Alvo Dumbledore;\n-1 Obliviate!",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Entrelaçados",
+    "price": "No price info",
+    "image": "entrela_ados_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/ringlding",
+    "players": "2 a 6 jogadores",
+    "age": "4 +",
+    "duration": "10 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "entrela_ados_cover.jpg",
+      "entrela_ados_1.jpg",
+      "entrela_ados_2.jpg",
+      "entrela_ados_3.jpg",
+      "entrela_ados_4.jpg"
+    ],
+    "description": "Você pensa que é rápido? O objetivo desse jogo é tentar colocar os elásticos de cabelo nos dedos conforme a combinação mostrada nas cartas o mais rápido possível. Pronto? Agora é só bater primeiro na campainha e a carta será sua!\n\nInclui um sino e elásticos coloridos!\n\nEntrelaçados leva os jogos de reconhecimento de padrões a um novo patamar.\n\nPara jogar os participantes devem colocar um sino no centro da mesa, embaralhar as cartas e dispor 72 elásticos coloridos ao alcance de todos. Uma carta é revelada e os jogadores correm para montar a combinação certa, na ordem certa de elásticos coloridos em seus dedos.\n\nO primeiro jogador a bater o sino ganha a cartas - mas somente se os elásticos estiverem colocados corretamente, é claro. Se o jogador errar, ele perde a carta reivindicada e mais uma das suas cartas. O primeiro jogador a coletar cinco cartas ganha.",
+    "paragraphs": [
+      "Você pensa que é rápido? O objetivo desse jogo é tentar colocar os elásticos de cabelo nos dedos conforme a combinação mostrada nas cartas o mais rápido possível. Pronto? Agora é só bater primeiro na campainha e a carta será sua!",
+      "Inclui um sino e elásticos coloridos!",
+      "Entrelaçados leva os jogos de reconhecimento de padrões a um novo patamar.",
+      "Para jogar os participantes devem colocar um sino no centro da mesa, embaralhar as cartas e dispor 72 elásticos coloridos ao alcance de todos. Uma carta é revelada e os jogadores correm para montar a combinação certa, na ordem certa de elásticos coloridos em seus dedos.",
+      "O primeiro jogador a bater o sino ganha a cartas - mas somente se os elásticos estiverem colocados corretamente, é claro. Se o jogador errar, ele perde a carta reivindicada e mais uma das suas cartas. O primeiro jogador a coletar cinco cartas ganha."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Hora da Aventura: Jogo Caminho da Aventura",
+    "price": "No price info",
+    "image": "hora_da_aventura__jogo_caminho_da_aventura_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/hora-da-aventura-jogo-caminho-da-aventura",
+    "players": "2 a 4 jogadores",
+    "age": "5 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "hora_da_aventura__jogo_caminho_da_aventura_cover.jpg",
+      "hora_da_aventura__jogo_caminho_da_aventura_1.jpg",
+      "hora_da_aventura__jogo_caminho_da_aventura_2.jpg",
+      "hora_da_aventura__jogo_caminho_da_aventura_3.jpg"
+    ],
+    "description": "Hora da Aventura - Jogo Caminho da Aventura\n\nMonte sua própria aventura, construindo o caminho do reino de Ooo e ajude Finn, Jake, Princesa Jujuba e Rei Gelado a percorrerem todo o percurso. Enfrente vários desafios e descubra quem tem mais sorte!",
+    "paragraphs": [
+      "Hora da Aventura - Jogo Caminho da Aventura",
+      "Monte sua própria aventura, construindo o caminho do reino de Ooo e ajude Finn, Jake, Princesa Jujuba e Rei Gelado a percorrerem todo o percurso. Enfrente vários desafios e descubra quem tem mais sorte!"
+    ],
+    "components": "55 cartas de 56 x 87 mm e 01 dado",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/hora-da-aventura-jogo-caminho-da-aventura/anexos/74171",
+      "https://ludopedia.com.br/usuario/ruy_ferraz"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Jogo do Burro",
+    "price": "No price info",
+    "image": "jogo_do_burro_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/jogo-do-burro",
+    "players": "4 a 8 jogadores",
+    "age": "5 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "jogo_do_burro_cover.jpg"
+    ],
+    "description": "No Jogo do Burro, é preciso ter atenção em todos os jogadores para não ser o último a baixar as cartas. Contém 58 cartas, incluindo 3 cartas 'PintaCara!' com tinta solúvel em água.\n\nO objetivo do jogo é ficar sem cartas na mão o mais rápido possível. Cada vez que um jogador perde, é assinalada uma letra da palavra \"burro\". O jogador que completar primeiro a palavra, é o burro e será o perdedor do jogo, conta-se o número de cartas que esse jogador ainda tem, e é costume tirar-se uma carta chamada ano de perdão e o resultado são os anos de burro do jogador perdedor. O vencedor é o último que não tenha completado a palavra enquanto os outros tenham.\n\n- Cada jogador recebe três cartas;\n\n- O jogador à esquerda do distribuidor começa jogando na mesa a carta mais alta que tiver na mão, de qualquer naipe, por exemplo, um 8 de copas; o segundo jogador tem de jogar outra carta de copas no monte (é obrigado a assistir). Se tiver uma carta de copas, o jogo prossegue com o próximo jogador da mesma forma, se não, ele compra do bolo (baralho) até obter uma carta desse naipe;\n\n- Ganha o direito a iniciar a próxima rodada o jogador que colocar a carta mais alta na mesa.",
+    "paragraphs": [
+      "No Jogo do Burro, é preciso ter atenção em todos os jogadores para não ser o último a baixar as cartas. Contém 58 cartas, incluindo 3 cartas 'PintaCara!' com tinta solúvel em água.",
+      "O objetivo do jogo é ficar sem cartas na mão o mais rápido possível. Cada vez que um jogador perde, é assinalada uma letra da palavra \"burro\". O jogador que completar primeiro a palavra, é o burro e será o perdedor do jogo, conta-se o número de cartas que esse jogador ainda tem, e é costume tirar-se uma carta chamada ano de perdão e o resultado são os anos de burro do jogador perdedor. O vencedor é o último que não tenha completado a palavra enquanto os outros tenham.",
+      "- Cada jogador recebe três cartas;",
+      "- O jogador à esquerda do distribuidor começa jogando na mesa a carta mais alta que tiver na mão, de qualquer naipe, por exemplo, um 8 de copas; o segundo jogador tem de jogar outra carta de copas no monte (é obrigado a assistir). Se tiver uma carta de copas, o jogo prossegue com o próximo jogador da mesma forma, se não, ele compra do bolo (baralho) até obter uma carta desse naipe;",
+      "- Ganha o direito a iniciar a próxima rodada o jogador que colocar a carta mais alta na mesa."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Jogo do Mico",
+    "price": "R$ 24,74",
+    "image": "jogo_do_mico_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/jogo-do-mico",
+    "players": "2 a 6 jogadores",
+    "age": "4 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "jogo_do_mico_cover.jpg",
+      "jogo_do_mico_1.jpg",
+      "jogo_do_mico_2.jpg",
+      "jogo_do_mico_3.jpg",
+      "jogo_do_mico_4.jpg",
+      "jogo_do_mico_5.jpg",
+      "jogo_do_mico_6.jpg"
+    ],
+    "description": "Jogo infantil muito popular no Brasil, já lançado em diversos temas e reimpressões. Mico (ou Jogo do Mico) este consiste em formar os pares de animais nas mãos dos jogadores enquanto se procura se livrar da carta proibida, o Mico. O jogo foi muito popular no nosso país nos anos 80 e 90.\n\nGanha quem conseguir se livrar de todas as cartas e não terminar com o mico no final do jogo. Mico é uma reimpressão do Jogo \"Old Maid\" aqui no Brasil.",
+    "paragraphs": [
+      "Jogo infantil muito popular no Brasil, já lançado em diversos temas e reimpressões. Mico (ou Jogo do Mico) este consiste em formar os pares de animais nas mãos dos jogadores enquanto se procura se livrar da carta proibida, o Mico. O jogo foi muito popular no nosso país nos anos 80 e 90.",
+      "Ganha quem conseguir se livrar de todas as cartas e não terminar com o mico no final do jogo. Mico é uma reimpressão do Jogo \"Old Maid\" aqui no Brasil."
+    ],
+    "components": "- 48 cartas de jogo (animais)\n- 4 cartas de regras\n- 2 cartas em branco (depende da versão)\nVersão Copag",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/jogo-do-mico/anexos/160768",
+      "https://ludopedia.com.br/usuario/Leo.Ingenito"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Vingadores Era de Ultron: Controle de Invasão",
+    "price": "R$ 29,90",
+    "image": "vingadores_era_de_ultron__controle_de_invas_o_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/vingadores-era-de-ultron-controle-de-invasao",
+    "players": "1 a 4 jogadores",
+    "age": "7 +",
+    "duration": "15 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "vingadores_era_de_ultron__controle_de_invas_o_cover.jpg",
+      "vingadores_era_de_ultron__controle_de_invas_o_1.jpg",
+      "vingadores_era_de_ultron__controle_de_invas_o_2.jpg"
+    ],
+    "description": "Um incrível jogo em que você deve unir as forças de cada um dos Vingadores para combater a invasão de Ultrons. Diferente de tudo o que você já jogou, Controle de Invasão traz uma experiência estratégica única!",
+    "paragraphs": [
+      "Um incrível jogo em que você deve unir as forças de cada um dos Vingadores para combater a invasão de Ultrons. Diferente de tudo o que você já jogou, Controle de Invasão traz uma experiência estratégica única!"
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Jogo da Aposta",
+    "price": "R$ 60,00",
+    "image": "jogo_da_aposta_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/rook",
+    "players": "2 a 6 jogadores",
+    "age": "8 +",
+    "duration": "45 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "jogo_da_aposta_cover.jpg",
+      "jogo_da_aposta_1.jpg",
+      "jogo_da_aposta_2.jpg",
+      "jogo_da_aposta_3.jpg",
+      "jogo_da_aposta_4.jpg"
+    ],
+    "description": "Rook foi vendido pela primeira vez em 1906 por Parker Brothers. O baralho Rook é semelhante a um baralho de cartas, mas tem apenas números 1-14 em quatro cores (sem cartas de rosto ou naipes).\n\nO jogo padrão é de 4 jogadores, com uma mecânica forte de leilão, mas existem variantes para 2 e 3 jogadores nas regras, e há também muitas variações e regras da casa utilizados no jogo.\n\nRook também é referido como um Poker Missionário. O baralho Rook, com cartas sem face ou naipes, é muitas vezes jogado por grupos religiosos que se opõem ao uso de um baralho de cartas comum.",
+    "paragraphs": [
+      "Rook foi vendido pela primeira vez em 1906 por Parker Brothers. O baralho Rook é semelhante a um baralho de cartas, mas tem apenas números 1-14 em quatro cores (sem cartas de rosto ou naipes).",
+      "O jogo padrão é de 4 jogadores, com uma mecânica forte de leilão, mas existem variantes para 2 e 3 jogadores nas regras, e há também muitas variações e regras da casa utilizados no jogo.",
+      "Rook também é referido como um Poker Missionário. O baralho Rook, com cartas sem face ou naipes, é muitas vezes jogado por grupos religiosos que se opõem ao uso de um baralho de cartas comum."
+    ],
+    "components": "57 cartas",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/rook/anexos/176549",
+      "https://ludopedia.com.br/usuario/Railber",
+      "https://ludopedia.com.br/jogo/rook/anexos/176547",
+      "https://ludopedia.com.br/usuario/Railber",
+      "https://ludopedia.com.br/jogo/rook/anexos/176548",
+      "https://ludopedia.com.br/usuario/Railber"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Convocados",
+    "price": "No price info",
+    "image": "convocados_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/convocados",
+    "players": "2 a 4 jogadores",
+    "age": "7 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "convocados_cover.jpg",
+      "convocados_1.jpg",
+      "convocados_2.jpg",
+      "convocados_3.jpg",
+      "convocados_4.jpg",
+      "convocados_5.jpg",
+      "convocados_6.jpg"
+    ],
+    "description": "Você é um dos técnicos de maior sucesso no futebol mundial e foi um dos escolhidos pela FIFCA (Federação Internacional de Futebol de Cartas) para comandar uma equipe de craques das melhores seleções do mundo em um campeonato diferente.\n\nEm \"Convocados\" você terá a oportunidade de escalar sua equipe com os melhores jogadores de 8 grandes potências do futebol: Brasil, Argentina, Itália, Alemanha, Espanha, Uruguai, Holanda e França.\n\nMas não será tão simples quanto parece, pois as partidas serão disputadas contra outros grandes técnicos de futebol que poderão utilizar os astros dos mesmos países selecionados por você. Seja rápido ao convocar seus jogadores, escolha o melhor esquema tático e faça seu time vencer essa partida!",
+    "paragraphs": [
+      "Você é um dos técnicos de maior sucesso no futebol mundial e foi um dos escolhidos pela FIFCA (Federação Internacional de Futebol de Cartas) para comandar uma equipe de craques das melhores seleções do mundo em um campeonato diferente.",
+      "Em \"Convocados\" você terá a oportunidade de escalar sua equipe com os melhores jogadores de 8 grandes potências do futebol: Brasil, Argentina, Itália, Alemanha, Espanha, Uruguai, Holanda e França.",
+      "Mas não será tão simples quanto parece, pois as partidas serão disputadas contra outros grandes técnicos de futebol que poderão utilizar os astros dos mesmos países selecionados por você. Seja rápido ao convocar seus jogadores, escolha o melhor esquema tático e faça seu time vencer essa partida!"
+    ],
+    "components": "- 1 Livreto de Regras em 3 idiomas (Português, Espanhol e Inglês);\n- 80 Cartas de Jogadores;\n- 8 Cartas de Esquema Tático;\n- 6 Cartas de Campo de Jogo;\n- 16 Cartas de Tática/Ação;",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/convocados/anexos/890",
+      "https://ludopedia.com.br/usuario/Ricardo%20Gama"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Super Trunfo",
+    "price": "No price info",
+    "image": "super_trunfo_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/top-trumps",
+    "players": "2 a 8 jogadores",
+    "age": "6 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "super_trunfo_cover.jpg"
+    ],
+    "description": "Super Trunfo é um jogo de cartas colecionáveis que consiste em tomar todas as cartas em jogo dos outros participantes por meio de escolhas de características de cada carta. O jogo comporta de dois a oito participantes e tem classificação livre, podendo ser disputado por qualquer pessoa alfabetizada.\n\nO jogo é caracterizado pela embalagem plástica simples que vem em uma cartela de papelão, as regras vêm encartadas no verso da própria etiqueta. Tradicionalmente, estão em disputa 32 cartas, divididas em oito grupos de quatro cartas (1A-1D, 2A-2D,… 8A-8D), sendo que uma delas é a carta \"Super Trunfo\" que ao entrar em disputa pode ser invocada para tomar as outras cartas na mão dos oponentes.",
+    "paragraphs": [
+      "Super Trunfo é um jogo de cartas colecionáveis que consiste em tomar todas as cartas em jogo dos outros participantes por meio de escolhas de características de cada carta. O jogo comporta de dois a oito participantes e tem classificação livre, podendo ser disputado por qualquer pessoa alfabetizada.",
+      "O jogo é caracterizado pela embalagem plástica simples que vem em uma cartela de papelão, as regras vêm encartadas no verso da própria etiqueta. Tradicionalmente, estão em disputa 32 cartas, divididas em oito grupos de quatro cartas (1A-1D, 2A-2D,… 8A-8D), sendo que uma delas é a carta \"Super Trunfo\" que ao entrar em disputa pode ser invocada para tomar as outras cartas na mão dos oponentes."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/top-trumps/anexos/12639",
+      "https://ludopedia.com.br/usuario/Barathrum"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "A Bela E A Fera Baralho Rouba Monte",
+    "price": "No price info",
+    "image": "a_bela_e_a_fera_baralho_rouba_monte_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/a-bela-e-a-fera-baralho-rouba-monte",
+    "players": "2 a 4 jogadores",
+    "age": "4 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "a_bela_e_a_fera_baralho_rouba_monte_cover.jpg",
+      "a_bela_e_a_fera_baralho_rouba_monte_1.jpg"
+    ],
+    "description": "Tente conquistar todos os personagens antes que peguem as suas cartas! Quem tiver o maior monte no final do jogo é o vencedor. O jogo de cartas para crianças A Bela e a Fera Rouba-Monte contém 55 unidades de cartas no formato 56 mm x 87 mm. Este jogo desenvolve: Raciocínio lógico, Pensamento estratégico, Atenção seletiva.",
+    "paragraphs": [
+      "Tente conquistar todos os personagens antes que peguem as suas cartas! Quem tiver o maior monte no final do jogo é o vencedor. O jogo de cartas para crianças A Bela e a Fera Rouba-Monte contém 55 unidades de cartas no formato 56 mm x 87 mm. Este jogo desenvolve: Raciocínio lógico, Pensamento estratégico, Atenção seletiva."
+    ],
+    "components": "55 cartas",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Aladdin Jogo do Mico + Cartas para Colorir",
+    "price": "No price info",
+    "image": "aladdin_jogo_do_mico___cartas_para_colorir_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/aladdin-jogo-do-mico-cartas-para-colorir",
+    "players": "2 a 4 jogadores",
+    "age": "4 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "aladdin_jogo_do_mico___cartas_para_colorir_cover.jpg",
+      "aladdin_jogo_do_mico___cartas_para_colorir_1.jpg"
+    ],
+    "description": "Retorne às vibrantes ruas de Agrabah com o carismático gatuno Aladdin e seu macaco de estimação Abu! Eles entraram em uma grande confusão envolvendo Jasmine , a princesa de Agrabah, e o incrível Gênio da lâmpada. Junte os pares de sua mão e livre-se da carta do Mico (Abu) para não ser preso pelo poderoso mago Jafar.\n\nDivirta-se também com lindas cartas para colorir.",
+    "paragraphs": [
+      "Retorne às vibrantes ruas de Agrabah com o carismático gatuno Aladdin e seu macaco de estimação Abu! Eles entraram em uma grande confusão envolvendo Jasmine , a princesa de Agrabah, e o incrível Gênio da lâmpada. Junte os pares de sua mão e livre-se da carta do Mico (Abu) para não ser preso pelo poderoso mago Jafar.",
+      "Divirta-se também com lindas cartas para colorir."
+    ],
+    "components": "01 carta de regras\n33 cartas do jogo\n21 cartas para colorir",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Arena de Batalha Pokémon – Kyurem Preto VS Kyurem Branco",
+    "price": "No price info",
+    "image": "arena_de_batalha_pok_mon___kyurem_preto_vs_kyurem_branco_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/pokemon-tcg-battle-arena-decks-black-kyurem-vs-white-kyurem-card-game",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "arena_de_batalha_pok_mon___kyurem_preto_vs_kyurem_branco_cover.jpg",
+      "arena_de_batalha_pok_mon___kyurem_preto_vs_kyurem_branco_1.jpg"
+    ],
+    "description": "Dois Pokémon Poderosos Batalham pela Vitória! Kyurem Preto e Kyurem Branco se enfrentam cara a cara nos novos baralhos Arena de Batalha do Pokémon Estampas Ilustradas! Estes dois Baralhos Pokémon de 60 cartas já estão prontos para serem jogados, com cartas poderosas e estratégias vencedoras dignas de um Treinador de elite! Cada baralho é liderado por um Pokémon-EX excepcional e inclui 11 cartas holográficas. Que comece a batalha!",
+    "paragraphs": [
+      "Dois Pokémon Poderosos Batalham pela Vitória! Kyurem Preto e Kyurem Branco se enfrentam cara a cara nos novos baralhos Arena de Batalha do Pokémon Estampas Ilustradas! Estes dois Baralhos Pokémon de 60 cartas já estão prontos para serem jogados, com cartas poderosas e estratégias vencedoras dignas de um Treinador de elite! Cada baralho é liderado por um Pokémon-EX excepcional e inclui 11 cartas holográficas. Que comece a batalha!"
+    ],
+    "components": "- 2 moedas e 2 conjuntos de contadores de dano.\n- 1 tabuleiro para 2 jogadores com as regras do jogo no verso.\n- 1 carta codificada para jogar estes baralhos no Pokémon Estampas Ilustradas Online.\n- 2 caixas de baralhos\n- 1 guia rápido para desbloquear estratégias poderosas.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Armada",
+    "price": "No price info",
+    "image": "armada_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/armada",
+    "players": "2 jogadores",
+    "age": "6 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "armada_cover.jpg",
+      "armada_1.jpg"
+    ],
+    "description": "O jogo consiste de uma batalha aérea e naval. Consiste em dois tabuleiros e dois decks com 56 cartas. Cada equipe (azul ou verde) tem 15 cartas incluindo navios e aeronaves e 41 cartas marcadas como \"água\". Mas as regras são diferentes do jogo Batalha Naval.",
+    "paragraphs": [
+      "O jogo consiste de uma batalha aérea e naval. Consiste em dois tabuleiros e dois decks com 56 cartas. Cada equipe (azul ou verde) tem 15 cartas incluindo navios e aeronaves e 41 cartas marcadas como \"água\". Mas as regras são diferentes do jogo Batalha Naval."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Baby Shark – Jogo das Cores",
+    "price": "No price info",
+    "image": "baby_shark___jogo_das_cores_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/baby-shark-jogo-das-cores",
+    "players": "2 a 4 jogadores",
+    "age": "4 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "baby_shark___jogo_das_cores_cover.jpg",
+      "baby_shark___jogo_das_cores_1.jpg"
+    ],
+    "description": "Encontre seus personagens favoritos e suas cores correspondentes no Jogo das Cores Baby Shark!\n\nEste divertido jogo é um excelente exercício para o aprendizado das cores e para a memorização.\n\nO Baby Shark Jogo das Cores Copag desenvolve atenção seletiva, funções motoras e capacidade de memorização.",
+    "paragraphs": [
+      "Encontre seus personagens favoritos e suas cores correspondentes no Jogo das Cores Baby Shark!",
+      "Este divertido jogo é um excelente exercício para o aprendizado das cores e para a memorização.",
+      "O Baby Shark Jogo das Cores Copag desenvolve atenção seletiva, funções motoras e capacidade de memorização."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Baralho Batman Cavaleiro Das Trevas + Lata Luxo",
+    "price": "No price info",
+    "image": "baralho_batman_cavaleiro_das_trevas___lata_luxo_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/baralho-batman-cavaleiro-das-trevas-lata-luxo",
+    "players": "1 a 8 jogadores",
+    "age": "6 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "baralho_batman_cavaleiro_das_trevas___lata_luxo_cover.jpg",
+      "baralho_batman_cavaleiro_das_trevas___lata_luxo_1.jpg",
+      "baralho_batman_cavaleiro_das_trevas___lata_luxo_2.jpg",
+      "baralho_batman_cavaleiro_das_trevas___lata_luxo_3.jpg"
+    ],
+    "description": "Baralho Batman Cavaleiro Das Trevas Lata Luxo Copag O jogo de cartas do Batman foi desenvolvido com elementos inspirados no filme \" O Cavaleiro das Trevas Ressurge\".\n\nTodas as cartas são personalizadas, com destaque para os Valetes, Damas, Reis, Ases e Curingas. Divirta-se com mais essa novidade!\n\nContém: 110 cartas (2 jogos de 52 cartas + 4 curingas + carta garantia + carta Copaguinho) Tamanho da carta: 57 x 89 mm (Bridge Size) Tipo da carta: cartão couché 270 g/m2 Desenvolve: Lógica e Interação. Embalagem: Lata com 2 baralhos.",
+    "paragraphs": [
+      "Baralho Batman Cavaleiro Das Trevas Lata Luxo Copag O jogo de cartas do Batman foi desenvolvido com elementos inspirados no filme \" O Cavaleiro das Trevas Ressurge\".",
+      "Todas as cartas são personalizadas, com destaque para os Valetes, Damas, Reis, Ases e Curingas. Divirta-se com mais essa novidade!",
+      "Contém: 110 cartas (2 jogos de 52 cartas + 4 curingas + carta garantia + carta Copaguinho) Tamanho da carta: 57 x 89 mm (Bridge Size) Tipo da carta: cartão couché 270 g/m2 Desenvolve: Lógica e Interação. Embalagem: Lata com 2 baralhos."
+    ],
+    "components": "Total de 110 Cartas Tradicionais\nSendo: 2 jogos de 52 cartas + 4 coringas",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Baralho Inicial Altitude Exorbitante Sol e Lua 12 Eclipse Cósmico - Groundon",
+    "price": "No price info",
+    "image": "baralho_inicial_altitude_exorbitante_sol_e_lua_12_eclipse_c_smico___groundon_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/pokemon-tcg-sun-moon-12-cosmic-eclipse-towering-heights-groundon",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "baralho_inicial_altitude_exorbitante_sol_e_lua_12_eclipse_c_smico___groundon_cover.jpg",
+      "baralho_inicial_altitude_exorbitante_sol_e_lua_12_eclipse_c_smico___groundon_1.jpg"
+    ],
+    "description": "Leve a batalha às alturas!\n\nO Lendário Groudon está pronto para pulverizar seus oponentes com Garchomp ao seu lado! Use a Habilidade Tremor de Seismitoad para realizar buscas poderosas, conte com a Dama para conseguir mais Energias e Throh para desferir ataques devastadores. Saia por cima com o baralho temático Altitude Exorbitante!\n\nDeck Altitude Exorbitante:\n\nGroudon x2\n\nGarchomp x2\n\nGabite x3\n\nGible x3\n\nSeismitoad x2\n\nPalpitoad x3\n\nTympole x3\n\nPassimian x2\n\nThroh x2\n\nMew x1\n\nCaça-inseto x2\n\nCíntia x2\n\nHibi x2\n\nDama x1\n\nLílian x2\n\nComunicação pokémon x2\n\nFã clube pokémon x2\n\nSubstituição x2\n\nTate e liza x2\n\nEnergia de luta x18\n\nEnergia de compra x2",
+    "paragraphs": [
+      "Leve a batalha às alturas!",
+      "O Lendário Groudon está pronto para pulverizar seus oponentes com Garchomp ao seu lado! Use a Habilidade Tremor de Seismitoad para realizar buscas poderosas, conte com a Dama para conseguir mais Energias e Throh para desferir ataques devastadores. Saia por cima com o baralho temático Altitude Exorbitante!",
+      "Deck Altitude Exorbitante:",
+      "Groudon x2",
+      "Garchomp x2",
+      "Gabite x3",
+      "Gible x3",
+      "Seismitoad x2",
+      "Palpitoad x3",
+      "Tympole x3",
+      "Passimian x2",
+      "Throh x2",
+      "Mew x1",
+      "Caça-inseto x2",
+      "Cíntia x2",
+      "Hibi x2",
+      "Dama x1",
+      "Lílian x2",
+      "Comunicação pokémon x2",
+      "Fã clube pokémon x2",
+      "Substituição x2",
+      "Tate e liza x2",
+      "Energia de luta x18",
+      "Energia de compra x2"
+    ],
+    "components": "• 1 baralho com 60 cartas de Pokémon\n• 1 lista de cartas\n• 1 moeda\n• 1 tabuleiro para 2 jogadores com as regras do jogo no verso\n• 1 carta codificada para jogar este baralho online\n• 1 caixa de baralho\n• Contadores de dano",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Baralho Inicial Pokémon Anel de Raios XY 11 Cerco de Vapor - Hoopa",
+    "price": "No price info",
+    "image": "baralho_inicial_pok_mon_anel_de_raios_xy_11_cerco_de_vapor___hoopa_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/starter-deck-pokemon-tcg-xy-steam-siege-ring-of-lightning-theme-deck",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "baralho_inicial_pok_mon_anel_de_raios_xy_11_cerco_de_vapor___hoopa_cover.jpg",
+      "baralho_inicial_pok_mon_anel_de_raios_xy_11_cerco_de_vapor___hoopa_1.jpg"
+    ],
+    "description": "Deck Pokémon Anel de Raios\n\nControle as Correntes Crepitantes!\n\nLance raios e use golpes psíquicos com o Mítico Pokémon Hoopa! As teias elétricas de Galvantula e o poder crescente de Ampharos fazem com que a corrente elétrica continue fluindo para dar um bom choque no seu oponente. Invoque uma trovoada!\n\nDecklist: Hoopa 2 Drifblim 2 Drifloon 3 Lampent 2 Litwick 3 Galvantula 1 Joltik 3 Ampharos 2 Flaaffy 2 Mareep 3 Ambipom 2 Aipom 3 Hawlucha 2 Recuperação de Energia 2 Evosoda 1 Menino Ninja 2 Poção 1 Carta do Professor 2 Shauna 1 Tierno 2 Ultra Bola 1 Energia Psíquica 10 Energia de Raios 8",
+    "paragraphs": [
+      "Deck Pokémon Anel de Raios",
+      "Controle as Correntes Crepitantes!",
+      "Lance raios e use golpes psíquicos com o Mítico Pokémon Hoopa! As teias elétricas de Galvantula e o poder crescente de Ampharos fazem com que a corrente elétrica continue fluindo para dar um bom choque no seu oponente. Invoque uma trovoada!",
+      "Decklist: Hoopa 2 Drifblim 2 Drifloon 3 Lampent 2 Litwick 3 Galvantula 1 Joltik 3 Ampharos 2 Flaaffy 2 Mareep 3 Ambipom 2 Aipom 3 Hawlucha 2 Recuperação de Energia 2 Evosoda 1 Menino Ninja 2 Poção 1 Carta do Professor 2 Shauna 1 Tierno 2 Ultra Bola 1 Energia Psíquica 10 Energia de Raios 8"
+    ],
+    "components": "Baralho Pokémon contendo 60 cards.\n1 lista de cards\n1 moeda metalizada\nFolha de regras e playmat para 2 jogadores\n1 carta codificada para jogar este baralho on-line\n1 caixinha para baralho\nContadores de danos",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Baralho Inicial Profundezas Ocultas Sol e Lua 12 Eclipse Cósmico - Kyogre",
+    "price": "No price info",
+    "image": "baralho_inicial_profundezas_ocultas_sol_e_lua_12_eclipse_c_smico___kyogre_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/pokemon-tcg-sun-moon-12-cosmic-eclipse-unseen-depths-kyogre",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "baralho_inicial_profundezas_ocultas_sol_e_lua_12_eclipse_c_smico___kyogre_cover.jpg",
+      "baralho_inicial_profundezas_ocultas_sol_e_lua_12_eclipse_c_smico___kyogre_1.jpg"
+    ],
+    "description": "Um mar de ataques do fundo do oceano!\n\nInvoque ondas turbulentas com Kyogre, o Pokémon Lendário dos oceanos. Use o poderoso ataque Recordar de Empoleon para desferir golpes marítimos e a Habilidade Redemoinho de Sucção de Phione para desnortear seus oponentes. Controle as marés e navegue em direção à vitória com o baralho temático Profundezas Ocultas!\n\nDECK PROFUNDEZAS OCULTAS: Kyogre x 2 Empoleon x 2 Prinplup x 3 Piplup x 3 Golduck x 2 Psyduck x 3 Ambipom x 2 Aipom x 3 Pyukumuku x 2 Phione x 1 Cíntia x 2 Hibi x 2 Lílian x 2 Comunicação Pokémon x 2 Fã Clube Pokémon x 2 Patinadora x 2 Substituição x 2 Tate e Liza x 2 Floresta de Viridian x 1 Energia de Água x 18 Energia de Compra x 2.",
+    "paragraphs": [
+      "Um mar de ataques do fundo do oceano!",
+      "Invoque ondas turbulentas com Kyogre, o Pokémon Lendário dos oceanos. Use o poderoso ataque Recordar de Empoleon para desferir golpes marítimos e a Habilidade Redemoinho de Sucção de Phione para desnortear seus oponentes. Controle as marés e navegue em direção à vitória com o baralho temático Profundezas Ocultas!",
+      "DECK PROFUNDEZAS OCULTAS: Kyogre x 2 Empoleon x 2 Prinplup x 3 Piplup x 3 Golduck x 2 Psyduck x 3 Ambipom x 2 Aipom x 3 Pyukumuku x 2 Phione x 1 Cíntia x 2 Hibi x 2 Lílian x 2 Comunicação Pokémon x 2 Fã Clube Pokémon x 2 Patinadora x 2 Substituição x 2 Tate e Liza x 2 Floresta de Viridian x 1 Energia de Água x 18 Energia de Compra x 2."
+    ],
+    "components": "• 1 baralho com 60 cartas de Pokémon\n• 1 lista de cartas\n• 1 moeda\n• 1 tabuleiro para 2 jogadores com as regras do jogo no verso\n• 1 carta codificada para jogar este baralho online\n• 1 caixa de baralho\n• Contadores de dano",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Ascensão e Queda",
+    "price": "No price info",
+    "image": "battle_scenes___ascens_o_e_queda_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-ascensao-e-queda",
+    "players": "2 jogadores",
+    "age": "12 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___ascens_o_e_queda_cover.jpg",
+      "battle_scenes___ascens_o_e_queda_1.jpg"
+    ],
+    "description": "Desta vez você lutará intensas batalhas ao lado de deuses imortais e de meros humanos!\n\nO Universo Marvel é repleto de Deuses e Heróis. De um lado, gigantes de poderes descomunais batalham pelo futuro de raças inteiras. De outro, homens e mulheres se empenham para defender uns aos outros no dia a dia das ruas. De imortais à meros humanos. Do Céu à Cozinha do Inferno. Da Ascensão à Queda.\n\nA coleção Ascensão e Queda é a nona de Battle Scenes, e traz os decks Justiça Cega e Tentáculos do Crime.",
+    "paragraphs": [
+      "Desta vez você lutará intensas batalhas ao lado de deuses imortais e de meros humanos!",
+      "O Universo Marvel é repleto de Deuses e Heróis. De um lado, gigantes de poderes descomunais batalham pelo futuro de raças inteiras. De outro, homens e mulheres se empenham para defender uns aos outros no dia a dia das ruas. De imortais à meros humanos. Do Céu à Cozinha do Inferno. Da Ascensão à Queda.",
+      "A coleção Ascensão e Queda é a nona de Battle Scenes, e traz os decks Justiça Cega e Tentáculos do Crime."
+    ],
+    "components": "Cada deck contém: 60 cards + 1 folheto de regras/playmat para um jogador + 1 cartela com marcadores de escudos, poderes e alvos.\nFormato cards: 63 mm x 88 mm.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Battle Box Conspiração Illuminati",
+    "price": "R$ 145,50",
+    "image": "battle_scenes___battle_box_conspira__o_illuminati_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-battle-box-conspiracao-illuminati",
+    "players": "2 jogadores",
+    "age": "12 +",
+    "duration": "40 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___battle_box_conspira__o_illuminati_cover.jpg",
+      "battle_scenes___battle_box_conspira__o_illuminati_1.jpg"
+    ],
+    "description": "O Battle Box – Conspiração Illuminati traz dois dos maiores heróis da Marvel, integrantes de um grupo secreto que costuma tramar a respeito do futuro da Terra e do próprio universo.\n\nO Rei T’Challa, vulgo Pantera Negra, recebe em seu reino de Wakanda o Dr. Estranho, mestre das artes místicas, para darem início a um debate sobre segredos que não podem mais ser escondidos. A Guerra Civil se aproxima e situações extremas exigirão a tomada de decisões extremas. Não importa o lado que você tomar – os Illuminati sempre estarão de olho…",
+    "paragraphs": [
+      "O Battle Box – Conspiração Illuminati traz dois dos maiores heróis da Marvel, integrantes de um grupo secreto que costuma tramar a respeito do futuro da Terra e do próprio universo.",
+      "O Rei T’Challa, vulgo Pantera Negra, recebe em seu reino de Wakanda o Dr. Estranho, mestre das artes místicas, para darem início a um debate sobre segredos que não podem mais ser escondidos. A Guerra Civil se aproxima e situações extremas exigirão a tomada de decisões extremas. Não importa o lado que você tomar – os Illuminati sempre estarão de olho…"
+    ],
+    "components": "Este box contém 7 pacotes de boosters (1 de cada coleção já lançada em Battle Scenes), 3 cards holográficos exclusivos e inéditos e 2 dados de escudos.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Battle Box Guerra Incessante",
+    "price": "No price info",
+    "image": "battle_scenes___battle_box_guerra_incessante_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-battle-box-guerra-incessante",
+    "players": "2 jogadores",
+    "age": "13 +",
+    "duration": "40 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___battle_box_guerra_incessante_cover.jpg",
+      "battle_scenes___battle_box_guerra_incessante_1.jpg"
+    ],
+    "description": "Battle Box, 3 cartas exclusivas, uma delas única, mais 4 boosters, um de cada coleção lançada até o momento.",
+    "paragraphs": [
+      "Battle Box, 3 cartas exclusivas, uma delas única, mais 4 boosters, um de cada coleção lançada até o momento."
+    ],
+    "components": "Battle Box, 3 cards exclusivos, um deles único, mais 4 boosters, um de cada coleção lançada até o momento.",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/battle-scenes-battle-box-guerra-incessante/anexos/42743",
+      "https://ludopedia.com.br/usuario/Magno"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Battle Box Sangue Asgardiano",
+    "price": "No price info",
+    "image": "battle_scenes___battle_box_sangue_asgardiano_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-battle-box-sangue-asgardiano",
+    "players": "2 jogadores",
+    "age": "13 +",
+    "duration": "40 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___battle_box_sangue_asgardiano_cover.jpg",
+      "battle_scenes___battle_box_sangue_asgardiano_1.jpg"
+    ],
+    "description": "Battle Box, 3 cards exclusivos, um deles único, mais 4 boosters, um de cada coleção lançada até o momento.",
+    "paragraphs": [
+      "Battle Box, 3 cards exclusivos, um deles único, mais 4 boosters, um de cada coleção lançada até o momento."
+    ],
+    "components": "3 cards exclusivos, um deles único, mais 4 boosters, um de cada coleção lançada até o momento.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Battle Box Vingadores Era de Ultron",
+    "price": "R$ 216,67",
+    "image": "battle_scenes___battle_box_vingadores_era_de_ultron_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-battle-box-vingadores-era-de-ultron",
+    "players": "2 jogadores",
+    "age": "13 +",
+    "duration": "40 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___battle_box_vingadores_era_de_ultron_cover.jpg",
+      "battle_scenes___battle_box_vingadores_era_de_ultron_1.jpg"
+    ],
+    "description": "Pela primeira vez desde o lançamento do jogo, teremos cards exclusivos com imagens retiradas do universo de filmes da Marvel. E a primeira vez não poderia ser mais inesquecível: o tema é Vingadores 2 - A Era de Ultron.",
+    "paragraphs": [
+      "Pela primeira vez desde o lançamento do jogo, teremos cards exclusivos com imagens retiradas do universo de filmes da Marvel. E a primeira vez não poderia ser mais inesquecível: o tema é Vingadores 2 - A Era de Ultron."
+    ],
+    "components": "Seis cards holográficos com borda dourada (Capitão América - V1, Gavião Arqueiro - V1, Homem de Ferro - V1, Hulk - V1, Thor - V1 e Viúva Negra - V1), quatro pacotes de booster da nova coleção Iniciativa Vingadores, e um deckbox exclusivo com as artes do filme.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Battle Box: Criaturas Noturnas",
+    "price": "R$ 50,00",
+    "image": "battle_scenes___battle_box__criaturas_noturnas_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-battle-box-criaturas-noturnas",
+    "players": "2 jogadores",
+    "age": "12 +",
+    "duration": "45 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___battle_box__criaturas_noturnas_cover.jpg",
+      "battle_scenes___battle_box__criaturas_noturnas_1.jpg"
+    ],
+    "description": "Expansão que traz os cards exclusivos Drácula, Blade e A Tumba de Drácula! Além de apresentar uma nova palavra-chave ao jogo: Predador.",
+    "paragraphs": [
+      "Expansão que traz os cards exclusivos Drácula, Blade e A Tumba de Drácula! Além de apresentar uma nova palavra-chave ao jogo: Predador."
+    ],
+    "components": "3 cards exclusivos, inéditos e holográficos, 7 pacotes de boosters das coleções descritas na caixa e 2 dados de escudos.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Confronto Aracnídeo",
+    "price": "No price info",
+    "image": "battle_scenes___confronto_aracn_deo_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-confronto-aracnideo",
+    "players": "2 jogadores",
+    "age": "12 +",
+    "duration": "60 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___confronto_aracn_deo_cover.jpg",
+      "battle_scenes___confronto_aracn_deo_1.jpg"
+    ],
+    "description": "A coleção Confronto Aracnídeo é a décima segunda de Battle Scenes, jogo desenvolvido inteiramente no Brasil. Parasitas intergaláticos invadem a Terra. Homem-Aranha e seus aliados devem juntar suas forças para combater o mal!",
+    "paragraphs": [
+      "A coleção Confronto Aracnídeo é a décima segunda de Battle Scenes, jogo desenvolvido inteiramente no Brasil. Parasitas intergaláticos invadem a Terra. Homem-Aranha e seus aliados devem juntar suas forças para combater o mal!"
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Despertar Sombrio",
+    "price": "R$ 98,00",
+    "image": "battle_scenes___despertar_sombrio_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-despertar-sombrio",
+    "players": "2 jogadores",
+    "age": "10 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___despertar_sombrio_cover.jpg",
+      "battle_scenes___despertar_sombrio_1.jpg",
+      "battle_scenes___despertar_sombrio_2.jpg",
+      "battle_scenes___despertar_sombrio_3.jpg",
+      "battle_scenes___despertar_sombrio_4.jpg",
+      "battle_scenes___despertar_sombrio_5.jpg",
+      "battle_scenes___despertar_sombrio_6.jpg"
+    ],
+    "description": "Despertar Sombrio traz para o Battle Scenes os magos mais poderosos da Marvel e as Criaturas Sombrias que habitam os cantos mais escuros do universo diretamente para a mesa de jogo.\n\nA Coleção principal apresenta 100 cards inéditos e 12 reimpressões em adição à subcoleção de decks “Despertar Místico”, contando com a presença do Mago Supremo Doutor Estranho e “Poderes Sombrios”, trazendo, pela primeira vez, o Demônio de fogo, Dormammu, os jogadores terão novas experiências de batalhas.",
+    "paragraphs": [
+      "Despertar Sombrio traz para o Battle Scenes os magos mais poderosos da Marvel e as Criaturas Sombrias que habitam os cantos mais escuros do universo diretamente para a mesa de jogo.",
+      "A Coleção principal apresenta 100 cards inéditos e 12 reimpressões em adição à subcoleção de decks “Despertar Místico”, contando com a presença do Mago Supremo Doutor Estranho e “Poderes Sombrios”, trazendo, pela primeira vez, o Demônio de fogo, Dormammu, os jogadores terão novas experiências de batalhas."
+    ],
+    "components": "Esta coleção possui cards numerados de 1 a 112 e 5 níveis de raridade, incluindo versões normais e holográficas. Conheça os magos mais poderosos e as criaturas mais sombrias do universo!\n\nOs boosters estão disponíveis em 4 embalagens diferentes (também disponíveis em blister unitário) e cada um deles vem com 7 cards aleatórios. São 2 modelos de decks temáticos: Despertar Místico e Poderes Sombrios. Cada um contém 60 cards, 1 folheto de regras/playmat para um jogador e 1 cartela com marcadores de escudos, poderes e alvos.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Evolução Tática",
+    "price": "No price info",
+    "image": "battle_scenes___evolu__o_t_tica_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-evolucao-tatica",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "30 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___evolu__o_t_tica_cover.jpg",
+      "battle_scenes___evolu__o_t_tica_1.jpg",
+      "battle_scenes___evolu__o_t_tica_2.jpg",
+      "battle_scenes___evolu__o_t_tica_3.jpg",
+      "battle_scenes___evolu__o_t_tica_4.jpg",
+      "battle_scenes___evolu__o_t_tica_5.jpg",
+      "battle_scenes___evolu__o_t_tica_6.jpg"
+    ],
+    "description": "A coleção Evolução Tática é a segunda de Battle Scenes.\n\nNovas condições, novas estratégias, novos personagens, novas combinações. Explore as possibilidades e descubra sua própria Evolução Tática!",
+    "paragraphs": [
+      "A coleção Evolução Tática é a segunda de Battle Scenes.",
+      "Novas condições, novas estratégias, novos personagens, novas combinações. Explore as possibilidades e descubra sua própria Evolução Tática!"
+    ],
+    "components": "Esta coleção possui 108 novos cards divididos entre duas subcoleções: boosters com cards numerados de 1 a 100 e 5 níveis de raridade e decks com cards numerados de 1 a 66, sendo 8 exclusivos.\n\nOs boosters estão disponíveis em 4 embalagens diferentes (também disponíveis em blister unitário) e cada um deles vem com 7 cards aleatórios. São 2 modelos de decks temáticos: Força Suprema e Ilusão Sombria. Cada um contém 60 cards, 1 folheto de regras, 1 playmat para um jogador e 1 cartela com marcadores de escudos, poderes e alvos.",
+    "downloadLinks": [
+      "https://ludopedia.com.br/jogo/battle-scenes-evolucao-tatica/anexos/3603",
+      "https://ludopedia.com.br/usuario/Ricardo%20Gama"
+    ],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Forças Estelares",
+    "price": "R$ 300,00",
+    "image": "battle_scenes___for_as_estelares_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-forcas-estelares",
+    "players": "2 jogadores",
+    "age": "12 +",
+    "duration": "60 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___for_as_estelares_cover.jpg",
+      "battle_scenes___for_as_estelares_1.jpg"
+    ],
+    "description": "A coleção Forças Estelares é a décima primeira de Battle Scenes.\n\nPreparem-se, pois os seres mais poderosos do Universo se aproximam!",
+    "paragraphs": [
+      "A coleção Forças Estelares é a décima primeira de Battle Scenes.",
+      "Preparem-se, pois os seres mais poderosos do Universo se aproximam!"
+    ],
+    "components": "Esta coleção possui 100 cards organizados em 4 tipos (personagem, suporte, cenário e habilidade) e 5 níveis de raridade.\n\nOs boosters estão disponíveis em 4 embalagens diferentes (também disponíveis em blister unitário) e cada um deles vem com 7 cards aleatórios. São 2 modelos de decks temáticos: Heróis e Vilões. Cada um contém 60 cards, 1 folheto de regras, 1 playmat para um jogador e 2 cartelas com marcadores de escudos, poderes e alvos.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Master Box Confronto Aracnídeo",
+    "price": "No price info",
+    "image": "battle_scenes___master_box_confronto_aracn_deo_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-master-box-confronto-aracnideo",
+    "players": "2 jogadores",
+    "age": "12 +",
+    "duration": "60 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___master_box_confronto_aracn_deo_cover.jpg",
+      "battle_scenes___master_box_confronto_aracn_deo_1.jpg"
+    ],
+    "description": "A coleção Confronto Aracnídeo é a décima segunda de Battle Scenes, jogo desenvolvido inteiramente no Brasil. Parasitas intergaláticos invadem a Terra. Homem-Aranha e seus aliados devem juntar suas forças para combater o mal!\n\nProjetada para você guardar e levar seus cards de Battle Scenes para onde quiser, a nova Master Box tem um espaço especial para você colocar seus decks. Comporta até 140 cards com protetores, mais marcadores de jogo.",
+    "paragraphs": [
+      "A coleção Confronto Aracnídeo é a décima segunda de Battle Scenes, jogo desenvolvido inteiramente no Brasil. Parasitas intergaláticos invadem a Terra. Homem-Aranha e seus aliados devem juntar suas forças para combater o mal!",
+      "Projetada para você guardar e levar seus cards de Battle Scenes para onde quiser, a nova Master Box tem um espaço especial para você colocar seus decks. Comporta até 140 cards com protetores, mais marcadores de jogo."
+    ],
+    "components": "A Master Box possui 5 pacotes de boosters (de Forças Estelares), 3 cards holográficos inéditos, 2 cards holográficos relançados e 4 marcadores plásticos.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Battle Scenes - Universo Marvel: Master Box Forças Estelares",
+    "price": "R$ 49,16",
+    "image": "battle_scenes___universo_marvel__master_box_for_as_estelares_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/battle-scenes-universo-marvel-master-box-forcas-estelares",
+    "players": "2 jogadores",
+    "age": "12 +",
+    "duration": "60 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "battle_scenes___universo_marvel__master_box_for_as_estelares_cover.jpg",
+      "battle_scenes___universo_marvel__master_box_for_as_estelares_1.jpg"
+    ],
+    "description": "Cansado da burocracia de sempre, Howard – O Pato estrela sua primeira aparição no universo de Battle Scenes com a Box mais intergalática de todos os tempos.\n\nProjetada para você guardar e levar seus cards de Battle Scenes para onde quiser, a nova Master Box tem um espaço especial para você colocar seus decks. Comporta até 140 cards com protetores, mais marcadores de jogo.",
+    "paragraphs": [
+      "Cansado da burocracia de sempre, Howard – O Pato estrela sua primeira aparição no universo de Battle Scenes com a Box mais intergalática de todos os tempos.",
+      "Projetada para você guardar e levar seus cards de Battle Scenes para onde quiser, a nova Master Box tem um espaço especial para você colocar seus decks. Comporta até 140 cards com protetores, mais marcadores de jogo."
+    ],
+    "components": "Decklist: Master Box – Forças Estelares\n\nPersonagens\n• 1x Cassandra Nova – V1\n• 1x Howard – O Pato – V1\n• 1x Rocket Racoon – V3\n\nHabilidades\n• 1x Rajada – V2\n• 1x Tecnoassalto – V1",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Booster Pokémon Sol e Lua",
+    "price": "No price info",
+    "image": "booster_pok_mon_sol_e_lua_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/pokemon-sun-moon-booster-pack",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "booster_pok_mon_sol_e_lua_cover.jpg",
+      "booster_pok_mon_sol_e_lua_1.jpg"
+    ],
+    "description": "Sua aventura em uma nova região começa agora! Seja bem-vindo à zona tropical da região de Alola! Comece a sua jornada com Rowlet, Litten e Popplio e em seguida procure pelos Pokémon Lendários Solgaleo-GX e Lunala-GX para presenciar o poder incrível deste novo tipo de Pokémon, os Pokémon-GX! Cada um destes Pokémon possui um ataque tão devastador que você só poderá usá-lo uma vez por partida! Descubra um montão de Pokémon inéditos, formas Alola de alguns dos Pokémon mais conhecidos e novos modos de batalhar com a expansão Sol e Lua do Pokémon Estampas Ilustradas! A expansão Sol e Lua do Pokémon Estampas Ilustradas contém mais de 140 cartas. Cada jogador deve ter um baralho de 60 cartas de Pokémon para jogar.",
+    "paragraphs": [
+      "Sua aventura em uma nova região começa agora! Seja bem-vindo à zona tropical da região de Alola! Comece a sua jornada com Rowlet, Litten e Popplio e em seguida procure pelos Pokémon Lendários Solgaleo-GX e Lunala-GX para presenciar o poder incrível deste novo tipo de Pokémon, os Pokémon-GX! Cada um destes Pokémon possui um ataque tão devastador que você só poderá usá-lo uma vez por partida! Descubra um montão de Pokémon inéditos, formas Alola de alguns dos Pokémon mais conhecidos e novos modos de batalhar com a expansão Sol e Lua do Pokémon Estampas Ilustradas! A expansão Sol e Lua do Pokémon Estampas Ilustradas contém mais de 140 cartas. Cada jogador deve ter um baralho de 60 cartas de Pokémon para jogar."
+    ],
+    "components": "Contém 6 unidades de cartas no formato 63mm x 88mm.",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Booster Pokémon Sol e Lua 3 Sombras Ardentes",
+    "price": "No price info",
+    "image": "booster_pok_mon_sol_e_lua_3_sombras_ardentes_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/pokemon-tcg-sun-moon-burning-shadow-booster-packs",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "booster_pok_mon_sol_e_lua_3_sombras_ardentes_cover.jpg",
+      "booster_pok_mon_sol_e_lua_3_sombras_ardentes_1.jpg"
+    ],
+    "description": "Batalhas ardentes e sombras intensas! Que fogos estranhos espreitam-se nas sombras? Os Galuchos da Equipe Skull e uma variedade de novos Pokémon estão preparados para batalhar debaixo de sol ardente e lua sombria! Batalhe até o fim com novos titãs, como Necrozma-GX, Marshadow-GX e Tapu Fini-GX ou batalhe com aliados de confiança, como Machamp-GX, Charizard-GX, Darkrai-GX e Ho-Oh-GX. Lute pela vitória com a expansão Sol e Lua Sombras Ardentes do Pokémon Estampas Ilustradas! A expansão Sol e Lua Sombras Ardentes do Pokémon Estampas Ilustradas contém mais de 140 cartas. Cada jogador deve ter um baralho de 60 cartas de Pokémon TCG para jogar.",
+    "paragraphs": [
+      "Batalhas ardentes e sombras intensas! Que fogos estranhos espreitam-se nas sombras? Os Galuchos da Equipe Skull e uma variedade de novos Pokémon estão preparados para batalhar debaixo de sol ardente e lua sombria! Batalhe até o fim com novos titãs, como Necrozma-GX, Marshadow-GX e Tapu Fini-GX ou batalhe com aliados de confiança, como Machamp-GX, Charizard-GX, Darkrai-GX e Ho-Oh-GX. Lute pela vitória com a expansão Sol e Lua Sombras Ardentes do Pokémon Estampas Ilustradas! A expansão Sol e Lua Sombras Ardentes do Pokémon Estampas Ilustradas contém mais de 140 cartas. Cada jogador deve ter um baralho de 60 cartas de Pokémon TCG para jogar."
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  },
+  {
+    "title": "Booster Pokémon Sol e Lua 4 Invasão Carmim",
+    "price": "No price info",
+    "image": "booster_pok_mon_sol_e_lua_4_invas_o_carmim_cover.jpg",
+    "link": "https://ludopedia.com.br/jogo/pokemon-rpg-sun-moon-crimson-invasion-booster-pack",
+    "players": "2 jogadores",
+    "age": "7 +",
+    "duration": "20 min",
+    "style": null,
+    "soldOut": false,
+    "images": [
+      "booster_pok_mon_sol_e_lua_4_invas_o_carmim_cover.jpg",
+      "booster_pok_mon_sol_e_lua_4_invas_o_carmim_1.jpg"
+    ],
+    "description": "Um caos carmim por toda Alola! As misteriosas Ultracriaturas Nihilego-GX, Buzzwole-GX, Kartana-GX e o voraz Guzzlord-GX chegaram em Alola e estão invadindo a região como Pokémon-GX com um tom carmim! Conseguirão Silvally-GX e os outros aliados de Alola defender as ilhas ou irão as Ultracriaturas tomar posse delas? O destino desta batalha está nas suas mãos com a expansão Sol e Lua Invasão Carmim do Pokémon Estampas Ilustradas!",
+    "paragraphs": [
+      "Um caos carmim por toda Alola! As misteriosas Ultracriaturas Nihilego-GX, Buzzwole-GX, Kartana-GX e o voraz Guzzlord-GX chegaram em Alola e estão invadindo a região como Pokémon-GX com um tom carmim! Conseguirão Silvally-GX e os outros aliados de Alola defender as ilhas ou irão as Ultracriaturas tomar posse delas? O destino desta batalha está nas suas mãos com a expansão Sol e Lua Invasão Carmim do Pokémon Estampas Ilustradas!"
+    ],
+    "components": "Sem informações",
+    "downloadLinks": [],
+    "isVisible": true,
+    "editors": [
+      "Copag"
+    ],
+    "quantity": 1
+  }
+]

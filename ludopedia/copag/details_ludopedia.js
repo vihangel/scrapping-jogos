@@ -49,13 +49,21 @@ async function scrapeProductDetails(url, browser) {
       return playersElement ? playersElement.innerText.trim() : null;
     });
 
-    // Extract description
-    const description = await page.evaluate(() => {
+    // Extract description paragraphs
+    const paragraphs = await page.evaluate(() => {
       const descriptionElement = document.querySelector(
         "#bloco-descricao-sm p"
       );
-      return descriptionElement ? descriptionElement.innerText.trim() : null;
+      return descriptionElement
+        ? descriptionElement.innerText
+            .split("\n")
+            .map((p) => p.trim())
+            .filter((p) => p)
+        : [];
     });
+
+    // Extract full description
+    const description = paragraphs.join("\n\n") || null;
 
     // Extract cover image
     const coverImage = await page.evaluate(() => {
@@ -84,6 +92,30 @@ async function scrapeProductDetails(url, browser) {
         document.querySelectorAll("#bloco-anexos-sm .media-body a")
       ).map((a) => a.href);
     });
+
+    // Extract videos
+    const videos = await page.evaluate(() => {
+      return Array.from(
+        document.querySelectorAll("#bloco-videos-sm .box-yt a")
+      ).map((a) => a.href);
+    });
+
+    // Extract prices from the market section and calculate the average price
+    const prices = await page.evaluate(() => {
+      return Array.from(
+        document.querySelectorAll("#bloco-anuncios-sm .proximo_lance")
+      )
+        .map((el) =>
+          parseFloat(el.innerText.replace("R$", "").replace(",", "."))
+        )
+        .filter((price) => !isNaN(price));
+    });
+    const averagePrice =
+      prices.length > 0
+        ? `R$ ${(prices.reduce((a, b) => a + b, 0) / prices.length)
+            .toFixed(2)
+            .replace(".", ",")}`
+        : null;
 
     // Save images
     const imagesDir = path.join(__dirname, "devir");
@@ -119,17 +151,22 @@ async function scrapeProductDetails(url, browser) {
 
     return {
       title: title || "No title",
-      price: "No price info", // Assuming no price info available
+      price: averagePrice || "No price info",
       image: mainImage || "No image",
       link: url,
       players: players || "No player info",
       age: age || "No age info",
       duration: duration || "No duration info",
-      style: "No style info",
+      style: null,
       soldOut: false,
-      description: description || "No description",
+      images: savedImages,
+      description: description,
+      paragraphs: paragraphs,
       components: components || "No components info",
-      manuals: manuals || [],
+      downloadLinks: manuals || [],
+      isVisible: true,
+      editors: ["Copag"], // Assuming this is fixed
+      quantity: 1, // Assuming a fixed value for quantity
     };
   } catch (error) {
     console.error(`Error scraping ${url}:`, error);
@@ -153,7 +190,7 @@ async function saveImage(url, path) {
 }
 
 async function main() {
-  const links = JSON.parse(fs.readFileSync("links_devir_brasil.json"));
+  const links = JSON.parse(fs.readFileSync("../links/links_copag_brasil.json"));
   console.log(`Total de itens a serem lidos: ${links.length}`);
 
   const browser = await puppeteer.launch({ headless: true });
@@ -169,7 +206,7 @@ async function main() {
         console.log(detailedProduct); // Log the detailed product to ensure it's correct
         // Save the JSON after each iteration to avoid data loss
         fs.writeFileSync(
-          "detailed_devir_brasil.json",
+          "detailed_copag_brasil.json",
           JSON.stringify(detailedProducts, null, 2)
         );
       }
