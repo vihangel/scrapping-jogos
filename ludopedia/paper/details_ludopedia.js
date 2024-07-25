@@ -190,9 +190,7 @@ async function saveImage(url, path) {
 }
 
 async function main() {
-  const links = JSON.parse(
-    fs.readFileSync("../links/links_papers_brasil.json")
-  );
+  const links = JSON.parse(fs.readFileSync("links.json"));
   console.log(`Total de itens a serem lidos: ${links.length}`);
 
   const browser = await puppeteer.launch({ headless: true });
