@@ -29,7 +29,7 @@ async function scrapeProductDetails(product, browser) {
   // Extract description
   const description = await page.evaluate(() => {
     const descriptionElement = document.querySelector(
-      ".content-descrition .title"
+      ".content-descrition .line ~ div"
     );
     return descriptionElement
       ? descriptionElement.innerText.trim()
@@ -39,7 +39,7 @@ async function scrapeProductDetails(product, browser) {
   // Extract components
   const components = await page.evaluate(() => {
     const componentsElement = document.querySelector(
-      ".content-descrition .line ~ div"
+      ".content-descrition .title"
     );
     return componentsElement
       ? componentsElement.innerText.trim()
@@ -55,9 +55,9 @@ async function scrapeProductDetails(product, browser) {
 
   // Extract download links
   const downloadLinks = await page.evaluate(() => {
-    return Array.from(
-      document.querySelectorAll(".detail-section.active a")
-    ).map((link) => link.href || "");
+    return Array.from(document.querySelectorAll(".detail-section a")).map(
+      (link) => link.href || ""
+    );
   });
 
   // Save images
@@ -113,14 +113,13 @@ async function scrapeProductDetails(product, browser) {
 }
 
 async function main() {
-  const browser = await puppeteer.launch({ headless: false });
-  const products = JSON.parse(fs.readFileSync("galapagos_estoque.json"));
+  const browser = await puppeteer.launch({ headless: true });
+  const products = JSON.parse(fs.readFileSync("games.json"));
   const detailedProducts = [];
 
-  for (const [index, product] of products.entries()) {
-    console.log(
-      `Processing product ${index + 1} of ${products.length}: ${product.title}`
-    );
+  if (products.length > 0) {
+    const product = products[0];
+    console.log(`Processing product 1 of ${products.length}: ${product.title}`);
     const detailedProduct = await scrapeProductDetails(product, browser);
     detailedProducts.push(detailedProduct);
   }
