@@ -1,7 +1,7 @@
 [
   {
     "title": "Cadê O Cadu?",
-    "price": "R$ 75,00",
+    "middlePrice": "R$ 75,00",
     "image": "cad__o_cadu__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cade-o-cadu",
     "players": "2 a 5 jogadores",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Cães POP - Batalha de Likes",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "c_es_pop___batalha_de_likes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/caes-pop-batalha-de-likes",
     "players": "2 a 5 jogadores",
@@ -78,7 +78,7 @@
   },
   {
     "title": "Color Addict",
-    "price": "R$ 22,22",
+    "middlePrice": "R$ 22,22",
     "image": "color_addict_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/color-addict",
     "players": "2 a 6 jogadores",
@@ -118,7 +118,7 @@
   },
   {
     "title": "Dig In - Encontre se for Capaz",
-    "price": "R$ 114,56",
+    "middlePrice": "R$ 114,56",
     "image": "dig_in___encontre_se_for_capaz_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dig-in-encontre-se-for-capaz",
     "players": "2 a 4 jogadores",
@@ -148,7 +148,7 @@
   },
   {
     "title": "Enquadrados",
-    "price": "R$ 75,89",
+    "middlePrice": "R$ 75,89",
     "image": "enquadrados_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/enquadrados",
     "players": "2 a 4 jogadores",
@@ -183,7 +183,7 @@
   },
   {
     "title": "Harry Potter: Desafio das Horcruxes",
-    "price": "R$ 19,96",
+    "middlePrice": "R$ 19,96",
     "image": "harry_potter__desafio_das_horcruxes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/harry-potter-desafio-das-horcruxes",
     "players": "2 a 4 jogadores",
@@ -217,7 +217,7 @@
   },
   {
     "title": "Eu Vi! Spidey",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "eu_vi__spidey_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/eu-vi-spidey",
     "players": "2 a 8 jogadores",
@@ -244,7 +244,7 @@
   },
   {
     "title": "Eu Vi! Stitch",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "eu_vi__stitch_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/eu-vi-stitch",
     "players": "2 a 8 jogadores",
@@ -271,7 +271,7 @@
   },
   {
     "title": "Jogo do Mico",
-    "price": "R$ 24,74",
+    "middlePrice": "R$ 24,74",
     "image": "jogo_do_mico_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/jogo-do-mico",
     "players": "2 a 6 jogadores",
@@ -306,7 +306,7 @@
   },
   {
     "title": "Mentalista",
-    "price": "R$ 61,44",
+    "middlePrice": "R$ 61,44",
     "image": "mentalista_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mentalista",
     "players": "3 a 99 jogadores",
@@ -339,7 +339,7 @@
   },
   {
     "title": "Uno Minions",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "uno_minions_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/uno-minions",
     "players": "2 a 6 jogadores",
@@ -368,7 +368,7 @@
   },
   {
     "title": "Mortes Estúpidas",
-    "price": "R$ 78,25",
+    "middlePrice": "R$ 78,25",
     "image": "mortes_est_pidas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mortes-estupidas",
     "players": "2 a 4 jogadores",
@@ -394,7 +394,7 @@
   },
   {
     "title": "Patrulha Canina: Jogo dos Quartetos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "patrulha_canina__jogo_dos_quartetos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/patrulha-canina-jogo-dos-quartetos",
     "players": "3 a 6 jogadores",
@@ -420,7 +420,7 @@
   },
   {
     "title": "Revanche Futebol Cards",
-    "price": "R$ 89,44",
+    "middlePrice": "R$ 89,44",
     "image": "revanche_futebol_cards_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/revanche-futebol-cards",
     "players": "2 a 4 jogadores",
@@ -454,7 +454,7 @@
   },
   {
     "title": "Sequence",
-    "price": "R$ 122,95",
+    "middlePrice": "R$ 122,95",
     "image": "sequence_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sequence",
     "players": "2 a 12 jogadores",
@@ -489,7 +489,7 @@
   },
   {
     "title": "Trapped – Escape se puder: Missão Banco",
-    "price": "R$ 66,67",
+    "middlePrice": "R$ 66,67",
     "image": "trapped___escape_se_puder__miss_o_banco_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/-trapped-the-bank-job",
     "players": "2 a 6 jogadores",

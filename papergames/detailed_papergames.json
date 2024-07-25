@@ -1,7 +1,7 @@
 [
   {
     "title": "Ficha Técnica",
-    "price": "No price",
+    "middlePrice": "No price",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/dingo/",
     "players": null,
@@ -22,7 +22,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/cordoba/",
     "players": null,
@@ -47,7 +47,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/space-aztecs/",
     "players": null,
@@ -92,7 +92,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/lemur/",
     "players": null,
@@ -120,7 +120,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/mao-de-vaca/",
     "players": null,
@@ -151,7 +151,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/next-station-london/",
     "players": null,
@@ -185,7 +185,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/splito/",
     "players": null,
@@ -217,7 +217,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/glitches/",
     "players": null,
@@ -245,7 +245,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/glifos/",
     "players": null,
@@ -271,7 +271,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "R$ NaN",
+    "middlePrice": "R$ NaN",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/procuratos/",
     "players": null,
@@ -296,7 +296,7 @@
   },
   {
     "title": "Ficha Técnica",
-    "price": "No price",
+    "middlePrice": "No price",
     "image": "ficha_t_cnica_cover.jpg",
     "link": "https://papergames.com.br/district-noir/",
     "players": null,

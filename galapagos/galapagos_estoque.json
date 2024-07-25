@@ -1,7 +1,7 @@
 [
   {
     "title": "Cortex",
-    "price": "119,99",
+    "middlePrice": "119,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v6980052212518753179/products/CTX001_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/cortex/produto/CTX001",
     "players": "2 a 6",
@@ -12,7 +12,7 @@
   },
   {
     "title": "Cortex: Harry Potter",
-    "price": "129,99",
+    "middlePrice": "129,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v8885960753164010932/products/CTX101_OCC.png",
     "link": "https://www.mundogalapagos.com.br/cortex-harry-potter/produto/CTX101",
     "players": "2 a 6",
@@ -23,7 +23,7 @@
   },
   {
     "title": "Tá na Mala! (4 jogadores)",
-    "price": "No price",
+    "middlePrice": "No price",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v4900928242233088109/products/TNM101_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/t%C3%A1-na-mala-4-jogadores/produto/TNM101",
     "players": "2 a 4",
@@ -34,7 +34,7 @@
   },
   {
     "title": "SET",
-    "price": "69,99",
+    "middlePrice": "69,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v5399899151414830683/products/SET101_OCC.png",
     "link": "https://www.mundogalapagos.com.br/set-edicao-revisada/produto/SET101",
     "players": "1 a 20",
@@ -45,7 +45,7 @@
   },
   {
     "title": "The Resistance",
-    "price": "149,99",
+    "middlePrice": "149,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v2213809607966266121/products/RES001_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/jogo-de-cartas-the-resistance/produto/RES001",
     "players": "5 a 10",
@@ -56,7 +56,7 @@
   },
   {
     "title": "Dobble",
-    "price": "89,99",
+    "middlePrice": "89,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v1029606467855709595/products/DOB101_01.png",
     "link": "https://www.mundogalapagos.com.br/dobble/produto/DOB101",
     "players": "2 a 8",
@@ -67,7 +67,7 @@
   },
   {
     "title": "Dobble: Disney Princess",
-    "price": "99,99",
+    "middlePrice": "99,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v3118834469588618403/products/DOB023_OCC.png",
     "link": "https://www.mundogalapagos.com.br/dobble-disney-princess/produto/DOB023",
     "players": "2 a 8",
@@ -78,7 +78,7 @@
   },
   {
     "title": "Dobble: 1 2 3",
-    "price": "No price",
+    "middlePrice": "No price",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v6517309811323541000/products/DOB003_3D.png",
     "link": "https://www.mundogalapagos.com.br/jogo-de-cartas-dobble-1-2-3/produto/DOB003",
     "players": "1 a 5",
@@ -89,7 +89,7 @@
   },
   {
     "title": "Dobble: DC Universe",
-    "price": "No price",
+    "middlePrice": "No price",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v2981294327029720641/products/DOB024_OCC.png",
     "link": "https://www.mundogalapagos.com.br/dobble-dc-universe/produto/DOB024",
     "players": "2 a 8",
@@ -100,7 +100,7 @@
   },
   {
     "title": "Dobble Connect",
-    "price": "99,99",
+    "middlePrice": "99,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v5595881003603523229/products/DOB201_OCC.png",
     "link": "https://www.mundogalapagos.com.br/dobble-connect/produto/DOB201",
     "players": "2 a 8",
@@ -111,7 +111,7 @@
   },
   {
     "title": "Dixit: Daydreams (Expansão)",
-    "price": "199,99",
+    "middlePrice": "199,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v485989789886907360/products/DIX005_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/expansao-jogo-de-tabuleiro-dixit-daydreams/produto/DIX005",
     "players": "3 a 8",
@@ -122,7 +122,7 @@
   },
   {
     "title": "Dixit: Memories (Expansão)",
-    "price": "199,99",
+    "middlePrice": "199,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v6857621887690253249/products/DIX006_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/expansao-jogo-de-tabuleiro-dixit-memories/produto/DIX006",
     "players": "3 a 8",
@@ -133,7 +133,7 @@
   },
   {
     "title": "Dixit Odyssey",
-    "price": "299,99",
+    "middlePrice": "299,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v5338550123409689984/products/DIX101_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/jogo-de-tabuleiro-dixit-odyssey/produto/DIX101",
     "players": "3 a 12",
@@ -144,7 +144,7 @@
   },
   {
     "title": "Azul: Pavilhão de Verão",
-    "price": "329,99",
+    "middlePrice": "329,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v6093584315898788468/products/AZU201_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/azul-pavilh%C3%A3o-de-ver%C3%A3o/produto/AZU201",
     "players": "2 a 4",
@@ -155,7 +155,7 @@
   },
   {
     "title": "Histórias Sinistras: Insônia",
-    "price": "39,99",
+    "middlePrice": "39,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v381213742718387987/products/BLK116_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/charadas-e-enigmas-historias-sinistras-ins%C3%B4nia/produto/BLK116",
     "players": "2 a 99",
@@ -166,7 +166,7 @@
   },
   {
     "title": "Tokaido",
-    "price": "229,99",
+    "middlePrice": "229,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v1227129439104411881/products/TOK101_3D_BOX.png",
     "link": "https://www.mundogalapagos.com.br/jogo-de-tabuleiro-tokaido/produto/TOK001",
     "players": "2 a 5",
@@ -177,7 +177,7 @@
   },
   {
     "title": "Harry Potter: Honeydukes",
-    "price": "69,99",
+    "middlePrice": "69,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v8376919956375127941/products/HPH001_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/harry-potter-honeydukes/produto/HPH001",
     "players": "2 a 5",
@@ -188,7 +188,7 @@
   },
   {
     "title": "Sugar Blast",
-    "price": "No price",
+    "middlePrice": "No price",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v3971774956785124005/products/SUB001_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/sugar-blast/produto/SUB001",
     "players": "1 a 4",
@@ -199,7 +199,7 @@
   },
   {
     "title": "Chaves: Confusões na Vila",
-    "price": "69,99",
+    "middlePrice": "69,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v8229097034463129991/products/CHV001_OCC.png",
     "link": "https://www.mundogalapagos.com.br/chaves-confusoes-na-vila/produto/CHV001",
     "players": "2 a 5",
@@ -210,7 +210,7 @@
   },
   {
     "title": "Qual É o Seu Meme?",
-    "price": "199,99",
+    "middlePrice": "199,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v2395413951061982458/products/WDY001_3D-Box-01_OCC.jpg",
     "link": "https://www.mundogalapagos.com.br/qual-e-o-seu-meme/produto/WDY001",
     "players": "3 a 20",
@@ -221,7 +221,7 @@
   },
   {
     "title": "Piratas!: Mares Agitados (Expansão)",
-    "price": "49,99",
+    "middlePrice": "49,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v2854625864233137306/products/PRT002_OCC.png",
     "link": "https://www.mundogalapagos.com.br/piratas-mares-agitados-expansao/produto/PRT002",
     "players": "2 a 6",
@@ -232,7 +232,7 @@
   },
   {
     "title": "Histórias Investigativas",
-    "price": "39,99",
+    "middlePrice": "39,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v8409462295371242619/products/BLK212_3D_box.png",
     "link": "https://www.mundogalapagos.com.br/hist%C3%B3rias-investigativas/produto/BLK212",
     "players": "2 a 99",
@@ -243,7 +243,7 @@
   },
   {
     "title": "Fantasy Realms",
-    "price": "79,99",
+    "middlePrice": "79,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v7136459061430227109/products/FNR001_OCC.png",
     "link": "https://www.mundogalapagos.com.br/fantasy-realms/produto/FNR001",
     "players": "3 a 6",
@@ -254,7 +254,7 @@
   },
   {
     "title": "Pula, Pula Urso Polar",
-    "price": "129,99",
+    "middlePrice": "129,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v5296623937690934387/products/PPU001_OCC.png",
     "link": "https://www.mundogalapagos.com.br/pula-pula-urso-polar/produto/PPU001",
     "players": "1 a 4",
@@ -265,7 +265,7 @@
   },
   {
     "title": "Pescado Novo",
-    "price": "39,99",
+    "middlePrice": "39,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v1200157903670673263/products/PNV001_OCC.png",
     "link": "https://www.mundogalapagos.com.br/pescado-novo/produto/PNV001",
     "players": "2 a 4",
@@ -276,7 +276,7 @@
   },
   {
     "title": "Star Wars: The Deckbuilding Game",
-    "price": "249,99",
+    "middlePrice": "249,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v134561264320338283/products/SDB001_OCC.png",
     "link": "https://www.mundogalapagos.com.br/star-wars-the-deckbuilding-game/produto/SDB001",
     "players": "2 a 2",
@@ -287,7 +287,7 @@
   },
   {
     "title": "Histórias Sinistras Mortes Hilárias",
-    "price": "39,99",
+    "middlePrice": "39,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v868674819334471892/products/BLK103_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/enigmas-e-charadas-historias-sinistras-mortes-hilarias/produto/BLK103",
     "players": "2 a 99",
@@ -298,7 +298,7 @@
   },
   {
     "title": "50 Animais Marinhos",
-    "price": "No price",
+    "middlePrice": "No price",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v2133669810300516828/products/50N006_OCC.png",
     "link": "https://www.mundogalapagos.com.br/50-animais-marinhos/produto/50N006",
     "players": "No players info",
@@ -309,7 +309,7 @@
   },
   {
     "title": "Arkham Horror: Calada da Noite (Expansão)",
-    "price": "No price",
+    "middlePrice": "No price",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v1734049051323998257/products/AHB004_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/arkham-horror-calada-da-noite-expans%C3%A3o/produto/AHB004",
     "players": "1 a 6",
@@ -320,7 +320,7 @@
   },
   {
     "title": "50 Dinossauros",
-    "price": "39,99",
+    "middlePrice": "39,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v5633910058543582346/products/5ON004_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/50-dinossauros/produto/50N004",
     "players": "No players info",
@@ -331,7 +331,7 @@
   },
   {
     "title": "Nhac Nhac",
-    "price": "159,99",
+    "middlePrice": "159,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v8434249106531718183/products/NHA001_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/jogo-de-tabuleiro-infantil-nhac-nhac-gobblet-gobblers/produto/NHA001",
     "players": "2 a 2",
@@ -342,7 +342,7 @@
   },
   {
     "title": "Exploding Kittens: Para a Galera",
-    "price": "149,99",
+    "middlePrice": "149,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v5988070846971468987/products/EXK411_3D-Box-01_OCC.jpg",
     "link": "https://www.mundogalapagos.com.br/exploding-kittens-para-a-galera-edicao-revisada/produto/EXK411",
     "players": "2 a 10",
@@ -353,7 +353,7 @@
   },
   {
     "title": "7 Wonders (2ª Edição): Cidades (Expansão)",
-    "price": "199,99",
+    "middlePrice": "199,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v5329318019414374289/products/7WO203_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/7-wonders-2-edicao-cidades-expansao/produto/7WO203",
     "players": "3 a 7",
@@ -364,7 +364,7 @@
   },
   {
     "title": "Histórias Assustadoras (White Stories)",
-    "price": "39,99",
+    "middlePrice": "39,99",
     "image": "https://www.mundogalapagos.com.br/ccstore/v1/images/?source=/file/v5357132982188409385/products/BLK201_3D.jpg",
     "link": "https://www.mundogalapagos.com.br/enigmas-e-charadas-historias-assustadoras/produto/BLK201",
     "players": "2 a 99",

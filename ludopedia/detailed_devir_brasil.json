@@ -1,7 +1,7 @@
 [
   {
     "title": "Vampiro: A Máscara",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition",
     "players": "2 a 10 jogadores",
@@ -18,7 +18,7 @@
   },
   {
     "title": "Dungeons & Dragons 3.5a. Edição: Livro do Jogador",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3_5a__edi__o__livro_do_jogador_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/player-s-handbook-d-d-3-5e",
     "players": "2 a 20 jogadores",
@@ -35,7 +35,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Livro do Jogador",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__livro_do_jogador_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/player-s-handbook-d-d-3e",
     "players": "2 a 20 jogadores",
@@ -49,7 +49,7 @@
   },
   {
     "title": "GURPS - Módulo Básico (Segunda Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps___m_dulo_b_sico__segunda_edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-basic-set-second-edition",
     "players": "2 a 12 jogadores",
@@ -63,7 +63,7 @@
   },
   {
     "title": "Mago: A Ascensão",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mago__a_ascens_o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mage-the-ascension-2nd-edition",
     "players": "2 a 10 jogadores",
@@ -77,7 +77,7 @@
   },
   {
     "title": "Lobisomem: O Apocalipse",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "lobisomem__o_apocalipse_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/werewolf-the-apocalypse-2nd-edition",
     "players": "2 a 10 jogadores",
@@ -91,7 +91,7 @@
   },
   {
     "title": "GURPS - Módulo Básico (Primeira Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps___m_dulo_b_sico__primeira_edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-basic-set-first-edition",
     "players": "2 a 12 jogadores",
@@ -108,7 +108,7 @@
   },
   {
     "title": "Twilight Struggle",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "twilight_struggle_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/twilight-struggle",
     "players": "2 jogadores",
@@ -133,7 +133,7 @@
   },
   {
     "title": "Guerra do Anel (Segunda Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "guerra_do_anel__segunda_edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/war-of-the-ring-second-edition",
     "players": "2 a 4 jogadores",
@@ -158,7 +158,7 @@
   },
   {
     "title": "Pathfinder RPG: Livro Básico",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_rpg__livro_b_sico_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-roleplaying-game-core-rulebook-1st-ed",
     "players": "3 a 7 jogadores",
@@ -175,7 +175,7 @@
   },
   {
     "title": "O Mundo das Trevas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_mundo_das_trevas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/world-of-darkness",
     "players": "2 a 8 jogadores",
@@ -189,7 +189,7 @@
   },
   {
     "title": "Through The Ages: Uma Nova História da Civilização",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "through_the_ages__uma_nova_hist_ria_da_civiliza__o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/through-the-ages-a-new-story-of-civilization",
     "players": "2 a 4 jogadores",
@@ -214,7 +214,7 @@
   },
   {
     "title": "As Ruínas Perdidas de Arnak",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_ru_nas_perdidas_de_arnak_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lost-ruins-of-arnak",
     "players": "1 a 4 jogadores",
@@ -239,7 +239,7 @@
   },
   {
     "title": "O Um Anel: Aventuras Além do Limiar do Ermo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_um_anel__aventuras_al_m_do_limiar_do_ermo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-one-ring-adventures-over-the-edge-of-the-wild",
     "players": "2 a 20 jogadores",
@@ -262,7 +262,7 @@
   },
   {
     "title": "Pandemic Legacy: 1ª Temporada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pandemic_legacy__1__temporada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pandemic-legacy-season-1",
     "players": "2 a 4 jogadores",
@@ -287,7 +287,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara: Livro de Interpretação de Papéis",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara__livro_de_interpreta__o_de_pap_is_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-livro-de-interpretacao-de-papeis",
     "players": "2 a 12 jogadores",
@@ -312,7 +312,7 @@
   },
   {
     "title": "GURPS Módulo Básico - Personagens (Quarta Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_m_dulo_b_sico___personagens__quarta_edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-basic-set-characters-fourth-edition",
     "players": "2 a 10 jogadores",
@@ -326,7 +326,7 @@
   },
   {
     "title": "Shadowrun",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "shadowrun_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/shadowrun-1st-edition",
     "players": "2 a 10 jogadores",
@@ -340,7 +340,7 @@
   },
   {
     "title": "As Viagens de Marco Polo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_viagens_de_marco_polo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-voyages-of-marco-polo",
     "players": "2 a 4 jogadores",
@@ -365,7 +365,7 @@
   },
   {
     "title": "The Witcher RPG",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "the_witcher_rpg_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-witcher",
     "players": "2 a 10 jogadores",
@@ -384,7 +384,7 @@
   },
   {
     "title": "Ultimate Railroads",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ultimate_railroads_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ultimate-railroads",
     "players": "1 a 4 jogadores",
@@ -409,7 +409,7 @@
   },
   {
     "title": "Stone Age",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "stone_age_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/stone-age",
     "players": "2 a 4 jogadores",
@@ -434,7 +434,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Livro do Jogador",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__livro_do_jogador_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-player-s-handbook",
     "players": "1 a 10 jogadores",
@@ -448,7 +448,7 @@
   },
   {
     "title": "Tzolk'in: O Calendário Maia",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "tzolk_in__o_calend_rio_maia_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/tzolk-in-the-mayan-calendar",
     "players": "2 a 4 jogadores",
@@ -473,7 +473,7 @@
   },
   {
     "title": "Marco Polo II: Ao Serviço do Khan",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "marco_polo_ii__ao_servi_o_do_khan_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/marco-polo-ii-in-the-service-of-the-khan",
     "players": "2 a 4 jogadores",
@@ -498,7 +498,7 @@
   },
   {
     "title": "Agricola",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "agricola_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/agricola",
     "players": "1 a 5 jogadores",
@@ -523,7 +523,7 @@
   },
   {
     "title": "Alquimistas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "alquimistas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/alchemists",
     "players": "2 a 4 jogadores",
@@ -548,7 +548,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Core Rulebook Collection",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__core_rulebook_collection_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-core-rulebook-collection",
     "players": "2 a 10 jogadores",
@@ -562,7 +562,7 @@
   },
   {
     "title": "The Red Cathedral",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "the_red_cathedral_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-red-cathedral",
     "players": "1 a 4 jogadores",
@@ -587,7 +587,7 @@
   },
   {
     "title": "Carcassonne Plus",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne_plus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-big-box-6",
     "players": "2 a 6 jogadores",
@@ -610,7 +610,7 @@
   },
   {
     "title": "Carcassonne: Edição do 20° Aniversário",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__edi__o_do_20__anivers_rio_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-20th-anniversary-edition",
     "players": "2 a 5 jogadores",
@@ -624,7 +624,7 @@
   },
   {
     "title": "Pandemic",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pandemic_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pandemic",
     "players": "2 a 4 jogadores",
@@ -649,7 +649,7 @@
   },
   {
     "title": "Ganges",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ganges_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/rajas-of-the-ganges",
     "players": "2 a 4 jogadores",
@@ -670,7 +670,7 @@
   },
   {
     "title": "Carcassonne",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne",
     "players": "2 a 5 jogadores",
@@ -695,7 +695,7 @@
   },
   {
     "title": "Sword & Sorcery: Espíritos Imortais",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "sword___sorcery__esp_ritos_imortais_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sword-sorcery-immortal-souls",
     "players": "1 a 5 jogadores",
@@ -720,7 +720,7 @@
   },
   {
     "title": "The White Castle",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "the_white_castle_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-white-castle",
     "players": "1 a 4 jogadores",
@@ -745,7 +745,7 @@
   },
   {
     "title": "Catan: O Jogo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan__o_jogo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-the-settlers-of-catan",
     "players": "3 a 4 jogadores",
@@ -770,7 +770,7 @@
   },
   {
     "title": "Pandemic: O Reino de Cthulhu",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pandemic__o_reino_de_cthulhu_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pandemic-reign-of-cthulhu",
     "players": "2 a 4 jogadores",
@@ -789,7 +789,7 @@
   },
   {
     "title": "Código Secreto",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "c_digo_secreto_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/codenames",
     "players": "2 a 8 jogadores",
@@ -814,7 +814,7 @@
   },
   {
     "title": "Magic: The Gathering",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering",
     "players": "2 a 4 jogadores",
@@ -835,7 +835,7 @@
   },
   {
     "title": "Bitoku",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "bitoku_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/bitoku",
     "players": "1 a 4 jogadores",
@@ -860,7 +860,7 @@
   },
   {
     "title": "Lacrimosa",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "lacrimosa_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lacrimosa",
     "players": "1 a 4 jogadores",
@@ -879,7 +879,7 @@
   },
   {
     "title": "As Tabernas do Vale Profundo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_tabernas_do_vale_profundo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-taverns-of-tiefenthal",
     "players": "2 a 4 jogadores",
@@ -904,7 +904,7 @@
   },
   {
     "title": "Dungeon Petz",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeon_petz_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeon-petz",
     "players": "2 a 4 jogadores",
@@ -929,7 +929,7 @@
   },
   {
     "title": "A Tripulação",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_tripula__o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-crew-the-quest-for-planet-nine",
     "players": "2 a 5 jogadores",
@@ -954,7 +954,7 @@
   },
   {
     "title": "Paleo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "paleo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/paleo",
     "players": "1 a 4 jogadores",
@@ -979,7 +979,7 @@
   },
   {
     "title": "Century: Rota das Especiarias",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "century__rota_das_especiarias_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/century-spice-road",
     "players": "2 a 5 jogadores",
@@ -1000,7 +1000,7 @@
   },
   {
     "title": "Catan: Plus",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan__plus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-plus-catan-big-box",
     "players": "3 a 6 jogadores",
@@ -1017,7 +1017,7 @@
   },
   {
     "title": "Star Realms",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "star_realms_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/star-realms",
     "players": "2 jogadores",
@@ -1042,7 +1042,7 @@
   },
   {
     "title": "Fresco",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "fresco_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/fresco",
     "players": "2 a 4 jogadores",
@@ -1065,7 +1065,7 @@
   },
   {
     "title": "Alhambra: Edição Revisada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "alhambra__edi__o_revisada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/alhambra-designers-edition-alhambra-revised-edition",
     "players": "2 a 6 jogadores",
@@ -1084,7 +1084,7 @@
   },
   {
     "title": "Ierusalem: Anno Domini",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ierusalem__anno_domini_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ierusalem-anno-domini",
     "players": "1 a 4 jogadores",
@@ -1101,7 +1101,7 @@
   },
   {
     "title": "Pandemic Legacy: 2ª Temporada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pandemic_legacy__2__temporada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pandemic-legacy-season-2",
     "players": "2 a 4 jogadores",
@@ -1120,7 +1120,7 @@
   },
   {
     "title": "Código Secreto: Imagens",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "c_digo_secreto__imagens_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/codenames-pictures",
     "players": "2 a 8 jogadores",
@@ -1141,7 +1141,7 @@
   },
   {
     "title": "A Batalha dos Cinco Exércitos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_batalha_dos_cinco_ex_rcitos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-battle-of-five-armies",
     "players": "2 jogadores",
@@ -1164,7 +1164,7 @@
   },
   {
     "title": "Mille Fiori",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mille_fiori_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mille-fiori",
     "players": "2 a 4 jogadores",
@@ -1185,7 +1185,7 @@
   },
   {
     "title": "Hadara",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "hadara_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/hadara",
     "players": "2 a 5 jogadores",
@@ -1210,7 +1210,7 @@
   },
   {
     "title": "Sushi Go: Party!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "sushi_go__party__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sushi-go-party",
     "players": "2 a 8 jogadores",
@@ -1235,7 +1235,7 @@
   },
   {
     "title": "Ubongo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ubongo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ubongo",
     "players": "2 a 4 jogadores",
@@ -1256,7 +1256,7 @@
   },
   {
     "title": "Pulsar 2849",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pulsar_2849_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pulsar-2849",
     "players": "2 a 4 jogadores",
@@ -1279,7 +1279,7 @@
   },
   {
     "title": "As Lendas de Andor",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_lendas_de_andor_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/legends-of-andor",
     "players": "2 a 4 jogadores",
@@ -1304,7 +1304,7 @@
   },
   {
     "title": "Optimus",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "optimus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/that-s-pretty-clever",
     "players": "1 a 4 jogadores",
@@ -1327,7 +1327,7 @@
   },
   {
     "title": "Century: Maravilhas do Oriente",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "century__maravilhas_do_oriente_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/century-eastern-wonders",
     "players": "2 a 4 jogadores",
@@ -1350,7 +1350,7 @@
   },
   {
     "title": "EXIT: O Jogo - A Cabana Abandonada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___a_cabana_abandonada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-abandoned-cabin",
     "players": "1 a 6 jogadores",
@@ -1364,7 +1364,7 @@
   },
   {
     "title": "Galaxy Trucker",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "galaxy_trucker_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/galaxy-trucker",
     "players": "2 a 4 jogadores",
@@ -1383,7 +1383,7 @@
   },
   {
     "title": "A Game of Thrones: Catan - Brotherhood of the Watch",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_game_of_thrones__catan___brotherhood_of_the_watch_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-game-of-thrones-catan-brotherhood-of-the-watch",
     "players": "3 a 4 jogadores",
@@ -1400,7 +1400,7 @@
   },
   {
     "title": "Under Falling Skies",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "under_falling_skies_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/under-falling-skies",
     "players": "1 jogadores",
@@ -1423,7 +1423,7 @@
   },
   {
     "title": "3 Ring Circus",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "3_ring_circus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/3-ring-circus",
     "players": "1 a 4 jogadores",
@@ -1440,7 +1440,7 @@
   },
   {
     "title": "King of Tokyo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "king_of_tokyo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/king-of-tokyo",
     "players": "2 a 6 jogadores",
@@ -1465,7 +1465,7 @@
   },
   {
     "title": "Genial",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "genial_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ingenious",
     "players": "2 a 4 jogadores",
@@ -1486,7 +1486,7 @@
   },
   {
     "title": "Exploradores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exploradores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lost-cities",
     "players": "2 jogadores",
@@ -1509,7 +1509,7 @@
   },
   {
     "title": "Pathfinder - O Jogo de Aventuras",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder___o_jogo_de_aventuras_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-adventure-card-game-rise-of-the-runelords-base-set",
     "players": "1 a 4 jogadores",
@@ -1534,7 +1534,7 @@
   },
   {
     "title": "Código Secreto: Dueto",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "c_digo_secreto__dueto_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/codenames-duet",
     "players": "2 jogadores",
@@ -1559,7 +1559,7 @@
   },
   {
     "title": "Sushi Go!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "sushi_go__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sushi-go",
     "players": "2 a 5 jogadores",
@@ -1584,7 +1584,7 @@
   },
   {
     "title": "Telma (2ª Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "telma__2__edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/telma-2-edicao",
     "players": "4 a 8 jogadores",
@@ -1603,7 +1603,7 @@
   },
   {
     "title": "King of Tokyo: Monster Box",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "king_of_tokyo__monster_box_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/king-of-tokyo-monster-box",
     "players": "2 a 6 jogadores",
@@ -1620,7 +1620,7 @@
   },
   {
     "title": "Torres",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "torres_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/torres",
     "players": "2 a 4 jogadores",
@@ -1643,7 +1643,7 @@
   },
   {
     "title": "Salada de Pontos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "salada_de_pontos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/point-salad",
     "players": "2 a 6 jogadores",
@@ -1668,7 +1668,7 @@
   },
   {
     "title": "Cacao",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "cacao_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cacao",
     "players": "2 a 4 jogadores",
@@ -1693,7 +1693,7 @@
   },
   {
     "title": "Grandpa Beck's Skull King",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "grandpa_beck_s_skull_king_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/grandpa-beck-s-skull-king",
     "players": "2 a 8 jogadores",
@@ -1716,7 +1716,7 @@
   },
   {
     "title": "Regicide",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "regicide_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/regicide",
     "players": "1 a 4 jogadores",
@@ -1741,7 +1741,7 @@
   },
   {
     "title": "Ricochet Robots",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ricochet_robots_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ricochet-robots",
     "players": "1 a 10 jogadores",
@@ -1762,7 +1762,7 @@
   },
   {
     "title": "Century: O Novo Mundo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "century__o_novo_mundo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/century-a-new-world",
     "players": "2 a 4 jogadores",
@@ -1781,7 +1781,7 @@
   },
   {
     "title": "Busca pelo Anel",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "busca_pelo_anel_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/hunt-for-the-ring",
     "players": "2 a 5 jogadores",
@@ -1804,7 +1804,7 @@
   },
   {
     "title": "Optimus 2",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "optimus_2_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/twice-as-clever",
     "players": "1 a 4 jogadores",
@@ -1825,7 +1825,7 @@
   },
   {
     "title": "Kingdom Builder",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "kingdom_builder_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/kingdom-builder",
     "players": "2 a 4 jogadores",
@@ -1850,7 +1850,7 @@
   },
   {
     "title": "Carcassonne: Mares do Sul",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__mares_do_sul_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-south-seas",
     "players": "2 a 5 jogadores",
@@ -1871,7 +1871,7 @@
   },
   {
     "title": "Paris: La Cité de la Lumière",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "paris__la_cit__de_la_lumi_re_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/paris-la-cite-de-la-lumiere",
     "players": "2 jogadores",
@@ -1892,7 +1892,7 @@
   },
   {
     "title": "Carcassonne: Caçadores e Coletores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__ca_adores_e_coletores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-hunters-and-gatherers",
     "players": "2 a 5 jogadores",
@@ -1913,7 +1913,7 @@
   },
   {
     "title": "Miguel Strogoff",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "miguel_strogoff_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/michael-strogoff",
     "players": "1 a 5 jogadores",
@@ -1932,7 +1932,7 @@
   },
   {
     "title": "A Ilha Proibida",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_ilha_proibida_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/forbidden-island",
     "players": "2 a 4 jogadores",
@@ -1957,7 +1957,7 @@
   },
   {
     "title": "La Viña",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "la_vi_a_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/la-vina",
     "players": "2 a 5 jogadores",
@@ -1976,7 +1976,7 @@
   },
   {
     "title": "O Vale dos Mercadores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_vale_dos_mercadores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dale-of-merchants",
     "players": "2 a 4 jogadores",
@@ -1995,7 +1995,7 @@
   },
   {
     "title": "Space Alert",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "space_alert_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/space-alert",
     "players": "1 a 5 jogadores",
@@ -2020,7 +2020,7 @@
   },
   {
     "title": "Savernake Forest",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "savernake_forest_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/savernake-forest",
     "players": "2 a 4 jogadores",
@@ -2037,7 +2037,7 @@
   },
   {
     "title": "O Labirinto Mágico",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_labirinto_m_gico_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-magic-labyrinth",
     "players": "2 a 4 jogadores",
@@ -2056,7 +2056,7 @@
   },
   {
     "title": "Gardens",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gardens_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gardens",
     "players": "2 a 4 jogadores",
@@ -2081,7 +2081,7 @@
   },
   {
     "title": "Carcassonne: Amazonas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__amazonas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-amazonas",
     "players": "2 a 5 jogadores",
@@ -2100,7 +2100,7 @@
   },
   {
     "title": "Khôra: Rise of an Empire",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "kh_ra__rise_of_an_empire_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/khora-rise-of-an-empire",
     "players": "2 a 4 jogadores",
@@ -2117,7 +2117,7 @@
   },
   {
     "title": "Don Capollo (Segunda Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "don_capollo__segunda_edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/don-capollo-2-edicao",
     "players": "3 a 6 jogadores",
@@ -2134,7 +2134,7 @@
   },
   {
     "title": "Munchkin",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "munchkin_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/munchkin",
     "players": "3 a 6 jogadores",
@@ -2159,7 +2159,7 @@
   },
   {
     "title": "Fantasma Blitz",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "fantasma_blitz_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ghost-blitz",
     "players": "2 a 8 jogadores",
@@ -2178,7 +2178,7 @@
   },
   {
     "title": "Bamboo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "bamboo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/bamboo",
     "players": "2 a 4 jogadores",
@@ -2195,7 +2195,7 @@
   },
   {
     "title": "As Lendas de Andor: A Última Esperança",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_lendas_de_andor__a__ltima_esperan_a_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/legends-of-andor-the-last-hope",
     "players": "2 a 4 jogadores",
@@ -2220,7 +2220,7 @@
   },
   {
     "title": "Cartagena",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "cartagena_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cartagena",
     "players": "2 a 5 jogadores",
@@ -2239,7 +2239,7 @@
   },
   {
     "title": "Marrakesh",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "marrakesh_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/marrakesh",
     "players": "2 a 4 jogadores",
@@ -2260,7 +2260,7 @@
   },
   {
     "title": "Telma",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "telma_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/telma",
     "players": "4 a 8 jogadores",
@@ -2277,7 +2277,7 @@
   },
   {
     "title": "Carcassonne: Safari",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__safari_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-safari",
     "players": "2 a 5 jogadores",
@@ -2296,7 +2296,7 @@
   },
   {
     "title": "Break the Code",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "break_the_code_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/break-the-code",
     "players": "2 a 4 jogadores",
@@ -2315,7 +2315,7 @@
   },
   {
     "title": "Nevoeiro em Carcassonne",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "nevoeiro_em_carcassonne_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mists-over-carcassonne",
     "players": "1 a 5 jogadores",
@@ -2336,7 +2336,7 @@
   },
   {
     "title": "Escape: A Maldição do Templo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "escape__a_maldi__o_do_templo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/escape-the-curse-of-the-temple",
     "players": "1 a 5 jogadores",
@@ -2361,7 +2361,7 @@
   },
   {
     "title": "Don Capollo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "don_capollo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/don-capollo",
     "players": "3 a 6 jogadores",
@@ -2384,7 +2384,7 @@
   },
   {
     "title": "Yangtze",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "yangtze_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lanterns-the-harvest-festival",
     "players": "2 a 4 jogadores",
@@ -2405,7 +2405,7 @@
   },
   {
     "title": "Um Império em Oito-Minutos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "um_imp_rio_em_oito_minutos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/eight-minute-empire",
     "players": "2 a 5 jogadores",
@@ -2430,7 +2430,7 @@
   },
   {
     "title": "Holmes: Sherlock & Mycroft",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "holmes__sherlock___mycroft_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/holmes-sherlock-mycroft",
     "players": "2 jogadores",
@@ -2447,7 +2447,7 @@
   },
   {
     "title": "Carcassonne: Star Wars",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__star_wars_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-star-wars",
     "players": "2 a 5 jogadores",
@@ -2466,7 +2466,7 @@
   },
   {
     "title": "Fila Filo - Formigas na Teia",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "fila_filo___formigas_na_teia_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/spinderella",
     "players": "2 a 4 jogadores",
@@ -2485,7 +2485,7 @@
   },
   {
     "title": "Coloretto",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "coloretto_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/coloretto",
     "players": "2 a 5 jogadores",
@@ -2510,7 +2510,7 @@
   },
   {
     "title": "Cafundó",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "cafund__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cafundo",
     "players": "3 a 6 jogadores",
@@ -2529,7 +2529,7 @@
   },
   {
     "title": "EXIT: O Jogo - O Laboratório Secreto",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___o_laborat_rio_secreto_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-secret-lab",
     "players": "1 a 6 jogadores",
@@ -2543,7 +2543,7 @@
   },
   {
     "title": "World of Warcraft: O Jogo de Aventura",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "world_of_warcraft__o_jogo_de_aventura_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/world-of-warcraft-the-adventure-game",
     "players": "2 a 4 jogadores",
@@ -2568,7 +2568,7 @@
   },
   {
     "title": "Keltis: o Caminho das Pedras",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "keltis__o_caminho_das_pedras_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/keltis",
     "players": "2 a 4 jogadores",
@@ -2589,7 +2589,7 @@
   },
   {
     "title": "Telma (3ª edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "telma__3__edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/telma-3-edicao",
     "players": "4 a 8 jogadores",
@@ -2606,7 +2606,7 @@
   },
   {
     "title": "Trapwords",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "trapwords_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/trapwords",
     "players": "4 a 8 jogadores",
@@ -2625,7 +2625,7 @@
   },
   {
     "title": "A Volta ao Mundo em 80 Dias",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_volta_ao_mundo_em_80_dias_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/around-the-world-in-80-days",
     "players": "2 a 6 jogadores",
@@ -2644,7 +2644,7 @@
   },
   {
     "title": "Leo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "leo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/leo",
     "players": "2 a 5 jogadores",
@@ -2661,7 +2661,7 @@
   },
   {
     "title": "Ratzzia",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ratzzia_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ratzzia",
     "players": "2 a 5 jogadores",
@@ -2678,7 +2678,7 @@
   },
   {
     "title": "Dungeon Raiders",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeon_raiders_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeon-raiders",
     "players": "3 a 5 jogadores",
@@ -2703,7 +2703,7 @@
   },
   {
     "title": "Andor Júnior",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "andor_j_nior_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/andor-the-family-fantasy-game",
     "players": "2 a 4 jogadores",
@@ -2720,7 +2720,7 @@
   },
   {
     "title": "Bar Bestial",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "bar_bestial_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/beasty-bar",
     "players": "2 a 4 jogadores",
@@ -2743,7 +2743,7 @@
   },
   {
     "title": "Checkpoint Charlie",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "checkpoint_charlie_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/checkpoint-charlie",
     "players": "3 a 5 jogadores",
@@ -2762,7 +2762,7 @@
   },
   {
     "title": "Onirim (second edition)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "onirim__second_edition__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/onirim-second-edition",
     "players": "1 a 2 jogadores",
@@ -2785,7 +2785,7 @@
   },
   {
     "title": "As Escadas Assombradas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_escadas_assombradas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/spooky-stairs",
     "players": "2 a 4 jogadores",
@@ -2802,7 +2802,7 @@
   },
   {
     "title": "Plenus",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "plenus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/encore",
     "players": "1 a 6 jogadores",
@@ -2819,7 +2819,7 @@
   },
   {
     "title": "Yu-Gi-Oh! Trading Card Game",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "yu_gi_oh__trading_card_game_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/yu-gi-oh-trading-card-game",
     "players": "2 jogadores",
@@ -2836,7 +2836,7 @@
   },
   {
     "title": "NMBR9",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "nmbr9_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/nmbr-9",
     "players": "1 a 4 jogadores",
@@ -2857,7 +2857,7 @@
   },
   {
     "title": "Catan o Duelo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan_o_duelo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/rivals-for-catan-deluxe",
     "players": "2 jogadores",
@@ -2878,7 +2878,7 @@
   },
   {
     "title": "Catan Junior",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan_junior_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-junior",
     "players": "2 a 4 jogadores",
@@ -2897,7 +2897,7 @@
   },
   {
     "title": "Veggies",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "veggies_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/veggies",
     "players": "2 a 4 jogadores",
@@ -2914,7 +2914,7 @@
   },
   {
     "title": "A Lebre e a Tartaruga",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_lebre_e_a_tartaruga_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/hare-tortoise",
     "players": "2 a 6 jogadores",
@@ -2933,7 +2933,7 @@
   },
   {
     "title": "TEN",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ten_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ten",
     "players": "1 a 5 jogadores",
@@ -2952,7 +2952,7 @@
   },
   {
     "title": "Stone Age Junior",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "stone_age_junior_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/my-first-stone-age-stone-age-junior",
     "players": "2 a 4 jogadores",
@@ -2971,7 +2971,7 @@
   },
   {
     "title": "Catan: O Jogo de Cartas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan__o_jogo_de_cartas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-struggle-for-catan",
     "players": "2 a 4 jogadores",
@@ -2994,7 +2994,7 @@
   },
   {
     "title": "Micro Robôs",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "micro_rob_s_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/micro-robots",
     "players": "2 a 99 jogadores",
@@ -3011,7 +3011,7 @@
   },
   {
     "title": "Papua",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "papua_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/papua",
     "players": "2 a 4 jogadores",
@@ -3030,7 +3030,7 @@
   },
   {
     "title": "Fantasma Blitz: Que Susto!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "fantasma_blitz__que_susto__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ghost-blitz-spooky-doo",
     "players": "2 a 8 jogadores",
@@ -3047,7 +3047,7 @@
   },
   {
     "title": "Salton Sea",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "salton_sea_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/salton-sea",
     "players": "1 a 4 jogadores",
@@ -3068,7 +3068,7 @@
   },
   {
     "title": "Dragões & Galinhas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "drag_es___galinhas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dragons-chickens",
     "players": "2 a 5 jogadores",
@@ -3087,7 +3087,7 @@
   },
   {
     "title": "Get on Board: New York & London",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "get_on_board__new_york___london_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/get-on-board-new-york-london",
     "players": "2 a 5 jogadores",
@@ -3106,7 +3106,7 @@
   },
   {
     "title": "Fantasma Blitz 2.0",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "fantasma_blitz_2_0_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ghost-blitz-2",
     "players": "2 a 8 jogadores",
@@ -3123,7 +3123,7 @@
   },
   {
     "title": "O Monstro das Cores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_monstro_das_cores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-color-monster",
     "players": "2 a 5 jogadores",
@@ -3140,7 +3140,7 @@
   },
   {
     "title": "Jolly Roger: Um Jogo de Motins e Pirataria",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "jolly_roger__um_jogo_de_motins_e_pirataria_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/jolly-roger-the-game-of-piracy-mutiny",
     "players": "4 a 10 jogadores",
@@ -3159,7 +3159,7 @@
   },
   {
     "title": "Magic: The Gathering (Fourth Edition)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering__fourth_edition__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-fourth-edition",
     "players": "2 jogadores",
@@ -3173,7 +3173,7 @@
   },
   {
     "title": "My City: Roll and Write",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "my_city__roll_and_write_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/my-city-roll-build",
     "players": "1 a 6 jogadores",
@@ -3190,7 +3190,7 @@
   },
   {
     "title": "Aqualin",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "aqualin_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/aqualin",
     "players": "2 jogadores",
@@ -3207,7 +3207,7 @@
   },
   {
     "title": "King of Monster Island",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "king_of_monster_island_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/king-of-monster-island",
     "players": "1 a 5 jogadores",
@@ -3224,7 +3224,7 @@
   },
   {
     "title": "EXIT: O Jogo - A Ilha Esquecida",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___a_ilha_esquecida_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-forgotten-island",
     "players": "1 a 6 jogadores",
@@ -3241,7 +3241,7 @@
   },
   {
     "title": "Dino Race",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dino_race_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dino-race",
     "players": "2 a 4 jogadores",
@@ -3255,7 +3255,7 @@
   },
   {
     "title": "Silk",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "silk_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/silk",
     "players": "2 a 4 jogadores",
@@ -3272,7 +3272,7 @@
   },
   {
     "title": "Belratti",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "belratti_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/belratti",
     "players": "3 a 7 jogadores",
@@ -3291,7 +3291,7 @@
   },
   {
     "title": "Mindbug: Primeiro Contato",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mindbug__primeiro_contato_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mindbug-first-contact",
     "players": "2 jogadores",
@@ -3310,7 +3310,7 @@
   },
   {
     "title": "Cocoricó, Cocorocó!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "cocoric___cocoroc___cover.jpg",
     "link": "https://ludopedia.com.br/jogo/chicken-cha-cha-cha",
     "players": "2 a 4 jogadores",
@@ -3327,7 +3327,7 @@
   },
   {
     "title": "Treasure Hunter",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "treasure_hunter_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/treasure-hunter",
     "players": "2 a 6 jogadores",
@@ -3350,7 +3350,7 @@
   },
   {
     "title": "Terra Mare",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "terra_mare_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/land-vs-sea",
     "players": "2 a 4 jogadores",
@@ -3367,7 +3367,7 @@
   },
   {
     "title": "Castle Party",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "castle_party_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/castle-party",
     "players": "2 a 4 jogadores",
@@ -3384,7 +3384,7 @@
   },
   {
     "title": "EXIT: O Jogo - A Mansão Sinistra",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___a_mans_o_sinistra_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-sinister-mansion",
     "players": "1 a 4 jogadores",
@@ -3398,7 +3398,7 @@
   },
   {
     "title": "Epic: Jogo de Cartas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "epic__jogo_de_cartas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/epic-card-game",
     "players": "2 a 4 jogadores",
@@ -3423,7 +3423,7 @@
   },
   {
     "title": "EXIT: O Jogo - A Tumba do Faraó",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___a_tumba_do_fara__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-pharaoh-s-tomb",
     "players": "1 a 6 jogadores",
@@ -3442,7 +3442,7 @@
   },
   {
     "title": "O Abelhão Trapaceiro",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_abelh_o_trapaceiro_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/el-abejorro-tramposo-schummel-hummel",
     "players": "3 a 5 jogadores",
@@ -3456,7 +3456,7 @@
   },
   {
     "title": "EXIT: O Jogo - Morte no Expresso do Oriente",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___morte_no_expresso_do_oriente_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-dead-man-on-the-orient-express",
     "players": "1 a 6 jogadores",
@@ -3470,7 +3470,7 @@
   },
   {
     "title": "Battle Sheep",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "battle_sheep_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/battle-sheep",
     "players": "2 a 4 jogadores",
@@ -3484,7 +3484,7 @@
   },
   {
     "title": "Dark City",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dark_city_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dark-city",
     "players": "4 a 8 jogadores",
@@ -3501,7 +3501,7 @@
   },
   {
     "title": "EXIT: O Jogo - O Museu Misterioso",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___o_museu_misterioso_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-mysterious-museum",
     "players": "1 a 4 jogadores",
@@ -3515,7 +3515,7 @@
   },
   {
     "title": "Carcassonne Junior",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne_junior_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/my-first-carcassonne-the-kids-of-carcassonne-carcassonne-junior",
     "players": "2 a 4 jogadores",
@@ -3536,7 +3536,7 @@
   },
   {
     "title": "Dodô",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dod__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dodo",
     "players": "2 a 4 jogadores",
@@ -3550,7 +3550,7 @@
   },
   {
     "title": "Ouch!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ouch__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ouch",
     "players": "2 a 5 jogadores",
@@ -3567,7 +3567,7 @@
   },
   {
     "title": "O Hobbit: o Jogo de Tabuleiro",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_hobbit__o_jogo_de_tabuleiro_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-hobbit",
     "players": "2 a 5 jogadores",
@@ -3586,7 +3586,7 @@
   },
   {
     "title": "Holi: O Festival das Cores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "holi__o_festival_das_cores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/holi-festival-of-colors",
     "players": "2 a 4 jogadores",
@@ -3605,7 +3605,7 @@
   },
   {
     "title": "EXIT: O Jogo - O Tesouro Afundado",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___o_tesouro_afundado_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-sunken-treasure",
     "players": "1 a 6 jogadores",
@@ -3619,7 +3619,7 @@
   },
   {
     "title": "Terra",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "terra_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/terra",
     "players": "2 a 6 jogadores",
@@ -3636,7 +3636,7 @@
   },
   {
     "title": "LUNA Capital",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "luna_capital_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/luna-capital",
     "players": "1 a 4 jogadores",
@@ -3653,7 +3653,7 @@
   },
   {
     "title": "Sonora",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "sonora_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sonora",
     "players": "1 a 4 jogadores",
@@ -3672,7 +3672,7 @@
   },
   {
     "title": "Fantasma Blitz Dados",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "fantasma_blitz_dados_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/geistesblitz-w-rfelblitz",
     "players": "2 a 8 jogadores",
@@ -3689,7 +3689,7 @@
   },
   {
     "title": "EXIT: O Jogo - A Montanha Russa Assombrada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___a_montanha_russa_assombrada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-haunted-roller-coaster",
     "players": "1 a 4 jogadores",
@@ -3703,7 +3703,7 @@
   },
   {
     "title": "Karekare",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "karekare_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/karekare",
     "players": "2 a 4 jogadores",
@@ -3720,7 +3720,7 @@
   },
   {
     "title": "A Torre Encantada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_torre_encantada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-enchanted-tower",
     "players": "2 a 4 jogadores",
@@ -3737,7 +3737,7 @@
   },
   {
     "title": "EXIT: O Jogo - O Castelo Proibido",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___o_castelo_proibido_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-forbidden-castle",
     "players": "1 a 6 jogadores",
@@ -3751,7 +3751,7 @@
   },
   {
     "title": "Battletech: Combates Titânicos no Século XXXI",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "battletech__combates_tit_nicos_no_s_culo_xxxi_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/battletech-4th-edition",
     "players": "2 a 8 jogadores",
@@ -3765,7 +3765,7 @@
   },
   {
     "title": "EXIT: O Jogo - A Estação Polar",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___a_esta__o_polar_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-polar-station",
     "players": "1 a 6 jogadores",
@@ -3779,7 +3779,7 @@
   },
   {
     "title": "Kites: Hora de Voar",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "kites__hora_de_voar_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/kites-time-to-fly",
     "players": "2 a 6 jogadores",
@@ -3796,7 +3796,7 @@
   },
   {
     "title": "Exit: As Catacumbas do Terror",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__as_catacumbas_do_terror_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-catacombs-of-horror",
     "players": "1 a 4 jogadores",
@@ -3810,7 +3810,7 @@
   },
   {
     "title": "Mazescape: Ariadne",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mazescape__ariadne_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mazescape-ariadne",
     "players": "1 jogadores",
@@ -3824,7 +3824,7 @@
   },
   {
     "title": "High Score (I)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "high_score__i__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/high-score-i",
     "players": "2 a 5 jogadores",
@@ -3841,7 +3841,7 @@
   },
   {
     "title": "Fast Food Fear!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "fast_food_fear__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/fast-food-fear",
     "players": "3 a 6 jogadores",
@@ -3860,7 +3860,7 @@
   },
   {
     "title": "Winter",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "winter_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/winter",
     "players": "2 jogadores",
@@ -3879,7 +3879,7 @@
   },
   {
     "title": "Pócimas Y Brebajes Jr.",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "p_cimas_y_brebajes_jr__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/quacks-co-quedlinburg-dash",
     "players": "2 a 4 jogadores",
@@ -3902,7 +3902,7 @@
   },
   {
     "title": "EXIT: O Jogo - Senhor dos Anéis: Sombras sobre a Terra Média",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___senhor_dos_an_is__sombras_sobre_a_terra_m_dia_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-das-spiel-schatten-ber-mittelerde",
     "players": "1 a 4 jogadores",
@@ -3916,7 +3916,7 @@
   },
   {
     "title": "Gretchinz!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gretchinz__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gretchinz",
     "players": "2 a 4 jogadores",
@@ -3933,7 +3933,7 @@
   },
   {
     "title": "A Troupe dos Porquinhos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_troupe_dos_porquinhos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/r-sselbande",
     "players": "2 a 7 jogadores",
@@ -3950,7 +3950,7 @@
   },
   {
     "title": "Yokai Sketch",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "yokai_sketch_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/yokai-sketch",
     "players": "2 jogadores",
@@ -3967,7 +3967,7 @@
   },
   {
     "title": "Flap-Flap",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "flap_flap_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/family-flutter-by",
     "players": "2 a 4 jogadores",
@@ -3984,7 +3984,7 @@
   },
   {
     "title": "Coyote",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "coyote_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/coyote-i",
     "players": "3 a 6 jogadores",
@@ -4001,7 +4001,7 @@
   },
   {
     "title": "Mazescape: Labýrinthos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mazescape__lab_rinthos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mazescape-labyrinthos",
     "players": "1 jogadores",
@@ -4015,7 +4015,7 @@
   },
   {
     "title": "Blind Business",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "blind_business_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/blind-business",
     "players": "2 a 5 jogadores",
@@ -4032,7 +4032,7 @@
   },
   {
     "title": "Walkie Talkie",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "walkie_talkie_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/walkie-talkie",
     "players": "2 a 8 jogadores",
@@ -4051,7 +4051,7 @@
   },
   {
     "title": "EXIT: O Jogo - A Casa dos Enigmas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___a_casa_dos_enigmas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-house-of-riddles",
     "players": "1 a 6 jogadores",
@@ -4065,7 +4065,7 @@
   },
   {
     "title": "Odyssey - A Ira de Poseidon",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "odyssey___a_ira_de_poseidon_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/odyssey-wrath-of-poseidon",
     "players": "2 a 5 jogadores",
@@ -4084,7 +4084,7 @@
   },
   {
     "title": "Bolachas!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "bolachas__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/me-want-cookies",
     "players": "2 a 5 jogadores",
@@ -4101,7 +4101,7 @@
   },
   {
     "title": "Regine",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "regine_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/regine",
     "players": "2 a 4 jogadores",
@@ -4120,7 +4120,7 @@
   },
   {
     "title": "Picnic",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "picnic_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/picnic",
     "players": "2 a 6 jogadores",
@@ -4134,7 +4134,7 @@
   },
   {
     "title": "1,2,3!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "1_2_3__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/1-2-3-now-you-see-me",
     "players": "2 a 8 jogadores",
@@ -4151,7 +4151,7 @@
   },
   {
     "title": "Brincar+Juntos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "brincar_juntos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/brincar-juntos",
     "players": "2 a 6 jogadores",
@@ -4165,7 +4165,7 @@
   },
   {
     "title": "Fanhunter: Assault",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "fanhunter__assault_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/fanhunter-assault",
     "players": "2 a 6 jogadores",
@@ -4182,7 +4182,7 @@
   },
   {
     "title": "Baby Blues",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "baby_blues_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/baby-blues",
     "players": "2 a 4 jogadores",
@@ -4203,7 +4203,7 @@
   },
   {
     "title": "Magic: The Gathering - Alísios",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering___al_sios_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-weatherlight",
     "players": "2 jogadores",
@@ -4217,7 +4217,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara - Senhoras do Pássaro da Noite",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara___senhoras_do_p_ssaro_da_noite_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-senhoras-do-passaro-da-noite",
     "players": "2 a 6 jogadores",
@@ -4231,7 +4231,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara: A Capitania Real do Rio de Janeiro",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara__a_capitania_real_do_rio_de_janeiro_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-a-capitania-real-do-rio-de-janeiro",
     "players": "2 a 8 jogadores",
@@ -4245,7 +4245,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara: A Maldição de Ipaúna",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara__a_maldi__o_de_ipa_na_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-a-maldicao-de-ipauna",
     "players": "2 a 10 jogadores",
@@ -4259,7 +4259,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara: a Misteriosa Sesmaria de Dom Perestelo e Escudo do Mediador",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara__a_misteriosa_sesmaria_de_dom_perestelo_e_escudo_do_mediador_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-a-misteriosa-sesmaria-de-dom-perestelo-e-escudo-do-mediador",
     "players": "2 a 8 jogadores",
@@ -4273,7 +4273,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara: Flagellum Amazonis - A Ilha Abandonada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara__flagellum_amazonis___a_ilha_abandonada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-flagellum-amazonis-a-ilha-abandonada",
     "players": "2 a 10 jogadores",
@@ -4287,7 +4287,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara: Flagellum Amazonis 2 - A Mãe Serpente do Mundo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara__flagellum_amazonis_2___a_m_e_serpente_do_mundo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-flagellum-amazonis-2-a-mae-serpente-do-mundo",
     "players": "4 a 8 jogadores",
@@ -4301,7 +4301,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara: Livro de Interpretação de Papéis (Edição Expandida)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara__livro_de_interpreta__o_de_pap_is__edi__o_expandida__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-livro-de-interpretacao-de-papeis-edicao-expandida",
     "players": "2 a 10 jogadores",
@@ -4315,7 +4315,7 @@
   },
   {
     "title": "A Bandeira do Elefante e da Arara: O Veneno de Yara'Raka",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "a_bandeira_do_elefante_e_da_arara__o_veneno_de_yara_raka_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-bandeira-do-elefante-e-da-arara-o-veneno-de-yara-raka",
     "players": "2 a 10 jogadores",
@@ -4329,7 +4329,7 @@
   },
   {
     "title": "AD&D (2nd Edition Revised) - Ravenloft: Domínios do Medo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ad_d__2nd_edition_revised____ravenloft__dom_nios_do_medo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ad-d-2nd-edition-revised-domains-of-dread",
     "players": "2 a 8 jogadores",
@@ -4343,7 +4343,7 @@
   },
   {
     "title": "Alquimistas: O Golem do Rei",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "alquimistas__o_golem_do_rei_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/alchemists-king-s-golem",
     "players": "2 a 4 jogadores",
@@ -4364,7 +4364,7 @@
   },
   {
     "title": "Art Society",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "art_society_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/art-society",
     "players": "2 a 4 jogadores",
@@ -4381,7 +4381,7 @@
   },
   {
     "title": "As Extraordinárias Aventuras do Barão de Munchausen",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_extraordin_rias_aventuras_do_bar_o_de_munchausen_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-extraordinary-adventures-of-baron-munchausen",
     "players": "3 a 20 jogadores",
@@ -4398,7 +4398,7 @@
   },
   {
     "title": "As Ruínas Perdidas de Arnak: A Expedição Perdida",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_ru_nas_perdidas_de_arnak__a_expedi__o_perdida_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lost-ruins-of-arnak-the-missing-expedition",
     "players": "1 a 4 jogadores",
@@ -4423,7 +4423,7 @@
   },
   {
     "title": "As Ruínas Perdidas de Arnak: Líderes de Expedição",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_ru_nas_perdidas_de_arnak__l_deres_de_expedi__o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lost-ruins-of-arnak-expedition-leaders",
     "players": "1 a 4 jogadores",
@@ -4448,7 +4448,7 @@
   },
   {
     "title": "As Viagens de Marco Polo: Os Companheiros de Marco Polo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "as_viagens_de_marco_polo__os_companheiros_de_marco_polo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-voyages-of-marco-polo-agents-of-venice",
     "players": "2 a 5 jogadores",
@@ -4469,7 +4469,7 @@
   },
   {
     "title": "Autumn",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "autumn_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/autumn",
     "players": "1 a 2 jogadores",
@@ -4486,7 +4486,7 @@
   },
   {
     "title": "BESM D20 Livro Do Jogador De Anime",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "besm_d20_livro_do_jogador_de_anime_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/besm-d20-anime-role-player-s-handbook",
     "players": "1 a 10 jogadores",
@@ -4500,7 +4500,7 @@
   },
   {
     "title": "Bitoku: Resutoran",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "bitoku__resutoran_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/bitoku-resutoran",
     "players": "1 a 4 jogadores",
@@ -4519,7 +4519,7 @@
   },
   {
     "title": "Botanicus",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "botanicus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/botanicus",
     "players": "2 a 4 jogadores",
@@ -4536,7 +4536,7 @@
   },
   {
     "title": "Cacao: Diamante",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "cacao__diamante_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cacao-diamante",
     "players": "2 a 4 jogadores",
@@ -4550,7 +4550,7 @@
   },
   {
     "title": "Carcassonne Big Box 7",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne_big_box_7_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-big-box-7",
     "players": "2 a 6 jogadores",
@@ -4567,7 +4567,7 @@
   },
   {
     "title": "Carcassonne: Expansão 1 - Estalagens e Catedrais",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__expans_o_1___estalagens_e_catedrais_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-expansion-1-inns-cathedrals",
     "players": "2 a 6 jogadores",
@@ -4590,7 +4590,7 @@
   },
   {
     "title": "Carcassonne: Expansão 2 - Comerciantes e Construtores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__expans_o_2___comerciantes_e_construtores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-expansion-2-traders-builders",
     "players": "2 a 6 jogadores",
@@ -4613,7 +4613,7 @@
   },
   {
     "title": "Carcassonne: Expansão 3 - A Princesa e o Dragão",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__expans_o_3___a_princesa_e_o_drag_o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-expansion-3-the-princess-the-dragon",
     "players": "2 a 6 jogadores",
@@ -4638,7 +4638,7 @@
   },
   {
     "title": "Carcassonne: Expansão 4 - A Torre",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__expans_o_4___a_torre_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-expansion-4-the-tower",
     "players": "2 a 6 jogadores",
@@ -4661,7 +4661,7 @@
   },
   {
     "title": "Carcassonne: Expansão 5 - A Abadia e o Alcaide",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__expans_o_5___a_abadia_e_o_alcaide_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-expansion-5-abbey-mayor",
     "players": "2 a 6 jogadores",
@@ -4686,7 +4686,7 @@
   },
   {
     "title": "Carcassonne: Expansão 8 - Mercados e Pontes",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__expans_o_8___mercados_e_pontes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-expansion-8-bridges-castles-and-bazaars",
     "players": "2 a 6 jogadores",
@@ -4707,7 +4707,7 @@
   },
   {
     "title": "Carcassonne: Expansão 9 - Colinas e Ovelhas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__expans_o_9___colinas_e_ovelhas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-expansion-9-hills-sheep",
     "players": "2 a 6 jogadores",
@@ -4726,7 +4726,7 @@
   },
   {
     "title": "Carcassonne: O Abade",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__o_abade_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-the-abbot",
     "players": "1 a 5 jogadores",
@@ -4740,7 +4740,7 @@
   },
   {
     "title": "Carcassonne: Os Agrimensores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "carcassonne__os_agrimensores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-the-land-surveyors",
     "players": "2 a 5 jogadores",
@@ -4759,7 +4759,7 @@
   },
   {
     "title": "Catan: O Jogo (Expansão para 5-6 Jogadores)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan__o_jogo__expans_o_para_5_6_jogadores__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-5-6-player-extension",
     "players": "5 a 6 jogadores",
@@ -4784,7 +4784,7 @@
   },
   {
     "title": "Catan: O Jogo - Cidades e Cavaleiros",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan__o_jogo___cidades_e_cavaleiros_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-cities-knights",
     "players": "3 a 4 jogadores",
@@ -4809,7 +4809,7 @@
   },
   {
     "title": "Catan: O Jogo - Mercadores e Bárbaros",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan__o_jogo___mercadores_e_b_rbaros_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-traders-barbarians",
     "players": "2 a 4 jogadores",
@@ -4830,7 +4830,7 @@
   },
   {
     "title": "Catan: O Jogo - Navegantes",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan__o_jogo___navegantes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-seafarers",
     "players": "3 a 4 jogadores",
@@ -4853,7 +4853,7 @@
   },
   {
     "title": "Catan: O Jogo - Piratas e Exploradores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "catan__o_jogo___piratas_e_exploradores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-explorers-pirates",
     "players": "2 a 4 jogadores",
@@ -4874,7 +4874,7 @@
   },
   {
     "title": "Changeling: O Sonhar",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "changeling__o_sonhar_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/changeling-the-dreaming-2nd-edition",
     "players": "2 a 10 jogadores",
@@ -4888,7 +4888,7 @@
   },
   {
     "title": "Changeling: Os Perdidos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "changeling__os_perdidos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/changeling-the-lost",
     "players": "2 a 7 jogadores",
@@ -4902,7 +4902,7 @@
   },
   {
     "title": "Código Secreto: Expansão promocional Brasil",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "c_digo_secreto__expans_o_promocional_brasil_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/codigo-secreto-expansao-promocional-brasil",
     "players": "2 a 99 jogadores",
@@ -4916,7 +4916,7 @@
   },
   {
     "title": "Come Nachos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "come_nachos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/nacho-pile",
     "players": "2 a 6 jogadores",
@@ -4933,7 +4933,7 @@
   },
   {
     "title": "Conspiração Dumont",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "conspira__o_dumont_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/conspiracao-dumont",
     "players": "1 jogadores",
@@ -4947,7 +4947,7 @@
   },
   {
     "title": "Crazy Fishing",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "crazy_fishing_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/crazy-fishing",
     "players": "2 a 6 jogadores",
@@ -4964,7 +4964,7 @@
   },
   {
     "title": "Cyberpunk 2020",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "cyberpunk_2020_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cyberpunk-2020",
     "players": "2 a 10 jogadores",
@@ -4981,7 +4981,7 @@
   },
   {
     "title": "Cyberpunk RED (Core Rulebook)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "cyberpunk_red__core_rulebook__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cyberpunk-red-core-rulebook",
     "players": "2 a 10 jogadores",
@@ -4995,7 +4995,7 @@
   },
   {
     "title": "Demônio a Queda",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dem_nio_a_queda_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/demon-the-fallen",
     "players": "2 a 10 jogadores",
@@ -5009,7 +5009,7 @@
   },
   {
     "title": "Dragonlance: Cenário de Campanha",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dragonlance__cen_rio_de_campanha_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dragonlance-campaign-setting",
     "players": "2 a 7 jogadores",
@@ -5023,7 +5023,7 @@
   },
   {
     "title": "Dungeons & Dragons (3.5 Edição) - Warcraft Roleplaying Game",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons__3_5_edi__o____warcraft_roleplaying_game_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3-5-edition-warcraft-roleplaying-game",
     "players": "1 a 10 jogadores",
@@ -5037,7 +5037,7 @@
   },
   {
     "title": "Dungeons & Dragons (3a Edição) - Aventuras Orientais",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons__3a_edi__o____aventuras_orientais_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-oriental-adventures",
     "players": "2 a 10 jogadores",
@@ -5051,7 +5051,7 @@
   },
   {
     "title": "Dungeons & Dragons 3.5a. Edição - Forgotten Realms: Livro do Jogador para Faerûn",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3_5a__edi__o___forgotten_realms__livro_do_jogador_para_faer_n_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3-5-edition-forgotten-realms-player-s-guide-to-faerun",
     "players": "2 a 6 jogadores",
@@ -5065,7 +5065,7 @@
   },
   {
     "title": "Dungeons & Dragons 3.5a. Edição: Livro do Mestre",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3_5a__edi__o__livro_do_mestre_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeon-master-s-guide-d-d-3-5e",
     "players": "2 a 20 jogadores",
@@ -5079,7 +5079,7 @@
   },
   {
     "title": "Dungeons & Dragons 3.5a. Edição: Livro dos Monstros",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3_5a__edi__o__livro_dos_monstros_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/monster-manual-d-d-3-5e",
     "players": "2 a 20 jogadores",
@@ -5093,7 +5093,7 @@
   },
   {
     "title": "Dungeons & Dragons 3.5a. Edição: O Livro Completo do Arcano",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3_5a__edi__o__o_livro_completo_do_arcano_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/complete-arcane-d-d-3-5e",
     "players": "2 a 6 jogadores",
@@ -5107,7 +5107,7 @@
   },
   {
     "title": "Dungeons & Dragons 3.5a. Edição: O Livro Completo do Aventureiro",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3_5a__edi__o__o_livro_completo_do_aventureiro_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/complete-adventurer-d-d-3-5e",
     "players": "2 a 6 jogadores",
@@ -5121,7 +5121,7 @@
   },
   {
     "title": "Dungeons & Dragons 3.5a. Edição: O Livro Completo do Divino",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3_5a__edi__o__o_livro_completo_do_divino_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/complete-divine-d-d-3-5e",
     "players": "2 a 10 jogadores",
@@ -5135,7 +5135,7 @@
   },
   {
     "title": "Dungeons & Dragons 3.5a. Edição: O Livro Completo do Guerreiro",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3_5a__edi__o__o_livro_completo_do_guerreiro_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/complete-warrior-d-d-3-5e",
     "players": "2 a 6 jogadores",
@@ -5149,7 +5149,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição - Forgotten Realms: Cenário de Campanha",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o___forgotten_realms__cen_rio_de_campanha_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-forgotten-realms-campaign-setting",
     "players": "2 a 20 jogadores",
@@ -5163,7 +5163,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição - Forgotten Realms: Crenças e Panteões",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o___forgotten_realms__cren_as_e_pante_es_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-forgotten-realms-faiths-and-pantheons",
     "players": "1 jogadores",
@@ -5177,7 +5177,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição - Forgotten Realms: Fronteiras Prateadas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o___forgotten_realms__fronteiras_prateadas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-forgotten-realms-silver-marches",
     "players": "2 a 6 jogadores",
@@ -5191,7 +5191,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: A Cidadela Sem Sol",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__a_cidadela_sem_sol_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-the-sunless-citadel",
     "players": "1 a 6 jogadores",
@@ -5205,7 +5205,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: A Forja da Fúria",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__a_forja_da_f_ria_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-the-forge-of-fury",
     "players": "2 a 6 jogadores",
@@ -5219,7 +5219,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Canção e Silêncio - Um Livro de Referência para Bardos e Ladinos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__can__o_e_sil_ncio___um_livro_de_refer_ncia_para_bardos_e_ladinos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-song-and-silence-a-guidebook-to-bards-and-rogues",
     "players": "2 a 10 jogadores",
@@ -5233,7 +5233,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Defensores da Fé",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__defensores_da_f__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-defenders-of-the-faith-a-guidebook-to-clerics-and-paladins",
     "players": "2 a 6 jogadores",
@@ -5247,7 +5247,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Divindades e Semideuses",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__divindades_e_semideuses_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-deities-and-demigods",
     "players": "2 a 10 jogadores",
@@ -5261,7 +5261,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Linhagens e Tomos - Um Livro de Referência para Magos e Feiticeiros",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__linhagens_e_tomos___um_livro_de_refer_ncia_para_magos_e_feiticeiros_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-tome-and-blood-a-guidebook-to-wizards-and-sorcerers",
     "players": "2 a 10 jogadores",
@@ -5275,7 +5275,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Livro do Mestre",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__livro_do_mestre_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeon-master-s-guide-d-d-3e",
     "players": "2 a 7 jogadores",
@@ -5289,7 +5289,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Livro dos Monstros",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__livro_dos_monstros_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/monster-manual-d-d-3e",
     "players": "2 a 7 jogadores",
@@ -5303,7 +5303,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Livro dos Níveis Épicos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__livro_dos_n_veis__picos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-epic-level-handbook-d-d-3e",
     "players": "2 a 6 jogadores",
@@ -5317,7 +5317,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Manual dos Planos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__manual_dos_planos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-manual-of-the-planes-d-d-3e",
     "players": "2 a 6 jogadores",
@@ -5331,7 +5331,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Mestres Selvagens - Um Livro de Referência para Bárbaros, Druidas e Rangers",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__mestres_selvagens___um_livro_de_refer_ncia_para_b_rbaros__druidas_e_rangers_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-masters-of-the-wild-a-guidebook-to-barbarians-druids-and-rangers",
     "players": "1 jogadores",
@@ -5345,7 +5345,7 @@
   },
   {
     "title": "Dungeons & Dragons 3a. Edição: Punhos e Espadas - Um Livro de Referência para Guerreiros e Monges",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_3a__edi__o__punhos_e_espadas___um_livro_de_refer_ncia_para_guerreiros_e_monges_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-3rd-edition-sword-and-fist-a-guidebook-to-fighters-and-monks",
     "players": "1 a 11 jogadores",
@@ -5359,7 +5359,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Arsenal do Aventureiro",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__arsenal_do_aventureiro_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-adventurer-s-vault",
     "players": "2 a 6 jogadores",
@@ -5373,7 +5373,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Escudo do Mestre",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__escudo_do_mestre_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-dungeon-master-s-screen",
     "players": "2 a 10 jogadores",
@@ -5387,7 +5387,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Fortaleza no Pendor das Sombras",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__fortaleza_no_pendor_das_sombras_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-keep-on-the-shadowfell",
     "players": "2 a 6 jogadores",
@@ -5401,7 +5401,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Guia de Campanha de Forgotten Realms",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__guia_de_campanha_de_forgotten_realms_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/forgotten-realms-d-d-4th-edition-forgotten-realms-campaign-guide",
     "players": "2 a 7 jogadores",
@@ -5415,7 +5415,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Guia do Jogador de Forgotten Realms",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__guia_do_jogador_de_forgotten_realms_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/forgotten-realms-d-d-4th-edition-forgotten-realms-player-s-guide",
     "players": "2 a 7 jogadores",
@@ -5429,7 +5429,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Guia do Mestre",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__guia_do_mestre_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-dungeon-master-s-guide-d-d-4e",
     "players": "1 a 10 jogadores",
@@ -5443,7 +5443,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Kit Introdutório",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__kit_introdut_rio_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-starter-set-4th-edition",
     "players": "1 a 5 jogadores",
@@ -5457,7 +5457,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Labirinto da Espiral do Trovão",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__labirinto_da_espiral_do_trov_o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-thunderspire-labyrinth",
     "players": "2 a 8 jogadores",
@@ -5471,7 +5471,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Livro do Jogador 2",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__livro_do_jogador_2_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-player-s-handbook-2-d-d-4e",
     "players": "2 a 10 jogadores",
@@ -5485,7 +5485,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Manual dos Monstros",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__manual_dos_monstros_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-4th-edition-monster-manual-d-d-4e",
     "players": "1 a 10 jogadores",
@@ -5499,7 +5499,7 @@
   },
   {
     "title": "Dungeons & Dragons 4a. Edição: Poder Marcial",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_4a__edi__o__poder_marcial_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/martial-power",
     "players": "2 a 6 jogadores",
@@ -5513,7 +5513,7 @@
   },
   {
     "title": "Dungeons & Dragons Aventura 4: A Pedra Fundamental",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_aventura_4__a_pedra_fundamental_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-adventure-4-the-standing-stone",
     "players": "1 a 6 jogadores",
@@ -5527,7 +5527,7 @@
   },
   {
     "title": "Dungeons & Dragons Aventura 5: Coração da Espiral da Presa Noturna",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_aventura_5__cora__o_da_espiral_da_presa_noturna_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-adventure-5-heart-of-the-nightfang-spire",
     "players": "1 a 6 jogadores",
@@ -5541,7 +5541,7 @@
   },
   {
     "title": "Dungeons & Dragons Aventura 6: Horizonte Profundo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "dungeons___dragons_aventura_6__horizonte_profundo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeons-dragons-adventure-6-deep-horizon",
     "players": "1 a 6 jogadores",
@@ -5555,7 +5555,7 @@
   },
   {
     "title": "EXIT Kids: Enigmas na Selva",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit_kids__enigmas_na_selva_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-kids-jungle-of-riddles",
     "players": "1 a 4 jogadores",
@@ -5572,7 +5572,7 @@
   },
   {
     "title": "EXIT: O Desaparecimento de Sherlock Holmes",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_desaparecimento_de_sherlock_holmes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-disappearance-of-sherlock-holmes",
     "players": "1 a 4 jogadores",
@@ -5586,7 +5586,7 @@
   },
   {
     "title": "EXIT: O Jogo - A Floresta Encantada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___a_floresta_encantada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-enchanted-forest",
     "players": "1 a 4 jogadores",
@@ -5600,7 +5600,7 @@
   },
   {
     "title": "EXIT: O Jogo - O Cemitério do Cavaleiro",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___o_cemit_rio_do_cavaleiro_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-cemetery-of-the-knight",
     "players": "1 a 4 jogadores",
@@ -5614,7 +5614,7 @@
   },
   {
     "title": "EXIT: O Jogo - O Labirinto Amaldiçoado",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___o_labirinto_amaldi_oado_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-cursed-labyrinth",
     "players": "1 a 4 jogadores",
@@ -5628,7 +5628,7 @@
   },
   {
     "title": "EXIT: O Jogo - O Portal entre os Mundos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___o_portal_entre_os_mundos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-gate-between-worlds",
     "players": "1 a 4 jogadores",
@@ -5642,7 +5642,7 @@
   },
   {
     "title": "EXIT: O Jogo - O Voo Turbulento",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___o_voo_turbulento_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-stormy-flight",
     "players": "1 a 4 jogadores",
@@ -5656,7 +5656,7 @@
   },
   {
     "title": "EXIT: O Jogo - Regresso à Cabana Abandonada",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___regresso___cabana_abandonada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-return-to-the-abandoned-cabin",
     "players": "1 a 4 jogadores",
@@ -5670,7 +5670,7 @@
   },
   {
     "title": "EXIT: O Jogo - Roubo no Mississippi",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "exit__o_jogo___roubo_no_mississippi_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-theft-on-the-mississippi",
     "players": "1 a 4 jogadores",
@@ -5684,7 +5684,7 @@
   },
   {
     "title": "Flash 10",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "flash_10_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/flash-10",
     "players": "2 a 5 jogadores",
@@ -5701,7 +5701,7 @@
   },
   {
     "title": "Get on Board: Paris & Roma",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "get_on_board__paris___roma_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/get-on-board-paris-roma",
     "players": "1 a 5 jogadores",
@@ -5720,7 +5720,7 @@
   },
   {
     "title": "Go Cuckoo!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "go_cuckoo__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/go-cuckoo",
     "players": "2 a 5 jogadores",
@@ -5739,7 +5739,7 @@
   },
   {
     "title": "Guerra do Anel (Segunda Edição): Senhores da Terra-média",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "guerra_do_anel__segunda_edi__o___senhores_da_terra_m_dia_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/war-of-the-ring-lords-of-middle-earth",
     "players": "2 a 4 jogadores",
@@ -5764,7 +5764,7 @@
   },
   {
     "title": "Guerra do Anel: Guerreiros da Terra-Média",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "guerra_do_anel__guerreiros_da_terra_m_dia_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/war-of-the-ring-warriors-of-middle-earth",
     "players": "2 a 4 jogadores",
@@ -5787,7 +5787,7 @@
   },
   {
     "title": "Guerra do Anel: Guerreiros da Terra-Média – Notícias, Não Fardos Mini Expansão Promocional",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "guerra_do_anel__guerreiros_da_terra_m_dia___not_cias__n_o_fardos_mini_expans_o_promocional_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/guerra-do-anel-guerreiros-da-terra-media-noticias-nao-fardos-mini-expansao-promocional",
     "players": "2 a 4 jogadores",
@@ -5801,7 +5801,7 @@
   },
   {
     "title": "GURPS Artes Marciais",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_artes_marciais_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-martial-arts-second-edition",
     "players": "1 a 99 jogadores",
@@ -5815,7 +5815,7 @@
   },
   {
     "title": "GURPS Conan: O RPG da Era Hiboriana",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_conan__o_rpg_da_era_hiboriana_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-conan",
     "players": "1 a 99 jogadores",
@@ -5829,7 +5829,7 @@
   },
   {
     "title": "GURPS Cyberpunk",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_cyberpunk_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-cyberpunk",
     "players": "1 a 99 jogadores",
@@ -5843,7 +5843,7 @@
   },
   {
     "title": "GURPS Fantasy",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_fantasy_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-fantasy-second-edition",
     "players": "2 a 10 jogadores",
@@ -5857,7 +5857,7 @@
   },
   {
     "title": "GURPS Fantasy Tredroy",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_fantasy_tredroy_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-fantasy-tredroy",
     "players": "1 a 99 jogadores",
@@ -5871,7 +5871,7 @@
   },
   {
     "title": "GURPS Grimório",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_grim_rio_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-grimoire",
     "players": "1 a 99 jogadores",
@@ -5885,7 +5885,7 @@
   },
   {
     "title": "GURPS Horror",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_horror_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-horror-second-edition",
     "players": "2 a 10 jogadores",
@@ -5899,7 +5899,7 @@
   },
   {
     "title": "GURPS Illuminati",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_illuminati_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-illuminati",
     "players": "1 a 99 jogadores",
@@ -5913,7 +5913,7 @@
   },
   {
     "title": "GURPS Império Romano",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_imp_rio_romano_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-imperial-rome",
     "players": "1 a 99 jogadores",
@@ -5927,7 +5927,7 @@
   },
   {
     "title": "GURPS Magia (Primeira Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_magia__primeira_edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-magic-first-edition",
     "players": "1 a 99 jogadores",
@@ -5941,7 +5941,7 @@
   },
   {
     "title": "GURPS Módulo Básico - Campanha (Quarta Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_m_dulo_b_sico___campanha__quarta_edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-basic-set-campaigns-fourth-edition",
     "players": "2 a 10 jogadores",
@@ -5955,7 +5955,7 @@
   },
   {
     "title": "GURPS Psiquismo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_psiquismo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-psionics",
     "players": "1 a 99 jogadores",
@@ -5969,7 +5969,7 @@
   },
   {
     "title": "GURPS Supers",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_supers_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-supers-second-edition",
     "players": "1 a 99 jogadores",
@@ -5983,7 +5983,7 @@
   },
   {
     "title": "GURPS Ultra-Tech",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_ultra_tech_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-ultra-tech-second-edition",
     "players": "1 a 99 jogadores",
@@ -5997,7 +5997,7 @@
   },
   {
     "title": "GURPS Viagem Espacial",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_viagem_espacial_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-space-second-edition",
     "players": "1 a 99 jogadores",
@@ -6011,7 +6011,7 @@
   },
   {
     "title": "GURPS Viagem no Tempo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "gurps_viagem_no_tempo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gurps-time-travel",
     "players": "1 a 99 jogadores",
@@ -6025,7 +6025,7 @@
   },
   {
     "title": "Heróis de Papel Terrenos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "her_is_de_papel_terrenos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeon-floors",
     "players": "1 a 8 jogadores",
@@ -6039,7 +6039,7 @@
   },
   {
     "title": "Horizonte: Faroeste Arcano",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "horizonte__faroeste_arcano_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/spellslinger",
     "players": "2 a 6 jogadores",
@@ -6053,7 +6053,7 @@
   },
   {
     "title": "Karvi",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "karvi_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/karvi",
     "players": "2 a 4 jogadores",
@@ -6072,7 +6072,7 @@
   },
   {
     "title": "King of Tokyo/King of New York: Kawaii Ju",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "king_of_tokyo_king_of_new_york__kawaii_ju_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/king-of-tokyo-king-of-new-york-kawaii-ju",
     "players": "2 a 6 jogadores",
@@ -6086,7 +6086,7 @@
   },
   {
     "title": "King of Tokyo: Goodie Cards",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "king_of_tokyo__goodie_cards_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/king-of-tokyo-gift-promo-cards",
     "players": "2 a 6 jogadores",
@@ -6100,7 +6100,7 @@
   },
   {
     "title": "King of Tokyo: Mais Perverso Ainda",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "king_of_tokyo__mais_perverso_ainda_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/king-of-tokyo-even-more-wicked",
     "players": "2 a 6 jogadores",
@@ -6117,7 +6117,7 @@
   },
   {
     "title": "Lobisomem: O Apocalipse - Livro da Tribo: Portadores da Luz Interior",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "lobisomem__o_apocalipse___livro_da_tribo__portadores_da_luz_interior_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/werewolf-the-apocalypse-2nd-edition-stargazers-tribebook",
     "players": "2 a 8 jogadores",
@@ -6131,7 +6131,7 @@
   },
   {
     "title": "Lobisomem: Os Destituídos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "lobisomem__os_destitu_dos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/werewolf-the-forsaken",
     "players": "2 a 8 jogadores",
@@ -6145,7 +6145,7 @@
   },
   {
     "title": "Magic: The Gathering - Alianças",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering___alian_as_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-alliances",
     "players": "2 jogadores",
@@ -6159,7 +6159,7 @@
   },
   {
     "title": "Magic: The Gathering - Era Glacial",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering___era_glacial_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-ice-ages",
     "players": "2 jogadores",
@@ -6173,7 +6173,7 @@
   },
   {
     "title": "Magic: The Gathering - Êxodo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering____xodo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-exodus",
     "players": "2 jogadores",
@@ -6187,7 +6187,7 @@
   },
   {
     "title": "Magic: The Gathering - Fortaleza",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering___fortaleza_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-stronghold",
     "players": "2 jogadores",
@@ -6201,7 +6201,7 @@
   },
   {
     "title": "Magic: The Gathering - Miragem",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering___miragem_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-mirage",
     "players": "2 jogadores",
@@ -6215,7 +6215,7 @@
   },
   {
     "title": "Magic: The Gathering - Tempestade",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering___tempestade_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-tempest",
     "players": "2 jogadores",
@@ -6229,7 +6229,7 @@
   },
   {
     "title": "Magic: The Gathering - Terras Natais",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering___terras_natais_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-homelands",
     "players": "2 jogadores",
@@ -6243,7 +6243,7 @@
   },
   {
     "title": "Magic: The Gathering - Visões",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering___vis_es_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-visions",
     "players": "2 jogadores",
@@ -6257,7 +6257,7 @@
   },
   {
     "title": "Magic: The Gathering Quinta Edição",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "magic__the_gathering_quinta_edi__o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/magic-the-gathering-core-set-fifth-edition",
     "players": "2 jogadores",
@@ -6271,7 +6271,7 @@
   },
   {
     "title": "Mago a Ascensão: Guia da Tecnocracia",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mago_a_ascens_o__guia_da_tecnocracia_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mage-the-ascension-2nd-edition-guide-to-the-technocracy",
     "players": "1 a 10 jogadores",
@@ -6285,7 +6285,7 @@
   },
   {
     "title": "Mago: O Despertar",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mago__o_despertar_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mage-the-awakening",
     "players": "2 a 6 jogadores",
@@ -6299,7 +6299,7 @@
   },
   {
     "title": "Mago: O Despertar Escudo do Narrador",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mago__o_despertar_escudo_do_narrador_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mage-the-awakening-storyteller-s-screen",
     "players": "2 a 10 jogadores",
@@ -6313,7 +6313,7 @@
   },
   {
     "title": "Mazescape Kids: Hipnos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mazescape_kids__hipnos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mazescape-kids-hipnos",
     "players": "1 jogadores",
@@ -6327,7 +6327,7 @@
   },
   {
     "title": "Mazescape XP: Cryo-C",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mazescape_xp__cryo_c_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mazescape-xp-cryo-c",
     "players": "1 jogadores",
@@ -6341,7 +6341,7 @@
   },
   {
     "title": "Mechwarrior: Age of Destruction Starter Pack",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mechwarrior__age_of_destruction_starter_pack_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mechwarrior-age-of-destruction-starter-pack",
     "players": "2 a 10 jogadores",
@@ -6362,7 +6362,7 @@
   },
   {
     "title": "Mini GURPS - As Cruzadas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mini_gurps___as_cruzadas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mini-gurps-as-cruzadas",
     "players": "2 a 6 jogadores",
@@ -6376,7 +6376,7 @@
   },
   {
     "title": "Mini Gurps: No Coração dos Deuses",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mini_gurps__no_cora__o_dos_deuses_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mini-gurps-no-coracao-dos-deuses",
     "players": "1 jogadores",
@@ -6390,7 +6390,7 @@
   },
   {
     "title": "Mini GURPS: Regras Básicas para Jogar RPG",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mini_gurps__regras_b_sicas_para_jogar_rpg_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mini-gurps-regras-basicas-para-jogar-rpg",
     "players": "2 a 6 jogadores",
@@ -6404,7 +6404,7 @@
   },
   {
     "title": "Mulheres Machonas Armadas até os Dentes",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mulheres_machonas_armadas_at__os_dentes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/macho-women-with-guns",
     "players": "2 a 6 jogadores",
@@ -6418,7 +6418,7 @@
   },
   {
     "title": "Mulheres Machonas no Planeta dos Macacos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mulheres_machonas_no_planeta_dos_macacos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mulheres-machonas-no-planeta-dos-macacos",
     "players": "2 a 7 jogadores",
@@ -6432,7 +6432,7 @@
   },
   {
     "title": "Múmia: A Ressurreição",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "m_mia__a_ressurrei__o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mummy-the-resurrection",
     "players": "2 a 10 jogadores",
@@ -6446,7 +6446,7 @@
   },
   {
     "title": "Mundo das Trevas: Antagonistas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "mundo_das_trevas__antagonistas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/world-of-darkness-antagonists",
     "players": "2 a 6 jogadores",
@@ -6460,7 +6460,7 @@
   },
   {
     "title": "Na Trilha do Lobisomem",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "na_trilha_do_lobisomem_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/na-trilha-do-lobisomem",
     "players": "1 jogadores",
@@ -6474,7 +6474,7 @@
   },
   {
     "title": "O Mundo das Sombras: Lugares Misteriosos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_mundo_das_sombras__lugares_misteriosos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/world-of-darkness-mysterious-places",
     "players": "2 a 6 jogadores",
@@ -6488,7 +6488,7 @@
   },
   {
     "title": "O Um Anel (2ª Edição)",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_um_anel__2__edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-one-ring-second-edition-core-rules",
     "players": "2 a 10 jogadores",
@@ -6502,7 +6502,7 @@
   },
   {
     "title": "O Um Anel: Guia da Cidade do Lago e Escudo do Mestre",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "o_um_anel__guia_da_cidade_do_lago_e_escudo_do_mestre_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-one-ring-loremaster-s-screen-and-lake-town-sourcebook",
     "players": "2 a 20 jogadores",
@@ -6516,7 +6516,7 @@
   },
   {
     "title": "Pandemic: À Beira do Caos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pandemic____beira_do_caos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pandemic-on-the-brink",
     "players": "2 a 5 jogadores",
@@ -6541,7 +6541,7 @@
   },
   {
     "title": "Paris: Eiffel",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "paris__eiffel_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/paris-eiffel",
     "players": "2 jogadores",
@@ -6558,7 +6558,7 @@
   },
   {
     "title": "Pathfinder - Assassinatos do Esfolador",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder___assassinatos_do_esfolador_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-adventure-card-game-rise-of-the-runelords-the-skinsaw-murders-adventure-deck",
     "players": "1 a 6 jogadores",
@@ -6572,7 +6572,7 @@
   },
   {
     "title": "Pathfinder - Personagens Complementares",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder___personagens_complementares_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-adventure-card-game-rise-of-the-runelords-character-add-on-deck",
     "players": "1 a 6 jogadores",
@@ -6595,7 +6595,7 @@
   },
   {
     "title": "Pathfinder Adventure Card Game: Fortaleza dos Gigantes de Pedra",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_adventure_card_game__fortaleza_dos_gigantes_de_pedra_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-adventure-card-game-rise-of-the-runelords-fortress-of-the-stone-giants-adventure-deck",
     "players": "1 a 4 jogadores",
@@ -6609,7 +6609,7 @@
   },
   {
     "title": "Pathfinder Adventure Card Game: Massacre da Montanha Gancho",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_adventure_card_game__massacre_da_montanha_gancho_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-adventure-card-game-rise-of-the-runelords-the-hook-mountain-massacre-adventure-deck",
     "players": "1 a 6 jogadores",
@@ -6623,7 +6623,7 @@
   },
   {
     "title": "Pathfinder Adventure Card Game: Pecado dos Salvadores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_adventure_card_game__pecado_dos_salvadores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-adventure-card-game-rise-of-the-runelords-sins-of-the-saviors-adventure-deck",
     "players": "1 a 6 jogadores",
@@ -6637,7 +6637,7 @@
   },
   {
     "title": "Pathfinder Adventure Card Game: Picos de Xin Shalast",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_adventure_card_game__picos_de_xin_shalast_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-adventure-card-game-rise-of-the-runelords-spires-of-xin-shalast-adventure-deck",
     "players": "1 a 6 jogadores",
@@ -6651,7 +6651,7 @@
   },
   {
     "title": "Pathfinder RPG: Bestiário",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_rpg__besti_rio_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-roleplaying-game-bestiary",
     "players": "3 a 7 jogadores",
@@ -6665,7 +6665,7 @@
   },
   {
     "title": "Pathfinder RPG: Escudo do Mestre",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_rpg__escudo_do_mestre_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-roleplaying-game-gm-screen",
     "players": "3 a 7 jogadores",
@@ -6679,7 +6679,7 @@
   },
   {
     "title": "Pathfinder RPG: Guia de Campanha do Mar Interior",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_rpg__guia_de_campanha_do_mar_interior_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-inner-sea-world-guide",
     "players": "2 a 10 jogadores",
@@ -6693,7 +6693,7 @@
   },
   {
     "title": "Pathfinder RPG: Nóis É Goblin Também!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_rpg__n_is___goblin_tamb_m__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-rpg-we-be-goblins-too",
     "players": "2 a 5 jogadores",
@@ -6707,7 +6707,7 @@
   },
   {
     "title": "Pathfinder RPG: Nóis É Goblin!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "pathfinder_rpg__n_is___goblin__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/pathfinder-rpg-we-be-goblins",
     "players": "2 a 5 jogadores",
@@ -6721,7 +6721,7 @@
   },
   {
     "title": "Peste Negra",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "peste_negra_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/black-death",
     "players": "2 a 6 jogadores",
@@ -6735,7 +6735,7 @@
   },
   {
     "title": "Planta Nubo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "planta_nubo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/planta-nubo",
     "players": "1 a 4 jogadores",
@@ -6752,7 +6752,7 @@
   },
   {
     "title": "Ravenloft - Cenário de Campanha",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ravenloft___cen_rio_de_campanha_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ravenloft-gazetteer-volume-i",
     "players": "2 a 8 jogadores",
@@ -6766,7 +6766,7 @@
   },
   {
     "title": "Ravenloft - Nativos das Trevas",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ravenloft___nativos_das_trevas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ravenloft-denizens-of-darkness",
     "players": "2 a 6 jogadores",
@@ -6780,7 +6780,7 @@
   },
   {
     "title": "Refrão",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "refr_o_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sherpa",
     "players": "2 a 5 jogadores",
@@ -6794,7 +6794,7 @@
   },
   {
     "title": "Samoa",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "samoa_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/samoa",
     "players": "2 a 4 jogadores",
@@ -6813,7 +6813,7 @@
   },
   {
     "title": "Sand",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "sand_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sand",
     "players": "1 a 4 jogadores",
@@ -6832,7 +6832,7 @@
   },
   {
     "title": "Senhor dos Anéis RPG",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "senhor_dos_an_is_rpg_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lord-of-the-rings-rpg",
     "players": "2 a 10 jogadores",
@@ -6846,7 +6846,7 @@
   },
   {
     "title": "Senhor dos Anéis RPG: A Sociedade do Anel - Livro de Referência",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "senhor_dos_an_is_rpg__a_sociedade_do_anel___livro_de_refer_ncia_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lord-of-the-rings-rpg-the-fellowship-of-the-ring-sourcebook",
     "players": "2 a 5 jogadores",
@@ -6860,7 +6860,7 @@
   },
   {
     "title": "Star Realms: A Arca Promo Card",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "star_realms__a_arca_promo_card_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/star-realms-the-ark-promo-card",
     "players": "2 jogadores",
@@ -6874,7 +6874,7 @@
   },
   {
     "title": "Star Realms: Crisis – Bases & Battleships",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "star_realms__crisis___bases___battleships_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/star-realms-crisis-bases-battleships",
     "players": "2 a 6 jogadores",
@@ -6891,7 +6891,7 @@
   },
   {
     "title": "Star Realms: Crisis – Events",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "star_realms__crisis___events_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/star-realms-crisis-events",
     "players": "2 jogadores",
@@ -6908,7 +6908,7 @@
   },
   {
     "title": "Star Realms: Crisis – Fleets & Fortresses",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "star_realms__crisis___fleets___fortresses_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/star-realms-crisis-fleets-fortresses",
     "players": "2 jogadores",
@@ -6925,7 +6925,7 @@
   },
   {
     "title": "Star Realms: Crisis – Heroes",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "star_realms__crisis___heroes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/star-realms-crisis-heroes",
     "players": "2 jogadores",
@@ -6939,7 +6939,7 @@
   },
   {
     "title": "Star Realms: Mercado Estelar Promo Card",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "star_realms__mercado_estelar_promo_card_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/star-realms-starmarket-promo-card",
     "players": "2 a 6 jogadores",
@@ -6953,7 +6953,7 @@
   },
   {
     "title": "The Red Cathedral: Contractors",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "the_red_cathedral__contractors_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-red-cathedral-contractors",
     "players": "1 a 4 jogadores",
@@ -6972,7 +6972,7 @@
   },
   {
     "title": "The Witcher RPG - Senhores Feudais",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "the_witcher_rpg___senhores_feudais_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lords-lands",
     "players": "2 a 10 jogadores",
@@ -6989,7 +6989,7 @@
   },
   {
     "title": "The Witcher RPG: O Diário do Bruxo",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "the_witcher_rpg__o_di_rio_do_bruxo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/a-witcher-s-journal",
     "players": "2 a 10 jogadores",
@@ -7003,7 +7003,7 @@
   },
   {
     "title": "The Witcher: Livro de Contos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "the_witcher__livro_de_contos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-witcher-a-book-of-tales",
     "players": "2 a 10 jogadores",
@@ -7017,7 +7017,7 @@
   },
   {
     "title": "Toon",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "toon_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/toon-deluxe-edition",
     "players": "2 a 10 jogadores",
@@ -7031,7 +7031,7 @@
   },
   {
     "title": "Top That!",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "top_that__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/top-that",
     "players": "2 a 4 jogadores",
@@ -7048,7 +7048,7 @@
   },
   {
     "title": "Ubongo Junior",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "ubongo_junior_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ubongo-junior",
     "players": "2 a 4 jogadores",
@@ -7065,7 +7065,7 @@
   },
   {
     "title": "Vampire: The Masquerade (2nd Edition) - Clanbook: Setites",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampire__the_masquerade__2nd_edition____clanbook__setites_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-setites",
     "players": "2 a 10 jogadores",
@@ -7079,7 +7079,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Assamita",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__assamita_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-assamite",
     "players": "2 a 10 jogadores",
@@ -7093,7 +7093,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Brujah",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__brujah_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-brujah",
     "players": "2 a 10 jogadores",
@@ -7107,7 +7107,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Gangrel",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__gangrel_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-gangrel",
     "players": "2 a 10 jogadores",
@@ -7121,7 +7121,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Giovanni",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__giovanni_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-giovanni",
     "players": "2 a 10 jogadores",
@@ -7135,7 +7135,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Lasombra",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__lasombra_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-lasombra",
     "players": "2 a 10 jogadores",
@@ -7149,7 +7149,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Malkavianos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__malkavianos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-malkavian",
     "players": "2 a 10 jogadores",
@@ -7163,7 +7163,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Nosferatu",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__nosferatu_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-nosferatu",
     "players": "2 a 10 jogadores",
@@ -7177,7 +7177,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Ravnos",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__ravnos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-ravnos",
     "players": "2 a 10 jogadores",
@@ -7191,7 +7191,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Toreador",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__toreador_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-toreador",
     "players": "2 a 10 jogadores",
@@ -7205,7 +7205,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Tremere",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__tremere_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-tremere",
     "players": "2 a 10 jogadores",
@@ -7219,7 +7219,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Tzimisce",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__tzimisce_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-tzimisce",
     "players": "2 a 10 jogadores",
@@ -7233,7 +7233,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Livro do Clã Ventrue",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___livro_do_cl__ventrue_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-clanbook-ventrue",
     "players": "2 a 10 jogadores",
@@ -7247,7 +7247,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Os Caçadores Caçados",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___os_ca_adores_ca_ados_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-the-hunters-hunted",
     "players": "1 a 99 jogadores",
@@ -7261,7 +7261,7 @@
   },
   {
     "title": "Vampiro: A Máscara - Vampiros do Oriente",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__a_m_scara___vampiros_do_oriente_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-king-dred-of-the-east",
     "players": "1 a 99 jogadores",
@@ -7275,7 +7275,7 @@
   },
   {
     "title": "Vampiro: Guia dos Jogadores",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__guia_dos_jogadores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-masquerade-2nd-edition-the-vampire-players-guide",
     "players": "2 a 10 jogadores",
@@ -7289,7 +7289,7 @@
   },
   {
     "title": "Vampiro: O Réquiem",
-    "price": "No price info",
+    "middlePrice": "No price info",
     "image": "vampiro__o_r_quiem_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/vampire-the-requiem-rulebook",
     "players": "2 a 10 jogadores",
