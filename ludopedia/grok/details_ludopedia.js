@@ -71,11 +71,14 @@ async function scrapeProductDetails(url, browser) {
       return coverImageElement ? coverImageElement.src : null;
     });
 
-    // Extract other images
+    // Extract other images and their links
     const otherImages = await page.evaluate(() => {
       return Array.from(
         document.querySelectorAll("#bloco-imagens-sm .jogo-img")
-      ).map((img) => img.src);
+      ).map((img) => ({
+        thumb: img.src,
+        link: img.parentElement.href,
+      }));
     });
 
     // Extract components
@@ -137,14 +140,26 @@ async function scrapeProductDetails(url, browser) {
       mainImage = coverImageName;
     }
 
-    for (const [index, imageUrl] of otherImages.entries()) {
-      const imageName = `${title.replace(/[^a-z0-9]/gi, "_").toLowerCase()}_${
-        index + 1
-      }.jpg`;
-      const imagePath = path.join(imagesDir, imageName);
-      console.log(`Saving image ${imageName} from ${title}`);
-      await saveImage(imageUrl, imagePath);
-      savedImages.push(imageName);
+    for (const [index, image] of otherImages.entries()) {
+      const imagePage = await browser.newPage();
+      await imagePage.goto(image.link, { waitUntil: "networkidle2" });
+
+      const highResImage = await imagePage.evaluate(() => {
+        const imgElement = document.querySelector("a.fancyimg img.img-anexo");
+        return imgElement ? imgElement.src.replace("_m.jpg", ".jpg") : null;
+      });
+
+      await imagePage.close();
+
+      if (highResImage) {
+        const imageName = `${title.replace(/[^a-z0-9]/gi, "_").toLowerCase()}_${
+          index + 1
+        }.jpg`;
+        const imagePath = path.join(imagesDir, imageName);
+        console.log(`Saving image ${imageName} from ${title}`);
+        await saveImage(highResImage, imagePath);
+        savedImages.push(imageName);
+      }
     }
 
     await page.close();
@@ -215,7 +230,7 @@ async function main() {
     }
   }
 
-  console.log("Detailed products data saved to detailed_paper_brasil.json");
+  console.log("Detailed products data saved to detailed_grok_brasil.json");
 
   await browser.close();
 }
