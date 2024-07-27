@@ -1,7 +1,7 @@
 [
   {
     "title": "Mazescape Kids: Hipnos",
-    "middlePrice": "R$ 77,65",
+    "price": "R$ 77,65",
     "image": "mazescape_kids__hipnos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mazescape-kids-hipnos",
     "players": "1 jogadores",
@@ -32,7 +32,7 @@
   },
   {
     "title": "Mazescape: Ariadne",
-    "middlePrice": "R$ 84,60",
+    "price": "R$ 84,60",
     "image": "mazescape__ariadne_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mazescape-ariadne",
     "players": "1 jogadores",
@@ -60,7 +60,7 @@
   },
   {
     "title": "Telma (3ª edição)",
-    "middlePrice": "R$ 49,28",
+    "price": "R$ 49,28",
     "image": "telma__3__edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/telma-3-edicao",
     "players": "4 a 8 jogadores",
@@ -91,7 +91,7 @@
   },
   {
     "title": "Cafundó",
-    "middlePrice": "R$ 66,29",
+    "price": "R$ 66,29",
     "image": "cafund__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cafundo",
     "players": "3 a 6 jogadores",
@@ -129,7 +129,7 @@
   },
   {
     "title": "Ouch!",
-    "middlePrice": "R$ 85,14",
+    "price": "R$ 85,14",
     "image": "ouch__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ouch",
     "players": "2 a 5 jogadores",
@@ -165,7 +165,7 @@
   },
   {
     "title": "Dark City",
-    "middlePrice": "R$ 94,44",
+    "price": "R$ 94,44",
     "image": "dark_city_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dark-city",
     "players": "4 a 8 jogadores",
@@ -200,7 +200,7 @@
   },
   {
     "title": "Blind Business",
-    "middlePrice": "R$ 81,91",
+    "price": "R$ 81,91",
     "image": "blind_business_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/blind-business",
     "players": "2 a 5 jogadores",
@@ -234,7 +234,7 @@
   },
   {
     "title": "Regine",
-    "middlePrice": "R$ 90,23",
+    "price": "R$ 90,23",
     "image": "regine_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/regine",
     "players": "2 a 4 jogadores",
@@ -275,7 +275,7 @@
   },
   {
     "title": "Winter",
-    "middlePrice": "R$ 94,54",
+    "price": "R$ 94,54",
     "image": "winter_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/winter",
     "players": "2 jogadores",
@@ -314,7 +314,7 @@
   },
   {
     "title": "Walkie Talkie",
-    "middlePrice": "R$ 81,14",
+    "price": "R$ 81,14",
     "image": "walkie_talkie_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/walkie-talkie",
     "players": "2 a 8 jogadores",
@@ -351,7 +351,7 @@
   },
   {
     "title": "Yokai Sketch",
-    "middlePrice": "R$ 80,64",
+    "price": "R$ 80,64",
     "image": "yokai_sketch_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/yokai-sketch",
     "players": "2 jogadores",
@@ -384,7 +384,7 @@
   },
   {
     "title": "Paris: Eiffel",
-    "middlePrice": "R$ 89,83",
+    "price": "R$ 89,83",
     "image": "paris__eiffel_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/paris-eiffel",
     "players": "2 jogadores",
@@ -415,7 +415,7 @@
   },
   {
     "title": "Autumn",
-    "middlePrice": "R$ 79,38",
+    "price": "R$ 79,38",
     "image": "autumn_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/autumn",
     "players": "1 a 2 jogadores",
@@ -446,7 +446,7 @@
   },
   {
     "title": "Flash 10",
-    "middlePrice": "R$ 80,18",
+    "price": "R$ 80,18",
     "image": "flash_10_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/flash-10",
     "players": "2 a 5 jogadores",
@@ -482,7 +482,7 @@
   },
   {
     "title": "Samoa",
-    "middlePrice": "R$ 81,40",
+    "price": "R$ 81,40",
     "image": "samoa_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/samoa",
     "players": "2 a 4 jogadores",
@@ -520,7 +520,7 @@
   },
   {
     "title": "Salada de Pontos",
-    "middlePrice": "R$ 149,83",
+    "price": "R$ 149,83",
     "image": "salada_de_pontos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/point-salad",
     "players": "2 a 6 jogadores",
@@ -566,7 +566,7 @@
   },
   {
     "title": "Gretchinz!",
-    "middlePrice": "R$ 119,79",
+    "price": "R$ 119,79",
     "image": "gretchinz__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/gretchinz",
     "players": "2 a 4 jogadores",
@@ -603,7 +603,7 @@
   },
   {
     "title": "A Torre Encantada",
-    "middlePrice": "R$ 110,31",
+    "price": "R$ 110,31",
     "image": "a_torre_encantada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-enchanted-tower",
     "players": "2 a 4 jogadores",
@@ -643,7 +643,7 @@
   },
   {
     "title": "EXIT Kids: Enigmas na Selva",
-    "middlePrice": "R$ 104,61",
+    "price": "R$ 104,61",
     "image": "exit_kids__enigmas_na_selva_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-kids-jungle-of-riddles",
     "players": "1 a 4 jogadores",
@@ -677,7 +677,7 @@
   },
   {
     "title": "EXIT: O Desaparecimento de Sherlock Holmes",
-    "middlePrice": "R$ 116,30",
+    "price": "R$ 116,30",
     "image": "exit__o_desaparecimento_de_sherlock_holmes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/exit-the-game-the-disappearance-of-sherlock-holmes",
     "players": "1 a 4 jogadores",
@@ -707,7 +707,7 @@
   },
   {
     "title": "My City: Roll and Write",
-    "middlePrice": "R$ 143,71",
+    "price": "R$ 143,71",
     "image": "my_city__roll_and_write_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/my-city-roll-build",
     "players": "1 a 6 jogadores",
@@ -738,7 +738,7 @@
   },
   {
     "title": "High Score (I)",
-    "middlePrice": "R$ 132,45",
+    "price": "R$ 132,45",
     "image": "high_score__i__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/high-score-i",
     "players": "2 a 5 jogadores",
@@ -768,7 +768,7 @@
   },
   {
     "title": "Plenus",
-    "middlePrice": "R$ 137,10",
+    "price": "R$ 137,10",
     "image": "plenus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/encore",
     "players": "1 a 6 jogadores",
@@ -803,7 +803,7 @@
   },
   {
     "title": "Paris: La Cité de la Lumière",
-    "middlePrice": "R$ 126,14",
+    "price": "R$ 126,14",
     "image": "paris__la_cit__de_la_lumi_re_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/paris-la-cite-de-la-lumiere",
     "players": "2 jogadores",
@@ -846,7 +846,7 @@
   },
   {
     "title": "Optimus",
-    "middlePrice": "R$ 133,61",
+    "price": "R$ 133,61",
     "image": "optimus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/that-s-pretty-clever",
     "players": "1 a 4 jogadores",
@@ -887,7 +887,7 @@
   },
   {
     "title": "Coyote",
-    "middlePrice": "R$ 140,71",
+    "price": "R$ 140,71",
     "image": "coyote_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/coyote-i",
     "players": "3 a 6 jogadores",
@@ -917,7 +917,7 @@
   },
   {
     "title": "TEN",
-    "middlePrice": "R$ 179,60",
+    "price": "R$ 179,60",
     "image": "ten_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ten",
     "players": "1 a 5 jogadores",
@@ -955,7 +955,7 @@
   },
   {
     "title": "Karekare",
-    "middlePrice": "R$ 169,42",
+    "price": "R$ 169,42",
     "image": "karekare_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/karekare",
     "players": "2 a 4 jogadores",
@@ -993,7 +993,7 @@
   },
   {
     "title": "Come Nachos",
-    "middlePrice": "R$ 174,12",
+    "price": "R$ 174,12",
     "image": "come_nachos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/nacho-pile",
     "players": "2 a 6 jogadores",
@@ -1031,7 +1031,7 @@
   },
   {
     "title": "Go Cuckoo!",
-    "middlePrice": "R$ 159,88",
+    "price": "R$ 159,88",
     "image": "go_cuckoo__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/go-cuckoo",
     "players": "2 a 5 jogadores",
@@ -1065,7 +1065,7 @@
   },
   {
     "title": "A Ilha Proibida",
-    "middlePrice": "R$ 177,03",
+    "price": "R$ 177,03",
     "image": "a_ilha_proibida_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/forbidden-island",
     "players": "2 a 4 jogadores",
@@ -1113,7 +1113,7 @@
   },
   {
     "title": "Get on Board: Paris & Roma",
-    "middlePrice": "R$ 204,19",
+    "price": "R$ 204,19",
     "image": "get_on_board__paris___roma_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/get-on-board-paris-roma",
     "players": "1 a 5 jogadores",
@@ -1150,7 +1150,7 @@
   },
   {
     "title": "Get on Board: New York & London",
-    "middlePrice": "R$ 192,41",
+    "price": "R$ 192,41",
     "image": "get_on_board__new_york___london_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/get-on-board-new-york-london",
     "players": "2 a 5 jogadores",
@@ -1188,7 +1188,7 @@
   },
   {
     "title": "Carcassonne: Expansão 2 - Comerciantes e Construtores",
-    "middlePrice": "R$ 140,73",
+    "price": "R$ 140,73",
     "image": "carcassonne__expans_o_2___comerciantes_e_construtores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne-expansion-2-traders-builders",
     "players": "2 a 6 jogadores",
@@ -1230,7 +1230,7 @@
   },
   {
     "title": "Catan o Duelo",
-    "middlePrice": "R$ 217,41",
+    "price": "R$ 217,41",
     "image": "catan_o_duelo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/rivals-for-catan-deluxe",
     "players": "2 jogadores",
@@ -1275,7 +1275,7 @@
   },
   {
     "title": "Sonora",
-    "middlePrice": "R$ 255,45",
+    "price": "R$ 255,45",
     "image": "sonora_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sonora",
     "players": "1 a 4 jogadores",
@@ -1312,7 +1312,7 @@
   },
   {
     "title": "Don Capollo (Segunda Edição)",
-    "middlePrice": "R$ 222,68",
+    "price": "R$ 222,68",
     "image": "don_capollo__segunda_edi__o__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/don-capollo-2-edicao",
     "players": "3 a 6 jogadores",
@@ -1346,7 +1346,7 @@
   },
   {
     "title": "Onirim (second edition)",
-    "middlePrice": "R$ 216,27",
+    "price": "R$ 216,27",
     "image": "onirim__second_edition__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/onirim-second-edition",
     "players": "1 a 2 jogadores",
@@ -1392,7 +1392,7 @@
   },
   {
     "title": "Código Secreto: Dueto",
-    "middlePrice": "R$ 172,42",
+    "price": "R$ 172,42",
     "image": "c_digo_secreto__dueto_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/codenames-duet",
     "players": "2 jogadores",
@@ -1434,7 +1434,7 @@
   },
   {
     "title": "Ubongo Junior",
-    "middlePrice": "R$ 210,29",
+    "price": "R$ 210,29",
     "image": "ubongo_junior_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ubongo-junior",
     "players": "2 a 4 jogadores",
@@ -1471,7 +1471,7 @@
   },
   {
     "title": "Bitoku",
-    "middlePrice": "R$ 518,37",
+    "price": "R$ 518,37",
     "image": "bitoku_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/bitoku",
     "players": "1 a 4 jogadores",
@@ -1516,7 +1516,7 @@
   },
   {
     "title": "LUNA Capital",
-    "middlePrice": "R$ 336,59",
+    "price": "R$ 336,59",
     "image": "luna_capital_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/luna-capital",
     "players": "1 a 4 jogadores",
@@ -1553,7 +1553,7 @@
   },
   {
     "title": "Nevoeiro em Carcassonne",
-    "middlePrice": "R$ 275,37",
+    "price": "R$ 275,37",
     "image": "nevoeiro_em_carcassonne_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/mists-over-carcassonne",
     "players": "1 a 5 jogadores",
@@ -1592,7 +1592,7 @@
   },
   {
     "title": "Catan: O Jogo (Expansão para 5-6 Jogadores)",
-    "middlePrice": "R$ 272,06",
+    "price": "R$ 272,06",
     "image": "catan__o_jogo__expans_o_para_5_6_jogadores__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-5-6-player-extension",
     "players": "5 a 6 jogadores",
@@ -1638,7 +1638,7 @@
   },
   {
     "title": "Odyssey - A Ira de Poseidon",
-    "middlePrice": "R$ 162,33",
+    "price": "R$ 162,33",
     "image": "odyssey___a_ira_de_poseidon_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/odyssey-wrath-of-poseidon",
     "players": "2 a 5 jogadores",
@@ -1676,7 +1676,7 @@
   },
   {
     "title": "Khôra: Rise of an Empire",
-    "middlePrice": "R$ 358,26",
+    "price": "R$ 358,26",
     "image": "kh_ra__rise_of_an_empire_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/khora-rise-of-an-empire",
     "players": "2 a 4 jogadores",
@@ -1710,7 +1710,7 @@
   },
   {
     "title": "Cacao",
-    "middlePrice": "R$ 233,34",
+    "price": "R$ 233,34",
     "image": "cacao_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cacao",
     "players": "2 a 4 jogadores",
@@ -1755,7 +1755,7 @@
   },
   {
     "title": "Catan: O Jogo - Navegantes",
-    "middlePrice": "R$ 230,66",
+    "price": "R$ 230,66",
     "image": "catan__o_jogo___navegantes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-seafarers",
     "players": "3 a 4 jogadores",
@@ -1798,7 +1798,7 @@
   },
   {
     "title": "Ubongo",
-    "middlePrice": "R$ 278,86",
+    "price": "R$ 278,86",
     "image": "ubongo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/ubongo",
     "players": "2 a 4 jogadores",
@@ -1838,7 +1838,7 @@
   },
   {
     "title": "Dodô",
-    "middlePrice": "R$ 311,41",
+    "price": "R$ 311,41",
     "image": "dod__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dodo",
     "players": "2 a 4 jogadores",
@@ -1870,7 +1870,7 @@
   },
   {
     "title": "Treasure Hunter",
-    "middlePrice": "R$ 319,73",
+    "price": "R$ 319,73",
     "image": "treasure_hunter_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/treasure-hunter",
     "players": "2 a 6 jogadores",
@@ -1912,7 +1912,7 @@
   },
   {
     "title": "Catan: O Jogo - Mercadores e Bárbaros",
-    "middlePrice": "R$ 284,40",
+    "price": "R$ 284,40",
     "image": "catan__o_jogo___mercadores_e_b_rbaros_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-traders-barbarians",
     "players": "2 a 4 jogadores",
@@ -1953,7 +1953,7 @@
   },
   {
     "title": "Catan: O Jogo",
-    "middlePrice": "R$ 351,11",
+    "price": "R$ 351,11",
     "image": "catan__o_jogo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-the-settlers-of-catan",
     "players": "3 a 4 jogadores",
@@ -1999,7 +1999,7 @@
   },
   {
     "title": "Stone Age",
-    "middlePrice": "R$ 480,43",
+    "price": "R$ 480,43",
     "image": "stone_age_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/stone-age",
     "players": "2 a 4 jogadores",
@@ -2045,7 +2045,7 @@
   },
   {
     "title": "Fresco",
-    "middlePrice": "R$ 347,75",
+    "price": "R$ 347,75",
     "image": "fresco_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/fresco",
     "players": "2 a 4 jogadores",
@@ -2091,7 +2091,7 @@
   },
   {
     "title": "Catan: O Jogo - Cidades e Cavaleiros",
-    "middlePrice": "R$ 315,78",
+    "price": "R$ 315,78",
     "image": "catan__o_jogo___cidades_e_cavaleiros_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/catan-cities-knights",
     "players": "3 a 4 jogadores",
@@ -2134,7 +2134,7 @@
   },
   {
     "title": "King of Monster Island",
-    "middlePrice": "R$ 551,07",
+    "price": "R$ 551,07",
     "image": "king_of_monster_island_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/king-of-monster-island",
     "players": "1 a 5 jogadores",
@@ -2169,7 +2169,7 @@
   },
   {
     "title": "Alhambra: Edição Revisada",
-    "middlePrice": "R$ 281,84",
+    "price": "R$ 281,84",
     "image": "alhambra__edi__o_revisada_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/alhambra-designers-edition-alhambra-revised-edition",
     "players": "2 a 6 jogadores",
@@ -2203,7 +2203,7 @@
   },
   {
     "title": "Paleo",
-    "middlePrice": "R$ 435,68",
+    "price": "R$ 435,68",
     "image": "paleo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/paleo",
     "players": "1 a 4 jogadores",
@@ -2246,7 +2246,7 @@
   },
   {
     "title": "3 Ring Circus",
-    "middlePrice": "R$ 353,04",
+    "price": "R$ 353,04",
     "image": "3_ring_circus_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/3-ring-circus",
     "players": "1 a 4 jogadores",
@@ -2284,7 +2284,7 @@
   },
   {
     "title": "Dungeon Petz",
-    "middlePrice": "R$ 471,23",
+    "price": "R$ 471,23",
     "image": "dungeon_petz_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeon-petz",
     "players": "2 a 4 jogadores",
@@ -2328,7 +2328,7 @@
   },
   {
     "title": "Holi: O Festival das Cores",
-    "middlePrice": "R$ 406,54",
+    "price": "R$ 406,54",
     "image": "holi__o_festival_das_cores_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/holi-festival-of-colors",
     "players": "2 a 4 jogadores",
@@ -2365,7 +2365,7 @@
   },
   {
     "title": "Galaxy Trucker",
-    "middlePrice": "R$ 322,35",
+    "price": "R$ 322,35",
     "image": "galaxy_trucker_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/galaxy-trucker",
     "players": "2 a 4 jogadores",
@@ -2408,7 +2408,7 @@
   },
   {
     "title": "Alquimistas",
-    "middlePrice": "R$ 474,33",
+    "price": "R$ 474,33",
     "image": "alquimistas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/alchemists",
     "players": "2 a 4 jogadores",
@@ -2457,7 +2457,7 @@
   },
   {
     "title": "Escape: A Maldição do Templo",
-    "middlePrice": "R$ 408,16",
+    "price": "R$ 408,16",
     "image": "escape__a_maldi__o_do_templo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/escape-the-curse-of-the-temple",
     "players": "1 a 5 jogadores",
@@ -2503,10 +2503,7 @@
   },
   {
     "title": "Lacrimosa",
-    "price": "R$ 639,00",
-    "promotionPrice": "R$ 449,99",
-    "superPromotion": true,
-    "middlePrice": "R$ 501,01",
+    "price": "R$ 501,01",
     "image": "lacrimosa_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/lacrimosa",
     "players": "1 a 4 jogadores",
@@ -2523,17 +2520,11 @@
       "lacrimosa_5.jpg",
       "lacrimosa_6.jpg"
     ],
-    "skillsDeveloped": "Planejamento estratégico, pensamento crítico",
     "description": "Wolfgang Amadeus Mozart está morto. Sua última ação consciente em seu leito de morte foi compor o movimento Lacrimosa de seu Opus Requiem. Você, como um de seus patrocinadores, se reunirá com a viúva para participar pela última vez do financiamento das obras do gênio austríaco. Além disso, você relembrará e recontará todas as suas memórias ao lado de Mozart, para garantir que ela o retrate sob a melhor luz ao escrever suas memórias e entrar na história como o patrono mais importante de Mozart.\n\nEm Lacrimosa os músicos assumirão o papel de patronos do falecido músico, contribuindo com seus fundos para as obras do compositor uma última vez. Durante o jogo, você jogará em duas linhas de tempo diferentes: o presente e o passado. No presente você encomenda as partes que faltam do Requiem de outros compositores para completá-lo. Ao desenvolver eventos passados, o jogo será jogado em cinco épocas nas quais você contribuirá comprando novas composições do compositor para vender ou exibir, acompanhá-lo nas diferentes jornadas pelas principais quadras e teatros da Europa e reunir os recursos necessários para apoiar o músico durante sua carreira.\n\nDurante o jogo, você estará jogando cartas de uma mão limitada que você melhorará à medida que o jogo avança. Essas cartas podem ser jogadas como ações ou como geradores de recursos e os jogadores precisarão otimizar seus recursos e finanças para sustentar nossa melhor versão da história e nosso relacionamento com Mozart.",
     "paragraphs": [
       "Wolfgang Amadeus Mozart está morto. Sua última ação consciente em seu leito de morte foi compor o movimento Lacrimosa de seu Opus Requiem. Você, como um de seus patrocinadores, se reunirá com a viúva para participar pela última vez do financiamento das obras do gênio austríaco. Além disso, você relembrará e recontará todas as suas memórias ao lado de Mozart, para garantir que ela o retrate sob a melhor luz ao escrever suas memórias e entrar na história como o patrono mais importante de Mozart.",
       "Em Lacrimosa os músicos assumirão o papel de patronos do falecido músico, contribuindo com seus fundos para as obras do compositor uma última vez. Durante o jogo, você jogará em duas linhas de tempo diferentes: o presente e o passado. No presente você encomenda as partes que faltam do Requiem de outros compositores para completá-lo. Ao desenvolver eventos passados, o jogo será jogado em cinco épocas nas quais você contribuirá comprando novas composições do compositor para vender ou exibir, acompanhá-lo nas diferentes jornadas pelas principais quadras e teatros da Europa e reunir os recursos necessários para apoiar o músico durante sua carreira.",
       "Durante o jogo, você estará jogando cartas de uma mão limitada que você melhorará à medida que o jogo avança. Essas cartas podem ser jogadas como ações ou como geradores de recursos e os jogadores precisarão otimizar seus recursos e finanças para sustentar nossa melhor versão da história e nosso relacionamento com Mozart."
-    ],
-    "tags": [
-      "Estratégia",
-      "Histórico",
-      "Música"
     ],
     "components": "1 tabuleiro principal\n4 indicadores de pontuação +50/+100\n10 moedas de cinco ducados\n20 moedas de um ducado\n45 contadores de pontos de narrativa\n- 15 contadores de talento de Mozart\n- 15 contadores de viagem\n- 15 contadores de composição\n48 peças de jogador (12 por jogador)\n- 7 marcadores de Requiem\n- 3 marcadores de narrativa\n- 1 marcador de financiamento\n- 1 escudo de pontuação\n4 resumos de regras do jogo\n4 tabuleiros pessoais\n5 cartas de Constanze\n10 contadores de Constanze\n34 cartas de memórias\n46 cartas de opus\n15 fichas de bonificação de período (3 para cada um dos 5 períodos)\n16 fichas de corte real\n11 cartas de Solista para o módulo solitário\n1 grande marcador vermelho das viagens de Mozart\n4 fichas de retrato do compositor\n1 marcador de jogador inicial\n4 marcadores de Requiem neutros (brancos)\n15 fichas de cidade\n40 cartas iniciais (10 × 4 jogadores)\n60 fichas de compositor\n- Eybler x16\n- Stadler x15\n- Süßmayr x16\n- Freystadler x13",
     "downloadLinks": [
@@ -2550,7 +2541,7 @@
   },
   {
     "title": "Carcassonne",
-    "middlePrice": "R$ 247,25",
+    "price": "R$ 247,25",
     "image": "carcassonne_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/carcassonne",
     "players": "2 a 5 jogadores",

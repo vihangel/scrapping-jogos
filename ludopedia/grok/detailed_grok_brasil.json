@@ -1,7 +1,7 @@
 [
   {
     "title": "CuBirds",
-    "middlePrice": "R$ 119,05",
+    "price": "R$ 119,05",
     "image": "cubirds_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cubirds",
     "players": "2 a 5 jogadores",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Arquimedes",
-    "middlePrice": "R$ 67,50",
+    "price": "R$ 67,50",
     "image": "arquimedes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/arquimedes",
     "players": "2 a 5 jogadores",
@@ -79,7 +79,7 @@
   },
   {
     "title": "Fazendinha",
-    "middlePrice": "R$ 69,35",
+    "price": "R$ 69,35",
     "image": "fazendinha_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/farmini",
     "players": "1 a 4 jogadores",
@@ -112,7 +112,7 @@
   },
   {
     "title": "Fuga do Zoo",
-    "middlePrice": "R$ 95,68",
+    "price": "R$ 95,68",
     "image": "fuga_do_zoo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/zoo-run",
     "players": "1 a 5 jogadores",
@@ -148,7 +148,7 @@
   },
   {
     "title": "Astronautas",
-    "middlePrice": "R$ 96,01",
+    "price": "R$ 96,01",
     "image": "astronautas_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/astronautas",
     "players": "2 a 5 jogadores",
@@ -185,7 +185,7 @@
   },
   {
     "title": "Achô!",
-    "middlePrice": "R$ 69,54",
+    "price": "R$ 69,54",
     "image": "ach___cover.jpg",
     "link": "https://ludopedia.com.br/jogo/acho",
     "players": "2 a 6 jogadores",
@@ -218,7 +218,7 @@
   },
   {
     "title": "Fora de Ordem",
-    "middlePrice": "R$ 143,79",
+    "price": "R$ 143,79",
     "image": "fora_de_ordem_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/fora-de-ordem",
     "players": "2 a 6 jogadores",
@@ -254,7 +254,7 @@
   },
   {
     "title": "Cartógrafos",
-    "middlePrice": "R$ 240,12",
+    "price": "R$ 240,12",
     "image": "cart_grafos_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cartographers-a-roll-player-tale",
     "players": "1 a 100 jogadores",
@@ -303,7 +303,7 @@
   },
   {
     "title": "Kuala",
-    "middlePrice": "R$ 122,12",
+    "price": "R$ 122,12",
     "image": "kuala_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/the-crusoe-crew",
     "players": "1 a 4 jogadores",
@@ -340,7 +340,7 @@
   },
   {
     "title": "Elementar: Morte em 4 de Julho",
-    "middlePrice": "R$ 55,46",
+    "price": "R$ 55,46",
     "image": "elementar__morte_em_4_de_julho_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/q-death-on-4th-of-july",
     "players": "1 a 8 jogadores",
@@ -378,7 +378,7 @@
   },
   {
     "title": "Dungeon Drop",
-    "middlePrice": "R$ 105,14",
+    "price": "R$ 105,14",
     "image": "dungeon_drop_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/dungeon-drop",
     "players": "1 a 4 jogadores",
@@ -418,7 +418,7 @@
   },
   {
     "title": "Quatro Casos de Sherlock Holmes",
-    "middlePrice": "R$ 47,77",
+    "price": "R$ 47,77",
     "image": "quatro_casos_de_sherlock_holmes_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/graphic-novel-adventures-sherlock-holmes-four-investigations",
     "players": "1 jogadores",
@@ -453,7 +453,7 @@
   },
   {
     "title": "Paris",
-    "middlePrice": "R$ 304,60",
+    "price": "R$ 304,60",
     "image": "paris_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/paris",
     "players": "2 a 4 jogadores",
@@ -492,7 +492,7 @@
   },
   {
     "title": "Dino Fun",
-    "middlePrice": "R$ 120,95",
+    "price": "R$ 120,95",
     "image": "dino_fun_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/my-funny-dinos",
     "players": "2 a 4 jogadores",
@@ -520,7 +520,7 @@
   },
   {
     "title": "Escape Tales: Memória Baixa",
-    "middlePrice": "R$ 146,58",
+    "price": "R$ 146,58",
     "image": "escape_tales__mem_ria_baixa_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/escape-tales-memoria-baixa",
     "players": "1 a 4 jogadores",
@@ -561,7 +561,7 @@
   },
   {
     "title": "Blue Lagoon",
-    "middlePrice": "R$ 212,74",
+    "price": "R$ 212,74",
     "image": "blue_lagoon_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/blue-lagoon",
     "players": "2 a 4 jogadores",
@@ -600,7 +600,7 @@
   },
   {
     "title": "Anachrony",
-    "middlePrice": "R$ 516,78",
+    "price": "R$ 516,78",
     "image": "anachrony_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/anachrony",
     "players": "1 a 4 jogadores",
@@ -647,7 +647,7 @@
   },
   {
     "title": "Shakespeare: Sonhos de um Bardo",
-    "middlePrice": "R$ 109,17",
+    "price": "R$ 109,17",
     "image": "shakespeare__sonhos_de_um_bardo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/shakespeare-sonhos-de-um-bardo",
     "players": "2 a 5 jogadores",
@@ -681,7 +681,7 @@
   },
   {
     "title": "Similo: Animais",
-    "middlePrice": "R$ 50,33",
+    "price": "R$ 50,33",
     "image": "similo__animais_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/similo-animals",
     "players": "2 a 8 jogadores",
@@ -708,7 +708,7 @@
   },
   {
     "title": "Cartógrafos Map Pack",
-    "middlePrice": "R$ 151,62",
+    "price": "R$ 151,62",
     "image": "cart_grafos_map_pack_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/cartographers-packs-de-parchemins",
     "players": "1 a 99 jogadores",
@@ -743,7 +743,7 @@
   },
   {
     "title": "Paris: l'Étoile",
-    "middlePrice": "R$ 71,62",
+    "price": "R$ 71,62",
     "image": "paris__l__toile_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/paris-l-etoile",
     "players": "2 a 4 jogadores",
@@ -776,7 +776,7 @@
   },
   {
     "title": "É Top!?: Natureza",
-    "middlePrice": "R$ 61,04",
+    "price": "R$ 61,04",
     "image": "__top____natureza_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/e-top-natureza",
     "players": "2 a 10 jogadores",
@@ -807,7 +807,7 @@
   },
   {
     "title": "Sugar Gliders",
-    "middlePrice": "R$ 127,02",
+    "price": "R$ 127,02",
     "image": "sugar_gliders_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/sugar-gliders",
     "players": "2 a 4 jogadores",
@@ -842,7 +842,7 @@
   },
   {
     "title": "Divicity",
-    "middlePrice": "R$ 70,60",
+    "price": "R$ 70,60",
     "image": "divicity_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/divicity",
     "players": "3 a 6 jogadores",
@@ -874,7 +874,7 @@
   },
   {
     "title": "Papayoo",
-    "middlePrice": "R$ 73,57",
+    "price": "R$ 73,57",
     "image": "papayoo_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/papayoo",
     "players": "3 a 8 jogadores",
@@ -910,7 +910,7 @@
   },
   {
     "title": "Isso é meu!",
-    "middlePrice": "R$ 119,93",
+    "price": "R$ 117,06",
     "image": "isso___meu__cover.jpg",
     "link": "https://ludopedia.com.br/jogo/isso-e-meu",
     "players": "2 a 4 jogadores",
@@ -946,7 +946,7 @@
   },
   {
     "title": "Similo: Harry Potter",
-    "middlePrice": "R$ 60,18",
+    "price": "R$ 60,18",
     "image": "similo__harry_potter_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/similo-harry-potter",
     "players": "2 a 8 jogadores",
@@ -980,7 +980,7 @@
   },
   {
     "title": "Similo: O Senhor dos Anéis",
-    "middlePrice": "R$ 59,96",
+    "price": "R$ 59,96",
     "image": "similo__o_senhor_dos_an_is_cover.jpg",
     "link": "https://ludopedia.com.br/jogo/similo-the-lord-of-the-rings",
     "players": "2 a 8 jogadores",
